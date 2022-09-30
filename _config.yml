@@ -1,0 +1,79 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Me3 Comedy - All Our Podcasts
+email: meThreeComedy@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Our website to host some rss feeds.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: meThreeComedy
+# github_username:  n/a
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - audioinfo
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+collections:
+  - seasons
+
+feed:
+  collections:
+    - seasons
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "seasons" # a collection in your site, in plural form
+    values:
+      podcast_url: /feed/seasons.xml
+      podcast_album_art: /assets/Seasons_Podcast_Art.png
+      podcast_title: Seasons
+      podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
+      podcast_email: meThreeComedy@gmail.com
+      podcast_category: "TV & Film"
+      podcast_explicit: "yes"
+      podcast_author: MeThreeComedy
+      podcast_description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
+      podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
+      podcast_subtitle: Debating the miniature film festivals they'll never get to do.
