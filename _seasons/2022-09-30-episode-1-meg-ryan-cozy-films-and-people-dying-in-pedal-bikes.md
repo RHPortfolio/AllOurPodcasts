@@ -8,16 +8,4 @@ podcast_link: https://archive.org/download/seasons-1-2022-09-30/Seasons-1-2022-0
 audio_filesize: 106005236
 
 ---
-[Listen to this episode][link: https://archive.org/download/seasons-1-2022-09-30/Seasons-1-2022-09-30.mp3]
-If you like us, follow our work in general at the usual places:
-
-YouTube http://www.youtube.com/user/Me3Comedy
-Facebook https://www.facebook.com/Me3Comedy
-Twitter https://twitter.com/Me3_Comedy
-
-Listen and Subscribe to the GBBO Podcast
-RSS http://feeds.feedburner.com/Me3_Seasons
-
-E-mail methreecomedy at gmail.com
-
-Please like, share, comment, subscribe and most importantly of all, have a lovely day!
+What are we doing? From podcast to published in 24 hours, the Me3 gang return to podcasts with a new format - our mini film festival ideas. 
