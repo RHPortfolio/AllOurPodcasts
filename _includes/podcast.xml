@@ -36,10 +36,10 @@
         <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
     </image>
     <itunes:category text="{{ include.podcast.podcast_category | xml_escape }}">
-        {% if include.podcaast.podcast_subcategory_one %}
+        {% if include.podcast.podcast_subcategory_one %}
           <itunes:category text="{{ include.podcast.podcast_subcategory_one | xml_escape }}" />
         {% endif %}
-        {% if include.podcaast.podcast_subcategory_two %}
+        {% if include.podcast.podcast_subcategory_two %}
           <itunes:category text="{{ include.podcast.podcast_subcategory_two | xml_escape }}" />
         {% endif %}
     </itunes:category>
