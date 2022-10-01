@@ -11,8 +11,8 @@
 >
 <!-- Thanks to https://github.com/andybalaam/Jekyll-Podcast-Feed for method-->
 <channel>
-    <title>{{ include.include.podcast.podcast_title | xml_escape }}</title>
-    <atom:link href="{{ include.podcast.podcast_url | xml_escape }}/podcast-{{ include.ext | xml_escape }}.xml" rel="self" type="application/rss+xml" />
+    <title>{{ include.podcast.podcast_title | xml_escape }}</title>
+    <atom:link href="{{ include.podcast.podcast_url | xml_escape }}" rel="self" type="application/rss+xml" />
     <link>{{ include.podcast.podcast_url | xml_escape }}</link>
     <description>{{ include.podcast.podcast_description | xml_escape }}</description>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
@@ -64,7 +64,7 @@
         <content:encoded>
             <![CDATA[{{ ep.content | expand_urls: include.podcast.podcast_url | cdata_escape }}]]>
         </content:encoded>
-        <enclosure url="{{ include.podcast.podcast_url }}{{ ep.podcast_link }}.{{ include.ext }}" length="{{ ep.podcast_length | default=100 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
+        <enclosure url="{{ include.podcast.podcast_url }}{{ ep.podcast_link }}.{{ include.ext }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
         <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | truncatewords: 50 | expand_urls: site.podcast_url | cdata_escape }}]]></itunes:subtitle>
         <itunes:summary><![CDATA[{{ ep.content | expand_urls: site.podcast_url | cdata_escape }}]]></itunes:summary>
         <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>

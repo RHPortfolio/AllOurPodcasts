@@ -5,6 +5,7 @@ date:   2022-09-30 21:34:58 +0100
 categories: podcast seasons
 link: https://archive.org/download/seasons-1-2022-09-30/Seasons-1-2022-09-30.mp3
 podcast_link: https://archive.org/download/seasons-1-2022-09-30/Seasons-1-2022-09-30.mp3
+audio_filesize: 106005236
 
 ---
 [Listen to this episode][link: https://archive.org/download/seasons-1-2022-09-30/Seasons-1-2022-09-30.mp3]
