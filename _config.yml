@@ -23,7 +23,7 @@ email: meThreeComedy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Our website to host some rss feeds.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://me3comedy.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.me3comedy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: meThreeComedy
 # github_username:  n/a
 
