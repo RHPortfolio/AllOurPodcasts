@@ -10,3 +10,22 @@
   podcast_description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
   podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
   podcast_subtitle: Debating the miniature film festivals they'll never get to do.
+  category: "TV & Film"
+  tags:
+    - "Film Festivals"
+    - "Improv"
+    - "Subjective Opinions"
+    - "Nonsense"
+  itunes_url: "#itunes"
+
+- title: "It Disney Matter (It Does)"
+  podcast_url: /feed/disney.xml
+  podcast_album_art: /assets/It-Disney-Matter.jpeg
+  itunes_url: "#itunes"
+  category: "TV & Film"
+
+- title: "Great British Bitch Off"
+  podcast_url: /feed/gbbo.xml
+  podcast_album_art: /assets/GBBO-Podcast.jpeg
+  itunes_url: "#itunes"
+  category: "TV & Film"

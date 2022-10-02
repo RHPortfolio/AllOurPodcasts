@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <main id="page-container">
+    {% for podcast in site.data.podcasts %}
+    <a href="/podcasts/{{podcast.podcast_title | downcase }}">
+      <img class="home-podcast-art" src="{{podcast.podcast_album_art}}" alt="{{podcast.title}}" />
+    </a>
+    {% endfor %}
+  </main>
+
+</div>

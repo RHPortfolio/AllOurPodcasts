@@ -1,0 +1,26 @@
+<div>
+  <img src={{}}  />
+  <div id="{{ include.info }}">
+    <h2>{{ include.podcast_title }}</h2>
+    <h3>{{ include.podcast_subtitle }}</h3>
+    <ul>
+        {% for category in include.post_category %}
+          <li>{{category}}</li>
+        {% endfor %}
+    </ul>
+    <p>{{ include.podcast_description }}</p>
+    <ul>
+      <li>itunes</li>
+      <li>rss</li>
+      <li>
+        <div>
+          Share
+          <a href="">facebook</a>
+            <a href="">twitter</a>
+              <a href="">email</a>
+          </div>
+        </li>
+    </ul>
+  </div>
+</div>
+<hr />
