@@ -1,4 +1,5 @@
 - title: "Seasons"
+  page_url: /podcasts/seasons
   podcast_url: /feed/seasons.xml
   podcast_album_art: /assets/Seasons_Podcast_Art.png
   podcast_title: Seasons
@@ -17,15 +18,20 @@
     - "Subjective Opinions"
     - "Nonsense"
   itunes_url: "#itunes"
+  tweet:
 
 - title: "It Disney Matter (It Does)"
+  page_url: /podcasts/it-disney-matter
   podcast_url: /feed/disney.xml
   podcast_album_art: /assets/It-Disney-Matter.jpeg
   itunes_url: "#itunes"
   category: "TV & Film"
+  tweet:
 
 - title: "Great British Bitch Off"
+  page_url: /podcasts/great-british-bitch-off
   podcast_url: /feed/gbbo.xml
   podcast_album_art: /assets/GBBO-Podcast.jpeg
   itunes_url: "#itunes"
   category: "TV & Film"
+  tweet: "770929865797369856"

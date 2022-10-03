@@ -60,7 +60,8 @@ header #header-links li {
 }
 
 #logo {
-  width: 6vh;
+  width: 10vh;
+    margin-left: -1vh;
 }
 
 .wrapper{
