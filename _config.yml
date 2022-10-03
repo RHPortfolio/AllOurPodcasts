@@ -53,7 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+exclude:
+  - "/assets/"
+  
 collections:
   - seasons
 
