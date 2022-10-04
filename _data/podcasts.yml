@@ -1,7 +1,7 @@
 - title: "Seasons"
   id: "seasons"
   page_url: /podcasts/seasons
-  podcast_url: /feed/seasons.xml
+  podcast_url: /seasons.xml
   podcast_album_art: /assets/Seasons_Podcast_Art.png
   podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
   podcast_email: meThreeComedy@gmail.com
@@ -24,7 +24,7 @@
   podcast_title: "It Disney Matter (It Does)"
   id: "disney"
   page_url: /podcasts/it-disney-matter
-  podcast_url: /feed/disney.xml
+  podcast_url: /disney.xml
   podcast_album_art: /assets/It-Disney-Matter.jpeg
   itunes_url: "https://podcasts.apple.com/gb/podcast/it-disney-matter-it-does-with-me3-comedy/id1043323566"
   description: "Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in order - and then talk about it."
@@ -40,7 +40,7 @@
   podcast_title: "Great British Bitch Off"
   id: "gbbo"
   page_url: /podcasts/great-british-bitch-off
-  podcast_url: /feed/gbbo.xml
+  podcast_url: /gbbo.xml
   podcast_album_art: /assets/GBBO-Podcast.jpeg
   itunes_url: "https://podcasts.apple.com/gb/podcast/great-british-bitch-off-with-me3-comedy/id1043321466"
   description: "A weekly, short podcast about the BBC TV show 'Great British Bake Off' in which Me3 Comedy - Marianne MacRae and Richard Hanrahan - discuss the events of the nation's favourite televised amateur baking competition."
@@ -56,7 +56,7 @@
   podcast_title: "Me3 Comedy - All Podcasts"
   id: "me3"
   page_url: /podcasts/me-three
-  podcast_url: /feed/me3.xml
+  podcast_url: /me3.xml
   podcast_album_art: /assets/Me3_All-Our-Podcasts.png
   itunes_url: ""
   description: "All of our podcasts consolidated into a single feed"
