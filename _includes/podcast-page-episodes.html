@@ -1,0 +1,5 @@
+<div id="episode-collection">
+  {% for episode in include.episodes %}
+    {% include podcast-page-episode.html episode=episode %}
+  {% endfor %}
+</div>

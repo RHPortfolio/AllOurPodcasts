@@ -1,0 +1,9 @@
+<ul class="tags">
+  <li class="category main">{{ include.podcast.category}}</li>
+  {% for category in include.podcast.categories %}
+    <li class="tag main">{{ category }}</li>
+  {% endfor %}
+  {% for tag in include.podcast.tags %}
+    <li class="tag">{{ tag }}</li>
+  {% endfor %}
+</ul>

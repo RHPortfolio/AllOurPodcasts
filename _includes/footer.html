@@ -1,5 +1,15 @@
 <footer>
-  <a href="mailto:{{site.email}}?subject=podcast">Email</a>
-  {{site.description}}
-  <a href="https://twitter.com/{{site.twitter_username}}"><img src="" /></a>
+  <ul>
+    <h4>Podcasts</h4>
+    {% for podcast in site.data.podcasts %}
+      <li><a href="{{podcast.page_url}}">{{podcast.title}}</a></li>
+    {% endfor %}
+  </ul>
+
+  <ul>
+    <h4>Find us</h4>
+    {% for social in site.data.socials %}
+      <li><a href={{social.url}}>{{social.what}}</a></li>
+    {% endfor %}
+  </ul>
 </footer>

@@ -1,0 +1,30 @@
+<article class="podcast-header">
+
+  <div class="podcast-main">
+
+    <a href="{{site.url}}{{include.podcast.page_url}}">
+    <img class="podcast-art" src="{{include.podcast.podcast_album_art}}" alt="{{include.podcast.title}}" /></a>
+
+    <div class="info-container">
+      <div class="info">
+        <h1>{{include.podcast.title | default: "Podcast Title"}}</h1>
+
+
+        {% include tags-stream.html podcast=include.podcast %}
+
+        <p>{{include.podcast.description}}<br /><a href="{{site.url}}{{include.podcast.page_url}}">link</a></p>
+      </div>
+
+    </div>
+  </div>
+  <div class="footer">
+    {% include podcasts-item-subscribe-row.html podcast=_podcast %}
+    {% include podcasts-item-footer.html podcast=_podcast %}
+  </div>
+
+  <div class="podcast-player">
+    <h2>Listen to the Latest Episode</h2>
+  {% include audio-player.html src=include.latest_episode_link %}
+  </div>
+
+</article>

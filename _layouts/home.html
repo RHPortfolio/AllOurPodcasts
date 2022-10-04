@@ -6,9 +6,14 @@ layout: default
 
   <main id="page-container">
     {% for podcast in site.data.podcasts %}
-    <a href="/podcasts/{{podcast.podcast_title | downcase }}">
+    <div class="podcast">
+      <a href="{{podcast.page_url}}">
       <img class="home-podcast-art" src="{{podcast.podcast_album_art}}" alt="{{podcast.title}}" />
     </a>
+    <p>
+      <a href="{{podcast.podcast_url}}">RSS</a> | <a href="{{podcast.itunes_url}}">iTunes</a>
+      </p>
+      </div>
     {% endfor %}
   </main>
 

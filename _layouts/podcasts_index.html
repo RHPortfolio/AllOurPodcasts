@@ -6,36 +6,10 @@ layout: default
 
 
     {% for podcast in site.data.podcasts %}
-    <div class="podcast">
-      <article>
-        <a href="{{site.url}}{{podcast.page_url}}"><img class="podcast-art" src="{{podcast.podcast_album_art}}" alt="{{podcast.title}}" /></a>
-        <div class="info-container">
-          <div class="info">
-            <a href="{{site.url}}{{podcast.page_url}}"><h2>{{podcast.title}}</h2></a>
-            <ul class="tags">
-              <li class="category main">{{ podcast.category}}</li>
-              {% for tag in podcast.tags %}
-                <li class="tag">{{ tag }}</li>
-              {% endfor %}
-            </ul>
-            <p>{{podcast.podcast_description}}</p>
-          </div>
 
 
-          <div class="footer">
-            <p>Subscribe: <a href="{{site.url}}{{podcast.podcast_url}}">RSS</a> | <a href="{{site.url}}{{podcast.itunes_url}}">iTunes</a> </p>
-            <p><a href="{{site.url}}{{podcast.page_url}}">Listen</a></p>
-            <p>Share:
-              <a href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}">facebook</a> |
-              <a href="https://twitter.com/share?text=You+should+Listen+to+{{podcast.title}},+trust+me!&url={{site.url}}{{podcast.page_url}}&hashtags=podcast&related=Me3Comedy">twitter</a> |
-              <a href="mailto:">email</a>
-            </p>
-          </div>
-        </div>
+      {% include podcasts-item.html podcast=podcast %}
 
-
-      </article>
-    </div>
     <!-- <a href="/podcasts/{{podcast.podcast_title | downcase }}"> -->
 
     <!-- </a> -->

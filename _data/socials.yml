@@ -1,0 +1,11 @@
+- what: facebook
+  url: "https://facebook.com/Me3_Comedy"
+  logo: ""
+
+- what: twitter
+  url: "https://twitter.com/Me3_Comedy"
+  logo: ""
+
+- what: email
+  url: "mailto:meThreeComedy@gmail.com?subject=podcast"
+  logo: ""

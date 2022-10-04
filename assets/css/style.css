@@ -86,28 +86,73 @@ header #header-links li {
   }
 }
 
-.home-podcast-art {
-  margin: 0 auto;
-  width: 20vw;
-  border: 2vw white solid;
+.home .podcast {
+  background: white;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 3vh;
   margin-right: 2vw;
-
+  padding: 2vh;
+  flex: 19%;
+  max-width: 25%;
 }
 
 @media screen and (max-width: 480px) {
-  .home-podcast-art {
-    width: 80vw !important;
-    margin-bottom: 2vw;
-    margin-right: 0 !important;
+  .home .podcast {
+    flex: 100% !important;
+      max-width: 100% !important;
+      margin-right: 0 !important;
   }
+}
+
+
+.home #page-container {
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.home .podcast p{
+  margin: 2vh 0 0 0;
+  color: black;
+}
+
+.home .podcast a {
+  color: black;
+}
+
+.home-podcast-art {
+  margin: 0 auto;
+  width: 100%;
 }
 
 footer {
   position: relative;
+  display: flex;
   bottom: 0;
   padding: 2vh 5vw;
-  width: 100%;
   background: white;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+footer ul {
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: center;
+}
+
+footer ul h4 {
+  margin-bottom: 1vh;
+}
+
+footer ul li {
+  padding: 0.3vh;
 }
 
 /* PODCASTS INDEX PAGE */
@@ -115,21 +160,28 @@ footer {
 .podcasts-index .podcast {
   background: white;
   display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: nowrap;
     align-content: flex-start;
     margin-bottom: 3vh;
 }
 
-.podcasts-index .podcast article {
+.podcasts-index .podcast {
   display: flex;
   padding: 2vh;
 }
-.podcasts-index .podcast article .podcast-art {
+
+@media screen and (max-width: 480px) {
+  .podcasts-index .podcast {
+    padding: 3vh 3vw !important;
+  }
+}
+
+.podcasts-index .podcast .podcast-art {
   width: 20vw
 }
 
-.podcasts-index .podcast article .info-container{
+.podcasts-index .podcast .info-container{
   margin-left: 2vh;
   width: 100%;
     display: flex;
@@ -137,34 +189,58 @@ footer {
     justify-content: space-between;
 }
 
-.podcasts-index .podcast article .info-container .tags {
+.podcasts-index .podcast .info-container .tags {
   display: flex;
+  flex-wrap: wrap;
   margin-bottom: 1vh;
 }
 
-.podcasts-index .podcast article .info-container h2 {
-  font-size: 3rem;
+.podcasts-index .podcast .info-container h2 {
+  font-size: 2.4rem;
+  color: black;
 }
 
 .category, .tag {
   background-color: black;
   color: white;
   margin-right: 0.7vw;
-  padding: 0.2vw;
+  margin-bottom: 0.7vw;
+  padding: 0.4vw;
+}
+
+@media screen and (max-width: 480px) {
+  .category, .tag {
+    margin-right: 1vw;
+    margin-right: 1vw;
+    margin-bottom: 1vw;
+    padding: 1vw;
+  }
 }
 
 .main {
-  background: red !important;
+  background: orange !important;
 }
 
-.podcasts-index .podcast article .info-container p {
+.podcasts-index .podcast .info-container p {
   font-size: 1.2rem;
   line-height: 1.4rem;
   margin-right: 1vw;
 }
-.podcasts-index .podcast article .info-container .footer {
+
+.podcasts-index .podcast .info-container .info > * {
+  margin-bottom: 1vh;
+}
+
+.podcasts-index .podcast .info-container .footer {
   display: flex;
   align-self: flex-end;
+}
+
+@media screen and (max-width: 480px) {
+  .podcasts-index .podcast .info-container .footer {
+    flex-direction: column;
+    margin-top: 1vh;
+  }
 }
 
 .social-icon-small {
@@ -172,4 +248,157 @@ footer {
   margin: 0 0.4em;
 }
 
-</div>
+
+
+/* PODCAST PAGE */
+.podcast-page {
+  display: flex;
+  flex-direction: column
+}
+
+.podcast-page .podcast-header {
+  display: flex;
+  flex-direction: column;
+  /* padding: 2vh; */
+}
+
+.podcast-header audio {
+width: 100%;
+margin: 2vh 0;
+}
+
+.podcast-page .podcast-main {
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+  padding: 2vh;
+}
+
+.podcast-header .podcast-art{
+  width: 40vh;
+}
+
+@media screen and (max-width: 480px) {
+
+  .podcast-page .podcast-main {
+    flex-direction: column !important;
+  }
+  .podcast-header .podcast-art{
+    width: 100%;
+  }
+  .podcast-header .footer {
+    flex-direction: column;
+  }
+  .podcast-header .footer > * {
+    margin-bottom: 1vh;
+  }
+
+}
+
+
+
+.podcast-header .info-container{
+  display: flex;
+  flex-direction: column;
+  padding-left: 2vh;
+  font-size: 1.2rem;
+  line-height: 1.4rem;
+  margin-right: 1vw;
+}
+
+.podcast-header .info-container h1 {
+  font-size: 3rem;
+  margin: 1vh 0 0;
+  line-height: 3.1rem;
+}
+
+.podcast-header .info {}
+.podcast-header .info .tags {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.podcast-header .category, .podcast-header .tag {
+  margin-bottom: 0.7vh;
+}
+
+.podcast-header .footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 2vh;
+  flex-wrap: wrap;
+  font-size: 1.4rem;
+  background-color: black;
+  color: white;
+}
+
+.podcast-header .podcast-player {
+  padding: 2vh;
+  background-color: white;
+}
+
+.podcast-header .footer > * { margin-right: 2vw;}
+
+
+hr {
+  background-color: orange;
+    border: 2pt solid orange;
+    width: 90%;
+}
+
+/*  Podcast Page Episode */
+
+.podcast-episode{
+  display: flex;
+    flex-direction: column;
+    margin: 2vh 0;
+    padding: 2vh;
+}
+
+.podcast-episode .header {
+  display: flex;
+    flex-direction: column;
+}
+.podcast-episode:nth-child(even){
+  background-color: white
+}
+.podcast-episode:nth-child(odd){
+  background-color: grey
+}
+
+.podcast-episode .podcast-art{
+  width: 10vw;
+  height: 100%;
+}
+.podcast-episode audio {
+  width: 60%;
+}
+.podcast-episode .info-container{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  font-size: 1.2rem;
+  line-height: 1.4;
+  margin-right: 1vw;
+}
+
+.podcast-episode .info {
+  padding-left: 2vh;
+}
+
+.podcast-episode .header h2 {
+  align-self: flex-start;
+  font-size: 1.2rem;
+    color: white;
+    background-color: black;
+    margin: 1vh 0 0;
+    line-height: 1.3;
+    padding: 1vw;
+    margin-bottom: 1vh;
+}
+.podcast-episode .info-container p {
+  font-size: 1rem;
+  margin: 1vh 0 0;
+  line-height: 1.1rem;
+}

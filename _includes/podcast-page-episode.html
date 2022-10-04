@@ -1,0 +1,27 @@
+<div class="podcast-episode">
+  <div class="header">
+    <p>Published: {{episode.date | date: "%a, %b %d, %Y"}}</p>
+
+    <h2>{{ episode.title }}</h2>
+
+    </div>
+
+  <div class="info-container">
+    {% if episode.image_url %}
+      <img class="podcast-art" src="{{episode.image_url}}" alt="{{episode.title}}" />
+    {% else %}
+      {% assign _podcast=site.data.podcasts | where: "id", page.id | first %}
+      <img class="podcast-art" src="{{_podcast.podcast_album_art}}" alt="{{episode.title}}" />
+    {% endif %}
+
+    <div class="info">
+      {% include audio-player.html src=episode.link %}
+
+
+      <p>
+
+      {{ episode.content }}
+    </p>
+      </div>
+  </div>
+</div>

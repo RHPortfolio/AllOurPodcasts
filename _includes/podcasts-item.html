@@ -1,0 +1,31 @@
+<article class="podcast">
+
+  <a class="desktop" href="{{site.url}}{{podcast.page_url}}"><img class="desktop podcast-art" src="{{podcast.podcast_album_art}}" alt="{{podcast.title}}" /></a>
+
+  <div class="info-container">
+    <div class="info">
+      <a href="{{site.url}}{{podcast.page_url}}">
+        <h2>{{podcast.title}}</h2>
+      </a>
+
+      {% include tags-stream.html podcast=podcast %}
+
+      <div class="subscribe-row">
+        {% include podcasts-item-subscribe-row.html podcast=podcast %}
+      </div>
+
+      <p>{{podcast.description}}</p>
+    </div>
+
+    <!-- {% assign _latest_ep=site[podcast.id] | map: "podcast_link" | reverse | first %} -->
+    <div class="listen-link-row">
+      {% include podcasts-item-listen-link-row.html link=podcast.page_url %}
+    </div>
+    <div class="footer">
+      {% include podcasts-item-footer.html podcast=podcast %}
+    </div>
+
+  </div>
+
+
+</article>

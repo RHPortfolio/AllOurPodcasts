@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="podcast-page">
+  {% if page.id == "me3" %}
+    {% assign _collection=site.seasons | concat: site.disney | concat: site.gbbo | sort: "date" | reverse %}
+  {% else %}
+    {% assign _collection=site[page.collection] | sort: "date" | reverse %}
+  {% endif %}
+  {% assign _latest_ep=_collection | first %}
+  {% assign _podcast=site.data.podcasts | where: "id", page.id | first %}
+  {% include podcast-page-header.html podcast=_podcast  latest_episode_link=_latest_ep.podcast_link %}
+
+  {% include podcast-page-episodes.html episodes=_collection %}
+
+</div>

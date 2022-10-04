@@ -56,10 +56,23 @@ plugins:
 
 collections:
   - seasons
+  - disney
+  - gbbo
+
+collections:
+  disney:
+    output: true
+  gbbo:
+    output: true
+  seasons:
+    output: true
 
 feed:
   collections:
     - seasons
+    - gbbo
+    - disney
+
 
 defaults:
   -
@@ -75,6 +88,38 @@ defaults:
       podcast_category: "TV & Film"
       podcast_explicit: "yes"
       podcast_author: MeThreeComedy
-      podcast_description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
+      description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
       podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
       podcast_subtitle: Debating the miniature film festivals they'll never get to do.
+  -
+    scope:
+      path: ""
+      type: "disney" # a collection in your site, in plural form
+    values:
+      podcast_url: /feed/disney.xml
+      podcast_album_art: /assets/It-Disney-Matter.png
+      podcast_title: It Disney Matter
+      podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
+      podcast_email: meThreeComedy@gmail.com
+      podcast_category: "TV & Film"
+      podcast_explicit: "yes"
+      podcast_author: MeThreeComedy
+      description: Exploring Disney films.
+      podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
+      podcast_subtitle: (It Does!)
+  -
+    scope:
+      path: ""
+      type: "gbbo" # a collection in your site, in plural form
+    values:
+      podcast_url: /feed/gbbo.xml
+      podcast_album_art: /assets/GBBO-Podcast.jpeg
+      podcast_title: Great British Bitch Off
+      podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
+      podcast_email: meThreeComedy@gmail.com
+      podcast_category: "TV & Film"
+      podcast_explicit: "yes"
+      podcast_author: MeThreeComedy
+      description: Exploring Disney films.
+      podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
+      podcast_subtitle: (It Does!)

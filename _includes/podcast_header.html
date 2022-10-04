@@ -1,6 +1,6 @@
-<div>
-  <img src={{}}  />
-  <div id="{{ include.info }}">
+<div class="podcast-page">
+  <img src={{}} class="podcast-header-logo" />
+  <div class="podcast-header-info">
     <h2>{{ include.podcast_title }}</h2>
     <h3>{{ include.podcast_subtitle }}</h3>
     <ul>
@@ -8,7 +8,7 @@
           <li>{{category}}</li>
         {% endfor %}
     </ul>
-    <p>{{ include.podcast_description }}</p>
+    <p>{{ include.description }}</p>
     <ul>
       <li>itunes</li>
       <li>rss</li>
