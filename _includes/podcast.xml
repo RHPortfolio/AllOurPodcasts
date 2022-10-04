@@ -14,7 +14,8 @@
     <title>{{ include.podcast.podcast_title | xml_escape }}</title>
     <atom:link href="{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}" rel="self" type="application/rss+xml" />
     <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
-    <description>{{ include.podcast.description | xml_escape }}</description>
+    <description>
+      <![CDATA[{{ ep.content | expand_urls: include.podcast.description | cdata_escape }}]]></description>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -52,14 +53,15 @@
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
     {% for category in ep.categories %}
-        <category>{{ category | cdata_escape }}</category>
+        <category><![CDATA[{{category | cdata_escape }}]]></category>
     {% endfor %}
     {% for category in ep.tags %}
-        <category>{{ category | cdata_escape }}</category>
+        <category><![CDATA[{{ category | cdata_escape }}]]></category>
     {% endfor %}
         <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">
-          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ ep.link | xml_escape }}{% endif %}</guid>
-        <description>{{ include.podcast.description }}{{ include.podcast.post_description }}</description>
+          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ ep.link | xml_escape }}{% endif %}
+        </guid>
+        <description><![CDATA[{{ include.podcast.description | cdata_escape }}]]><![CDATA[{{ include.podcast.post_description | cdata_escape }}]]></description>
         <content:encoded>
             <![CDATA[{{ ep.content | expand_urls: include.podcast.podcast_url | cdata_escape }}]]>
         </content:encoded>
