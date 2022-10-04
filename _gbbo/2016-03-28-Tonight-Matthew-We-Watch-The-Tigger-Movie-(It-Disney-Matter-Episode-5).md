@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Tonight Matthew, We Watch The Tigger Movie (It Disney Matter! Episode 5)"
-date:   2016-03-28 09:34:58 +0100
-categories: podcast disney
-link: https://archive.org/download/2016619006Me3IDMFindingDory2016/2016-6-19-006-Me3_IDM--FindingDory%282016%29.mp3
-podcast_link: https://archive.org/download/2016619006Me3IDMFindingDory2016/2016-6-19-006-Me3_IDM--FindingDory%282016%29.mp3
+title:  "Great British Bitch Off with Me3 Comedy Intro"
+date:   2015-08-05 13:49:55 +0100
+categories: podcast gbbo
+link: https://archive.org/download/2015805000Me3ComedyGBBOTeaser/2015-8-05-000-Me3_Comedy--GBBO-Teaser.mp3
+podcast_link: https://archive.org/download/2015805000Me3ComedyGBBOTeaser/2015-8-05-000-Me3_Comedy--GBBO-Teaser.mp3
 audio_filesize: 96677728
-audio_duration: "27:32"
+audio_duration: "02:24"
 
 ---
 
