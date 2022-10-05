@@ -2,7 +2,7 @@
   id: "seasons"
   page_url: /podcasts/seasons
   podcast_url: /seasons.xml
-  podcast_album_art: /assets/Seasons_Podcast_Art.png
+  podcast_album_art: /assets/2000x2000_Seasons_Podcast_Art.jpg
   podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
   podcast_email: meThreeComedy@gmail.com
   podcast_category: "TV & Film"
@@ -41,7 +41,7 @@
   id: "gbbo"
   page_url: /podcasts/great-british-bitch-off
   podcast_url: /gbbo.xml
-  podcast_album_art: /assets/GBBO-Podcast.jpeg
+  podcast_album_art: /assets/3000x3000_GBBO-Podcast.jpg
   itunes_url: "https://podcasts.apple.com/gb/podcast/great-british-bitch-off-with-me3-comedy/id1043321466"
   description: "A weekly, short podcast about the BBC TV show 'Great British Bake Off' in which Me3 Comedy - Marianne MacRae and Richard Hanrahan - discuss the events of the nation's favourite televised amateur baking competition."
   category: "TV & Film"
@@ -57,7 +57,7 @@
   id: "me3"
   page_url: /podcasts/me-three
   podcast_url: /me3.xml
-  podcast_album_art: /assets/Me3_All-Our-Podcasts.png
+  podcast_album_art: /assets/1400x1400_Me3_All-Our-Podcasts.jpg
   itunes_url: ""
   description: "All of our podcasts consolidated into a single feed"
   category: "TV & Film"

@@ -75,13 +75,12 @@ feed:
 
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "seasons" # a collection in your site, in plural form
     values:
       podcast_url: /feed/seasons.xml
-      podcast_album_art: /assets/Seasons_Podcast_Art.png
+      podcast_album_art: /assets/2000x2000_Seasons_Podcast_Art.jpg
       podcast_title: Seasons
       podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
       podcast_email: meThreeComedy@gmail.com
@@ -91,13 +90,12 @@ defaults:
       description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
       podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
       podcast_subtitle: Debating the miniature film festivals they'll never get to do.
-  -
-    scope:
+  - scope:
       path: ""
       type: "disney" # a collection in your site, in plural form
     values:
       podcast_url: /feed/disney.xml
-      podcast_album_art: /assets/It-Disney-Matter.png
+      podcast_album_art: /assets/1400x1400_It-Disney-Matter.jpg
       podcast_title: It Disney Matter
       podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
       podcast_email: meThreeComedy@gmail.com
@@ -107,13 +105,12 @@ defaults:
       description: Exploring Disney films.
       podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
       podcast_subtitle: (It Does!)
-  -
-    scope:
+  - scope:
       path: ""
       type: "gbbo" # a collection in your site, in plural form
     values:
       podcast_url: /feed/gbbo.xml
-      podcast_album_art: /assets/GBBO-Podcast.jpeg
+      podcast_album_art: /assets/3000x3000_GBBO-Podcast.jpg
       podcast_title: Great British Bitch Off
       podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
       podcast_email: meThreeComedy@gmail.com

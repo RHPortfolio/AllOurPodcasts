@@ -66,6 +66,7 @@
             <![CDATA[{{ ep.content | expand_urls: include.podcast.podcast_url | cdata_escape }}]]>
         </content:encoded>
         <enclosure url="{{ ep.podcast_link }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
+        <itunes:title>{{ ep.title | xml_escape }}</itunes:title>
         <itunes:subtitle>{{ include.podcast.podcast_subtitle }}</itunes:subtitle>
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape }}</itunes:summary>
         <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
