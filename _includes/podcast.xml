@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
-<!-- Thanks to https://github.com/andybalaam/Jekyll-Podcast-Feed for method-->
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
     <title>{{ include.podcast.podcast_title | xml_escape }}</title>
     <atom:link href="{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}" rel="self" type="application/rss+xml" />
@@ -40,7 +39,6 @@
     <item>
         <title>{{include.podcast.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
         <link>{{ ep.link | xml_escape }}</link>
-        <!-- <comments>{{ site.podcast_url }}{{ ep.url }}#comments</comments> -->
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
     {% for category in ep.categories %}
