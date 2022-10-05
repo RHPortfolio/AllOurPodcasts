@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 7 Episode 6 - Fougasse! No YOU are! (Fougasse)"
+episode_number: 706
+title: "Series 7 Episode 6 - Fougasse! No YOU are! (Fougasse)"
 date: 2016-09-29 09:46:44
 categories: podcast gbbo series-7 season-7
 link: https://archive.org/download/GBBO70620160929/GBBO-706--2016-09-29.mp3

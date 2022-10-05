@@ -3,11 +3,11 @@
   <div class="podcast-main">
 
     <a href="{{site.url}}{{include.podcast.page_url}}">
-    <img class="podcast-art" src="{{include.podcast.podcast_album_art}}" alt="{{include.podcast.title}}" /></a>
+    <img class="podcast-art" src="{{include.podcast.podcast_album_art}}" alt="{{include.podcast.podcast_title_prefix}}{{include.podcast.title}}" /></a>
 
     <div class="info-container">
       <div class="info">
-        <h1>{{include.podcast.title | default: "Podcast Title"}}</h1>
+        <h1>{{include.podcast_title_prefix}}{{include.podcast.title | default: "Podcast Title"}}</h1>
 
 
         {% include tags-stream.html podcast=include.podcast %}

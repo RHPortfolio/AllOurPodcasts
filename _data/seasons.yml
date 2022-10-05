@@ -1,4 +1,5 @@
 podcast_title: "Seasons"
+podcast_title_prefix: "Seasons"
 podcast_url: /podcasts/seasons
 podcast_feed_url: /seasons.xml
 podcast_album_art: /assets/Seasons_Podcast_Art.jpg

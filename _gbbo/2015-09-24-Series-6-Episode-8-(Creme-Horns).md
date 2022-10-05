@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 6 Episode 8 (Crème Horns)"
+episode_number: 608
+title: "Series 6 Episode 8 (Crème Horns)"
 date: 2015-09-24 13:45:40 +0100
 categories: podcast gbbo series-6 season-6
 link: https://archive.org/download/2015924008Me3ComedyGBBOWeek8/2015-9-24-008-Me3_Comedy--GBBO-Week8.mp3

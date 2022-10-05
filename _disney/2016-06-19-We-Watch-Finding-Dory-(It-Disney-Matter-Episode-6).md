@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Tonight Matthew, We Watch Finding Dory (It Disney Matter! Episode 6)"
+episode_number: 106
+title:  "We Watch Finding Dory"
 date:   2016-06-19 09:34:58 +0100
 categories: podcast disney
 link: https://archive.org/download/2016619006Me3IDMFindingDory2016/2016-6-19-006-Me3_IDM--FindingDory%282016%29.mp3

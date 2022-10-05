@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "GBBO - Series 7 Episode 10 - Grand Final"
-date:    2016-10-27 15:21:21 +0100
+episode_number: 710
+title:  "Series 7 Episode 10 - Grand Final (Victoria Sandwich)"
+date: 2016-10-27 15:21:21 +0100
 categories: podcast gbbo
 link: https://archive.org/download/GBBO71020161026/GBBO-710--2016-10-26.mp3
 podcast_link: https://archive.org/download/GBBO71020161026/GBBO-710--2016-10-26.mp3

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 7 Episode 2 Benetration (Viennese Whirls)"
+episode_number: 702
+title: "Series 7 Episode 2 Benetration (Viennese Whirls)"
 date: 2016-09-01 15:53:04
 categories: podcast gbbo series-7 season-7
 link: https://archive.org/download/20160901702Me3ComedyGBBOEpisode2/2016-09-01--702-Me3_Comedy--GBBO-Episode%202.mp3

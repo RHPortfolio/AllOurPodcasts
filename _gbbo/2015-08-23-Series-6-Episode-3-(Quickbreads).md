@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 6 Episode 3 (Quickbreads)"
+episode_number: 603
+title: "Series 6 Episode 3 (Quickbreads)"
 date: 2015-08-23 11:30:50 +0100
 categories: podcast gbbo series-6 season-6
 link: https://archive.org/download/2015823003Me3ComedyGBBOEpisode3/2015-8-23-003-Me3_Comedy--GBBO-Episode3.mp3

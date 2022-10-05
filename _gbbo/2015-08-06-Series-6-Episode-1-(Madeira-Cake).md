@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 6 Episode 1 (Madeira Cake)"
+episode_number: 601
+title: "Series 6 Episode 1 (Madeira Cake)"
 date: 2015-08-06 10:30:50 +0100
 categories: podcast gbbo
 link: https://archive.org/download/2015806001Me3ComedGBBOEpisode1/2015-8-06-001-Me3_Comed--GBBO-Episode1.mp3

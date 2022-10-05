@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Tonight Matthew, We Watch The Tigger Movie (It Disney Matter! Episode 5)"
+episode_number: 105
+title:  "We Watch The Tigger Movie"
 date:   2016-03-28 09:34:58 +0100
 categories: podcast disney
 link: https://archive.org/download/2016328005Me3IDMTheTiggerMovie2000/2016-3-28-005-Me3_IDM--TheTiggerMovie%282000%29.mp3

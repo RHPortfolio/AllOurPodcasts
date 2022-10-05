@@ -1,5 +1,6 @@
 - title: "Seasons"
   id: "seasons"
+  title-prefix: "Seasons"
   page_url: /podcasts/seasons
   podcast_url: /seasons.xml
   podcast_album_art: /assets/2000x2000_Seasons_Podcast_Art.jpg
@@ -21,6 +22,7 @@
   tweet: ""
 
 - title: "It Disney Matter (It Does)"
+  title-prefix: "IDM"
   podcast_title: "It Disney Matter (It Does)"
   id: "disney"
   page_url: /podcasts/it-disney-matter
@@ -37,6 +39,7 @@
   tweet: ""
 
 - title: "Great British Bitch Off"
+  title-prefix: "GBBO"
   podcast_title: "Great British Bitch Off"
   id: "gbbo"
   page_url: /podcasts/great-british-bitch-off

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 7 Episode 4 Claire Balding and a Swan (Lace Pancakes)"
+episode_number: 704
+title: "Series 7 Episode 4 Claire Balding and a Swan (Lace Pancakes)"
 date: 2016-09-22 12:21:23
 categories: podcast gbbo series-7 season-7
 link: https://archive.org/download/20160922704GBBOEpisode4/2016-09-22--704-GBBO-Episode%204.mp3

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 6 Episode 7 (Tall Pie)"
+episode_number: 607
+title: "Series 6 Episode 7 (Tall Pie)"
 date:  2015-09-18 10:38:47 +0100
 categories: podcast gbbo series-6 season-6
 link: https://archive.org/download/2015918007Me3ComedyGBBOWeek7/2015-9-18-007-Me3_Comedy--GBBO-Week7.mp3

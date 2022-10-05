@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Tonight Matthew, We Watch The Lion Guard (It Disney Matter! Episode 7)"
+episode_number: 201
+title:  "We Watch The Lion Guard"
 date:   2022-10-01 09:34:58 +0100
 categories: podcast disney
 link: https://archive.org/download/idm-007-2022-10-04-the-lion-guard/IDM_007_2022-10-04-The_Lion_Guard.mp3

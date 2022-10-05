@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 7 Episode 3 (Dampfnudel)"
+episode_number: 703
+title: "Series 7 Episode 3 (Dampfnudel)"
 date: 2016-09-21 10:29:45
 categories: podcast gbbo series-7 season-7
 link: https://archive.org/download/TheGreatBritishBitchOff01/2016-09-01--703-GBBO-Episode%203.mp3

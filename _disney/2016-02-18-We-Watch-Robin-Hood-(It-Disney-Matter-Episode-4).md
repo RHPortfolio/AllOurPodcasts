@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Tonight Matthew, We Watch Robin Hood (It Disney Matter! Episode 4)"
+episode_number: 104
+title:  "We Watch Robin Hood"
 date:   2016-02-18 09:34:58 +0100
 categories: podcast disney
 link: https://archive.org/download/2016328005Me3IDMTheTiggerMovie2000/2016-3-28-005-Me3_IDM--TheTiggerMovie%282000%29.mp3

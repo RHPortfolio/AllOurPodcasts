@@ -90,6 +90,7 @@ defaults:
       description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
       podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
       podcast_subtitle: Debating the miniature film festivals they'll never get to do.
+      podcast_title_prefix: "Seasons"
   - scope:
       path: ""
       type: "disney" # a collection in your site, in plural form
@@ -105,6 +106,7 @@ defaults:
       description: Exploring Disney films.
       podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
       podcast_subtitle: (It Does!)
+      podcast_title_prefix: "IDM"
   - scope:
       path: ""
       type: "gbbo" # a collection in your site, in plural form
@@ -120,3 +122,4 @@ defaults:
       description: Exploring Disney films.
       podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
       podcast_subtitle: (It Does!)
+      podcast_title_prefix: "GBBO"

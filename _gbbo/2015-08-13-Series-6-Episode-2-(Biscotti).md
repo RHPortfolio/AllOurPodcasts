@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 6 Episode 2 (Biscotti)"
+episode_number: 602
+title: "Series 6 Episode 2 (Biscotti)"
 date: 2015-08-13 10:30:50 +0100
 categories: podcast gbbo
 link: https://archive.org/download/2015813002Me3ComedyGBBOEpisode2/2015-8-13-002-Me3_Comedy--GBBO-Episode2.mp3

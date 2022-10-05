@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 7 Episode 7 - Minnie Mousse (Marjolaine)"
+episode_number: 707
+title: "Series 7 Episode 7 - Minnie Mousse (Marjolaine)"
 date: 2016-10-07 12:02:15
 categories: podcast gbbo series-7 season-7
 link: https://archive.org/download/GBBO70720161006/GBBO-707--2016-10-06.mp3

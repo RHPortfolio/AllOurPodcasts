@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Great British Bitch Off with Me3 Comedy - Series 7 Episode 9 - Insane in the Membrane"
+episode_number: 709
+title: "Series 7 Episode 9 - Insane in the Membrane (Savarin)"
 date:  2016-10-21 10:59:34
 categories: podcast gbbo series-7 season-7
 link: https://archive.org/download/GBBO70920161019/GBBO-709--2016-10-19.mp3
