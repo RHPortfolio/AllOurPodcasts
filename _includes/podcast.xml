@@ -32,7 +32,7 @@
     <image>
         <title>{{ include.podcast.podcast_title | xml_escape }}</title>
         <url>{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art | xml_escape }}</url>
-        <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
+        <link>{{ site.url | append: podcast.podcast_url | xml_escape }}</link>
     </image>
     <itunes:category text="{{ include.podcast.podcast_category | xml_escape }}">
         {% if include.podcast.podcast_subcategory_one %}
@@ -46,7 +46,7 @@
   {% for ep in include.episodes %}
     <item>
         <title>{{include.podcast.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
-        <link>{{ ep.link | xml_escape }}</link>
+        <link>{{ site.url | append: ep.url | xml_escape }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
     {% for category in ep.categories %}
@@ -56,7 +56,7 @@
         <category><![CDATA[{{ category | cdata_escape }}]]></category>
     {% endfor %}
         <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">
-          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ ep.link | xml_escape }}{% endif %}
+          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ site.url | append: ep.url | xml_escape }}{% endif %}
         </guid>
         <description><![CDATA[{{ ep.content | append: include.podcast.post_description | cdata_escape }}]]></description>
         <content:encoded>

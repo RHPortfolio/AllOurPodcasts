@@ -37,7 +37,7 @@
   {% for ep in _episodes %}
     <item>
         <title>{{ep.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
-        <link>{{ ep.link | xml_escape }}</link>
+        <link>{{ site.url | append: ep.url | xml_escape }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
     {% for category in ep.categories %}
@@ -47,7 +47,7 @@
         <category>{{ category | cdata_escape }}</category>
     {% endfor %}
         <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">
-          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ ep.link | xml_escape }}{% endif %}</guid>
+          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ site.url | append: ep.url | xml_escape }}{% endif %}</guid>
         <description>{{ site.data.me3.description }}{{ site.data.me3.post_description }}</description>
         <content:encoded>
             <![CDATA[{{ ep.content | expand_urls: site.data.me3.podcast_url | cdata_escape }}]]>
