@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 701
 title: "Series 7 Episode 1 Les Drizzerables (Jaffa Cakes)"
 date: 2016-08-26 11:55:29 +0100

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 707
 title: "Series 7 Episode 7 - Minnie Mousse (Marjolaine)"
 date: 2016-10-07 12:02:15

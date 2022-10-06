@@ -1,5 +1,5 @@
 <ul class="tags">
-  <li class="category main">{{ include.podcast.category}}</li>
+  {% if include.podcast.category %}<li class="category main">{{ include.podcast.category}}</li>{% endif %}
   {% for category in include.podcast.categories %}
     <li class="tag main">{{ category }}</li>
   {% endfor %}

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 201
 title:  "We Watch The Lion Guard"
 date:   2022-10-01 09:34:58 +0100

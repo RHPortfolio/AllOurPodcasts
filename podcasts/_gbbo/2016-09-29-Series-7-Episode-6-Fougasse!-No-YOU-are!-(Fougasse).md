@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 706
 title: "Series 7 Episode 6 - Fougasse! No YOU are! (Fougasse)"
 date: 2016-09-29 09:46:44

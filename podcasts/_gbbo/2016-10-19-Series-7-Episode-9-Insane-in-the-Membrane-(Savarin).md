@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 709
 title: "Series 7 Episode 9 - Insane in the Membrane (Savarin)"
 date:  2016-10-21 10:59:34

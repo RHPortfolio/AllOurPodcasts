@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 704
 title: "Series 7 Episode 4 Claire Balding and a Swan (Lace Pancakes)"
 date: 2016-09-22 12:21:23

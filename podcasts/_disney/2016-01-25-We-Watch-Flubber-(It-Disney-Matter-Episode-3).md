@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 103
 title:  "We Watch Flubber"
 date:   2016-01-25 09:34:58 +0100

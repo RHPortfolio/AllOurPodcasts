@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 603
 title: "Series 6 Episode 3 (Quickbreads)"
 date: 2015-08-23 11:30:50 +0100

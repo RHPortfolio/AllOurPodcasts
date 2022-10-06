@@ -22,7 +22,8 @@
       {% include podcasts-item-listen-link-row.html link=podcast.page_url %}
     </div>
     <div class="footer">
-      {% include podcasts-item-footer.html podcast=podcast %}
+      {% assign link=site.url | append: include.podcast.page_url %}
+      {% include podcasts-item-footer.html link=link %}
     </div>
 
   </div>

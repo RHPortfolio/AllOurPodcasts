@@ -2,7 +2,7 @@
   <div class="header">
     <p>Published: {{episode.date | date: "%a, %b %d, %Y"}}</p>
 
-    <h2>{{episode.podcast_title_prefix}} #{{episode.episode_number}}: {{ episode.title }}</h2>
+    <a href="{{episode.url}}"><h2>{{episode.podcast_title_prefix}} #{{episode.episode_number}}: {{ episode.title }}</h2></a>
 
     </div>
 

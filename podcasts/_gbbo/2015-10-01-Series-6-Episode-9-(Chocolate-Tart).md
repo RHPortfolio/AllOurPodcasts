@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 609
 title: "Series 6 Episode 9 (Chocolate Tart)"
 date: 2015-10-01 11:16:11 +0100

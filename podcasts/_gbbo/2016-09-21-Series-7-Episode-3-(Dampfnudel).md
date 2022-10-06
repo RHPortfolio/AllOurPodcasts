@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 703
 title: "Series 7 Episode 3 (Dampfnudel)"
 date: 2016-09-21 10:29:45

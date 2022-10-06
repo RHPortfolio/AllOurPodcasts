@@ -59,6 +59,8 @@ collections:
   - disney
   - gbbo
 
+collections_dir: podcasts
+
 collections:
   disney:
     output: true

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 608
 title: "Series 6 Episode 8 (Crème Horns)"
 date: 2015-09-24 13:45:40 +0100

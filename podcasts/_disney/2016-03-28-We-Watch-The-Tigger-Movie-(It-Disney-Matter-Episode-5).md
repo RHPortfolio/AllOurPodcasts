@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 105
 title:  "We Watch The Tigger Movie"
 date:   2016-03-28 09:34:58 +0100

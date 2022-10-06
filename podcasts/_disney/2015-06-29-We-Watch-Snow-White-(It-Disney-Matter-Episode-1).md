@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 101
 title:  "We Watch Snow White"
 date:   2015-06-29 09:34:58 +0100

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 102
 title:  "We Watch Pinoccio"
 date:   2015-08-18 09:34:58 +0100

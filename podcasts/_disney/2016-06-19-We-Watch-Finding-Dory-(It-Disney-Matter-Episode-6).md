@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 106
 title:  "We Watch Finding Dory"
 date:   2016-06-19 09:34:58 +0100

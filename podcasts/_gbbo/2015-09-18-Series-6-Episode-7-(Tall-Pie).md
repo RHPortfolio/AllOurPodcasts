@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 607
 title: "Series 6 Episode 7 (Tall Pie)"
 date:  2015-09-18 10:38:47 +0100

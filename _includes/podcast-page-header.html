@@ -19,7 +19,8 @@
   </div>
   <div class="footer">
     {% include podcasts-item-subscribe-row.html podcast=_podcast %}
-    {% include podcasts-item-footer.html podcast=_podcast %}
+    {% assign link=site.url | append: include.podcast.page_url %}
+    {% include podcasts-item-footer.html link=link %}
   </div>
 
   <div class="podcast-player">

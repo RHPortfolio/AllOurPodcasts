@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 708
 title: "Series 7 Episode 8 - Leaky Candice (Tumbles)"
 date: 2016-10-16 18:03:27

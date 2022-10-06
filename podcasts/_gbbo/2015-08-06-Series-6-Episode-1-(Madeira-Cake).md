@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 601
 title: "Series 6 Episode 1 (Madeira Cake)"
 date: 2015-08-06 10:30:50 +0100

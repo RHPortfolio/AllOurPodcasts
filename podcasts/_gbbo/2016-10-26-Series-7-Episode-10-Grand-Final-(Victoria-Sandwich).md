@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 710
 title:  "Series 7 Episode 10 - Grand Final (Victoria Sandwich)"
 date: 2016-10-27 15:21:21 +0100

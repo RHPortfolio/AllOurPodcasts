@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 610
 title: "Series 6 Episode 10 (Iced Buns)"
 date: 2015-10-08 22:40:44 +0100

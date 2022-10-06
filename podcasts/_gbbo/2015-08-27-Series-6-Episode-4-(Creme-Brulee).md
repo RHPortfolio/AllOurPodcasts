@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 604
 title: "Series 6 Episode 4 (Crème Brûlée)"
 date:  2015-08-27 10:30:50 +0100

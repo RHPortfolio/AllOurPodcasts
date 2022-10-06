@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 104
 title:  "We Watch Robin Hood"
 date:   2016-02-18 09:34:58 +0100

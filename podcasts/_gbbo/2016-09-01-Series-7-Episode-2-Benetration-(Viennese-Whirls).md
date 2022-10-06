@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 702
 title: "Series 7 Episode 2 Benetration (Viennese Whirls)"
 date: 2016-09-01 15:53:04

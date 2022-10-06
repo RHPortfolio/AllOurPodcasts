@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: episode
 episode_number: 602
 title: "Series 6 Episode 2 (Biscotti)"
 date: 2015-08-13 10:30:50 +0100
