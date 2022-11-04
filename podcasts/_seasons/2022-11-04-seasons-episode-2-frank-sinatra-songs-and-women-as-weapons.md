@@ -2,7 +2,7 @@
 layout: episode
 episode_number: 102
 title:  "Frank Sinatra Songs and Woman as Weapons"
-date:   2022-11-05 09:00:58 +0100
+date:   2022-11-04 09:00:58 +0100
 categories: podcast seasons
 link: https://archive.org/download/seasons-102-frank-sinatra-songs-and-woman-as-weapons/Seasons%20%23102_%20Frank%20Sinatra%20Songs%20and%20Woman%20as%20Weapons.mp3
 podcast_link: https://archive.org/download/seasons-102-frank-sinatra-songs-and-woman-as-weapons/Seasons%20%23102_%20Frank%20Sinatra%20Songs%20and%20Woman%20as%20Weapons.mp3
