@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The new home of Me3 Comedy podcasts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.me3comedy.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: meThreeComedy
+twitter_username: Me3_Comedy
 facebook_pagename: Me3Comedy
 # github_username:  n/a
 
