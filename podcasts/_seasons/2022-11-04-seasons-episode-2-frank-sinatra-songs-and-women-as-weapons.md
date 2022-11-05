@@ -9,7 +9,7 @@ podcast_link: https://archive.org/download/seasons-102-frank-sinatra-songs-and-w
 player_link: https://youtu.be/CdytOab1W68
 audio_filesize: 107065262
 audio_duration: "55:38"
-player_image_url: "https://ia801502.us.archive.org/1/items/seasons-102-frank-sinatra-songs-and-woman-as-weapons/2000x2000_Seasons_Podcast_Art.jpg"
+player_image_url: https://ia801502.us.archive.org/1/items/seasons-102-frank-sinatra-songs-and-woman-as-weapons/2000x2000_Seasons_Podcast_Art.jpg
 
 ---
 This week, we explore films with Frank Sinatra films in them (but not Frank Sinatra films) and films where women are a weapon (but more nuanced than that).
