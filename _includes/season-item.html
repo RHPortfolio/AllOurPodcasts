@@ -1,0 +1,28 @@
+<div class="season-item {% if include.season.completed == true %}complete{% else %}incomplete{% endif %}">
+  <div class="header">
+    <h2 id="{{include.season.season_title | replace: " ", "-"}}">
+      {{ include.season.season_title }}
+    </h2>
+    <a class="link grey" href="{{ page.url }}#{{include.season.season_title | replace: " ", "-"}}">
+      <i class="fa-solid fa-link"></i>
+    </a>
+
+  </div>
+  <p class="subheader">
+      {% if include.season.completed == true %}
+        <em class="tag green">Complete</em>
+      {% else %}
+        <em class="tag">Incomplete</em>
+      {% endif %}
+      See episodes {{ include.season.episodes | array_to_sentence_string}}
+    </em>
+  </p>
+  <p>
+    {{ include.season.description}}
+  </p>
+  <ul class="films">
+    {% for film in include.season.films %}
+      <li>{{film}}</li>
+    {% endfor %}
+  </ul>
+</div>
