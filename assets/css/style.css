@@ -16,6 +16,8 @@ body, p, table {
 
 p {
   font-weight: 400;
+  line-height: 1.4rem;
+  margin: 1ch 0;
 }
 
 a, a:active, a:visited, a:hover {
@@ -452,4 +454,76 @@ hr {
 
 .attached-seasons li:last-child:after {
   content: "";
+}
+
+
+/* season filter */
+input[type="radio"][id="completed"]:checked ~ .incomplete {
+  width:0;
+  height:0;
+  padding:0;
+  margin:0;
+  opacity:0;
+  display: none;
+}
+
+input[type="radio"][id="incomplete"]:checked ~ .complete {
+  width:0;
+  height:0;
+  padding:0;
+  margin:0;
+  opacity:0;
+  display: none;
+}
+
+.season-item {
+  margin: 2vh 0;
+  background: white;
+  padding: 1ch;
+}
+
+/* .season-item:first-of-type {
+  margin-top: 2vh;
+} */
+
+.season-item h2 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-right: 1ch;
+  line-height: 1.6rem;
+}
+
+.season-item .header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.season-item .subheader {
+  line-height: 1.2rem;
+  margin: 1ch 0;
+}
+
+
+.season-item .tag {
+ background-color: darkred;
+ font-size: 0.8rem;
+ color: palevioletred;
+ margin-right: 0.7vw;
+ margin-bottom: 0.7vw;
+ padding: 0.4vw;
+}
+
+.green {
+  background-color: green !important;
+  color: lightgreen !important;
+}
+
+ul.films li {
+  font-weight: 800;
+  margin: 1ch 0 0 1ch;
+}
+
+.link.grey {
+  color: grey !important;
 }
