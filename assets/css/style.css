@@ -402,3 +402,54 @@ hr {
   margin: 1vh 0 0;
   line-height: 1.1rem;
 }
+
+#episode-notes {
+  display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 2vh;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#episode-notes h2 {
+  font-size: 2rem;
+  line-height: 2.1rem;
+  color: black;
+  margin: 0.5rem 0;
+}
+
+#episode-notes h3 {
+  font-size: 1.6rem;
+  line-height: 1.8rem;
+  color: black;
+  margin: 0.3rem 0;
+}
+
+.season-list ul {
+  margin-top: 1rem;
+}
+.season-list li {
+  padding: 0.5rem;
+}
+
+.attached-seasons {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.attached-seasons li {
+  line-height: 1.3rem;
+}
+
+.attached-seasons li:after {
+  content: "·";
+  padding: 0 1ch;
+
+}
+
+.attached-seasons li:last-child:after {
+  content: "";
+}

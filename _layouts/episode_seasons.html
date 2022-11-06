@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head_media.html title=page.title description=content image=page.player_image_url playerLink=page.player_link -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+
+        <div class="podcast-page">
+
+          {% include episode-page-header.html episode=page %}
+
+
+          {% include episode-page-seasons-notes.html episode=page.episode_number %}
+
+
+        </div>
+
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>

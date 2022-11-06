@@ -1,0 +1,32 @@
+{% assign seasons = site.data.seasons-wiki | where:"episodes", include.episode %}
+{% assign completed = seasons | where: "completed", true %}
+{% assign suggested = seasons | where: "completed", false %}
+
+<aside id="episode-notes">
+
+  <h2>Completed Seasons</h2>
+
+    {% for season in completed %}
+      <h3>{{ season.season_title }}</h3>
+      <p>
+        {{ season.description }}
+      </p>
+      <ul class="season-list">
+        {% for film in season.films %}
+          <li>
+            {{film}}
+          </li>
+        {% endfor %}
+      </ul>
+
+    {% endfor %}
+
+
+  <h2>Suggested Seasons</h2>
+  <ul class="attached-seasons">
+    {% for season in suggested %}
+      <li>{{ season.season_title }}</li>
+    {% endfor %}
+  </ul>
+
+</aside>
