@@ -1,0 +1,19 @@
+<section id="season-container">
+
+    <p>
+      We have collected all of the suggested and completed seasons mentioned in our podcasts for you to peruse here.
+      </p>
+
+      <input type="radio" id="all" name="color" />
+      <label for="all">view all</label>
+      <input type="radio" id="completed" name="color" />
+      <label for="completed">completed</label>
+      <input type="radio" id="incomplete" name="color" />
+      <label for="incomplete">incomplete</label>
+
+  {% assign seasons = site.data.seasons-wiki | sort: "season_title" %}
+    {% for season in seasons  %}
+      {% include season-item.html season=season %}
+    {% endfor %}
+
+</section>

@@ -14,4 +14,9 @@ layout: default
 
   {% include podcast-page-episodes.html episodes=_collection %}
 
+  {% if page.id == "seasons" %}
+    {% include season-container.html season=season %}
+  {% endif %}
+
+
 </div>
