@@ -1,0 +1,190 @@
+- season_title: "Films With Frank Sinatra Songs"
+  description: "Films which feature a track sung by Frank Sinatra, including songs by him covered by other artists"
+  completed: true
+  episodes:
+    - 102
+  films:
+    - "Bewitched (2005)"
+    - "Catch Me If You Can (2002)"
+    - "Down With Love (2003)"
+
+- season_title: "Women As Weapons"
+  description: "Films which feature a central female character who are themselves a weapon. Often naive, or which feaature love or some other characteristic that defines them as better than the evil they must overcome"
+  completed: true
+  episodes:
+      - 102
+  films:
+    - "The Fifth Element (1997)"
+    - "Alita: Battle Angel (2019)"
+    - "Red Sparrow (2018)"
+
+- season_title: "Tittyfire"
+  description: "Films which feature a sequences where someone's breasts are on fire, much like Mrs. Doubtfire"
+  completed: false
+  episodes:
+      - 102
+
+- season_title: "CGI Explained Films"
+  description: "Films known for their CGI which would have been shown without CGI but including analogue elements that are later removed (e.g. People in Green Suits)"
+  completed: false
+  episodes:
+    - 102
+  films:
+    - "Who Framed Roger Rabbit"
+
+- season_title: "Adverts on VHS"
+  description: "Films known for being trailed before other films on a VHS"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Copy Movies"
+  description: "Films seen having been copied or recorded from the telly"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Piers Brosnan Hit By Fruit"
+  description: "Films which feature Piers Brosnan being hit by fruit"
+  completed: false
+  episodes:
+    - 102
+  films:
+    - "Mrs. Doubtfire"
+
+- season_title: "Two Older Kids, One Younger"
+  description: "Films with children set-up as one significantly younger child with two older siblings (e.g. Mrs. Doubtfire)"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Films to Fall Asleep To"
+  description: "Sleepy movies, either by habit or by content, which one has or could watch to aid somnolance"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Cartoon Character With Big Tits"
+  description: "Films which feature a cartoon character that prominently feature large breasts (e.g. Who Framed Roger Rabbit)"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Deluded Film-makers"
+  description: "Films which feature content that is seemingly reflective of the film maker that unwittingly reveal flaws or vulnerabilities. E.g. Woody Allen films that cast him as an attractive lead"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Con Man films"
+  description: "Films featuring conmen"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Air Hostess Movies"
+  description: "Films which feature air hostesses, ideally in a prominent context"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Good Prosthetic Teeth"
+  description: "Films which include some tasty fake gnashers"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Scenes on Planes"
+  description: "Films which feature airplane airtime"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Comedy Commentators"
+  description: "Films which include comic characters commentating formally on the digetic film reality"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Essence Of a Virgin"
+  description: "Films which focus on virginity as an ingredient in its cinematic soup"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Films Referenced in Friends"
+  description: "Films which are made used in whatever way within the sitcom F.R.I.E.N.D.Z.'"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Die Hard Films"
+  description: "Films from the die hard franchise"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Same Case Movies"
+  description: "Unknown, but I wrote it down"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Three Word Movies"
+  description: "Films with three words in their title"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Flaccid Penis Season"
+  description: "Films which feature or reference a flaccid penis. See also 'Erection' season"
+  completed: false
+  episodes:
+    - 102
+
+
+- season_title: "Erections"
+  description: "Films which feature or reference an upright member"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Cartoon Character With Big Tits"
+  description: "Films which feature a cartoon character that prominently feature large breasts (e.g. Who Framed Roger Rabbit)"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Title Spoken By Character"
+  description: "Films which feature a character saying the title of the film"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Start With A Phone Call"
+  description: "Films that are commenced by a call by phone."
+  completed: false
+  episodes:
+    - 102
+  films:
+    - "Scream"
+
+- season_title: "William Shatner Sing Speaks"
+  description: "Films which feature William Shatner's distinctive music style"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "Films based on books you don't want to see"
+  description: "Films which began life on the written page which don't interest us"
+  completed: false
+  episodes:
+    - 102
+
+- season_title: "The Skin I Live In"
+  description: "A season created specifically to feature the movie 'The Skin I Live In'"
+  completed: false
+  episodes:
+    - 102
+  films:
+    - "The Skin I Live In"
