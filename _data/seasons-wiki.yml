@@ -182,3 +182,345 @@
     - 102
   films:
     - "The Skin I Live In"
+
+- season_title: "Marianne's Films you thought were great when you were 17"
+  description: "A collection of films Marianne thought were great when she was 17"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Stand By Me"
+    - "Lost In Translation"
+    - "Muriel's Wedding"
+
+- season_title: "Marianne's Films you thought were great when you were 7"
+  description: "A collection of films Marianne thought were great when she was 7"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Freddie as F.R.O.7."
+    - "Fievel Goes West"
+    - "Labrynth"
+
+- season_title: "Richard's Films you thought were great when you were 17"
+  description: "A collection of films Richard thought were great when she was 17"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Napoleon Dynamite"
+    - "Donnie Darko"
+    - "Shaun of the Dead"
+
+- season_title: "Richard's Films you thought were great when you were 7"
+  description: "A collection of films Richard thought were great when she was 7"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Lion King"
+    - "Home Alone"
+    - "Ace Ventura"
+
+- season_title: "Comedy Commentators"
+  description: "Films where there are characters featured that provide comic relief"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Pitch Perfect 2"
+    - "Star Wars: Episode 1 - The Phantom Menace"
+    - "Dodgeball"
+
+- season_title: "Referenced in the F.R.I.E.N.D.S"
+  description: "Films that were referenced in some way in the TV Show Friends. This includes films that were being watched within the show; films mentioned and films parodied or enacted within conversation (could be separate seasons)"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Star Wars: Episode 6 - Return of the Jedi"
+    - "Indecent Proposal"
+    - "Officer and a Gentleman"
+
+- season_title: "Death on a toilet"
+  description: "Films that feature a death that takes place in or on a toilet"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Jurassic Park"
+    - "Pulp Fiction"
+    - "Elvis"
+
+- season_title: "One word Food Films"
+  description: "Films that have a single word in the title, that is an item of food"
+  completed: true
+  episodes:
+    - 103
+  films:
+    - "Chocolat"
+    - "Butter"
+    - "Ratatouille"
+
+- season_title: "Girls Showering"
+  description: "Films where women are in the shower"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Sincerity Collapse"
+  description: "Uncertain; a heightened moment in a film which at the same time attempts to be sincere and real but which is melodramatic or bizarre. E.g. Shower scene in Pitch Perfect"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Post-2050"
+  description: "Films set after the year 2050"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Male Protagonist"
+  description: "Films which have a male protagonist"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Elongated Nooo"
+  description: "Films which feature someone screaming 'nooo'"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Marianne Hasn't Seen"
+  description: "Films Marianne hasn't seen"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "POV"
+  description: "Films that feature some scenes presented as if from the point of view of a character"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Backstreet Abortions"
+  description: "Films which involve an improvised/unofficial abortion"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Zac Effron Musicals"
+  description: "Musical films featuring Zac Effron"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Child Actors who ended up having a career outside of movies"
+  description: "Films that feature child actors that went on to have careers outside of the movies"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Medium films"
+  description: "Films that feature a medium. Could be someone ghostly, could be vinyl, who knows!"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Communing with the dead"
+  description: "Films that feature attempted communication with the dead"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Films about one day"
+  description: "Films that focus on a single day"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Timeloop Movies"
+  description: "Films that feature a repeated segment of time"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Dairy Films"
+  description: "Milky movies"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Mockumentaries"
+  description: "Fictional films filmed in a faux documentary style"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Fred Willan Season"
+  description: "Films that feature the brilliant but departed character actor"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Improvised Scripts"
+  description: "Movies that were improvised on set"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Talking Dogs"
+  description: "Films that feature canines that talk"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Dogs who die"
+  description: "Films where a canine dies"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Chihuahua films"
+  description: "One of many 'dog by breed' seasons"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Eaten Alive"
+  description: "Films where someone is consumed while still living. Ideally whole, like in a large whale or something"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Flatulance"
+  description: "Farty Classics"
+  completed: false
+  episodes:
+    - 103
+  films:
+    - 'Gone with the Wind?'
+
+- season_title: "Unlikely Remakes"
+  description: "Films you don't immediately consider as remakes"
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "Mr. Deeds"
+
+- season_title: "One word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "seven?"
+    - "once?"
+
+
+- season_title: "Two word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Three word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Four word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Five word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Six word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Seven word Titles"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "SNL Cast Films"
+  description: "Films that prominently feature SNL cast members"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Corpse Films"
+  description: "Movies where one of the characters is a corpse - either as a prop or as a prominent protagonist"
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "Weekend at Bernie's"
+    - "Death at a Funeral"
+
+- season_title: "Vest Films"
+  description: "Films where a vest is worn throughout the feature"
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "Die Hard?"
+
+- season_title: "British Ensemble Cast"
+  description: "Films considered British, which are built apon a wide range of established actors"
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "Four Weddings and a Funeral?"
+
+- season_title: "Christmas Action Films"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "Die Hard?"
+
+- season_title: "Biggest Let Downs"
+  description: "Films that were considered critically acclaimed which you, for whatever reason, did not like"
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Marianne's Too Precious"
+  description: "Films considered too special to be considered or thrown away in a single film season. This is a special, personal category"
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "The Sound of Music"
+    - "Little Women (1994)"
+
+- season_title: "Double-sided DVD"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+
+- season_title: "Live Action with Animation"
+  description: "..."
+  completed: false
+  episodes:
+    - 103
+  films:
+    - "Pagemaster"
