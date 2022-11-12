@@ -13,10 +13,9 @@
     <itunes:summary>{{ site.data.me3.podcast_summary | xml_escape }}</itunes:summary>
     <itunes:author>{{ site.data.me3.podcast_author | xml_escape }}</itunes:author>
     <itunes:explicit>{{ site.data.me3.podcast_explicit | xml_escape }}</itunes:explicit>
-    <itunes:image>
-        <url>{{ site.url | xml_escape }}{{ site.data.me3.podcast_album_art | xml_escape }}</url>
-        <title>{{ site.data.me3.podcast_title | xml_escape }} Logo</title>
-        <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}</link>
+    <itunes:image
+      href="{{ site.url | xml_escape }}{{ site.data.me3.podcast_album_art | xml_escape }}"
+    />
     </itunes:image>
     <itunes:owner>
         <itunes:name>{{ site.data.me3.podcast_owner | xml_escape }}</itunes:name>
@@ -62,11 +61,9 @@
         {% if ep.episode_number %}<itunes:episode>{{ep.episode_number}}</itunes:episode>{% endif %}
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape }}</itunes:summary>
         <itunes:author>{{ site.data.me3.podcast_author | xml_escape }}</itunes:author>
-        <itunes:image>
-            <url>{{ site.url | xml_escape }}{{ site.data.me3.podcast_album_art | xml_escape }}</url>
-            <title>{{ site.data.me3.podcast_title | xml_escape }} Logo</title>
-            <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}</link>
-        </itunes:image>
+        <itunes:image
+          href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}"
+        />
         <itunes:explicit>{{ site.data.me3.podcast_explicit | xml_escape }}</itunes:explicit>
         <itunes:keywords>{% for podcast_category in site.data.me3.categories %}{{podcast_category}}, {% endfor %}{% for podcast_tag in site.data.me3.tags %}{{podcast_tag}}, {% endfor %}{% for category in ep.categories %}{{category}},  {% endfor %}{% for tag in ep.tags %}{{tag}}, {% endfor %}</itunes:keywords>
         <itunes:duration>{{ ep.audio_duration | default="55:00" | xml_escape }}</itunes:duration>
