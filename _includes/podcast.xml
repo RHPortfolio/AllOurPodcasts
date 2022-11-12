@@ -44,7 +44,8 @@
         {% endif %}
     </itunes:category>
 
-  {% for ep in include.episodes %}
+  {% assign eps = include.episodes | reverse %}
+  {% for ep in eps %}
     <item>
         <title>{{include.podcast.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
         <link>{{ site.url | append: ep.url | xml_escape }}</link>
@@ -58,7 +59,6 @@
     {% endfor %}
         <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">
           {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ site.url | append: ep.url | xml_escape }}{% endif %}
-        </guid>
         <description><![CDATA[{{ ep.content | append: include.podcast.post_description | cdata_escape }}]]></description>
         <content:encoded>
             <![CDATA[{{ ep.content | expand_urls: include.podcast.podcast_url | cdata_escape }}]]>
