@@ -57,8 +57,7 @@
     {% for category in ep.tags %}
         <category><![CDATA[{{ category | cdata_escape }}]]></category>
     {% endfor %}
-        <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">
-          {% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ site.url | append: ep.url | xml_escape }}{% endif %}
+        <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ site.url | append: ep.url | xml_escape }}{% endif %}</guid>
         <description><![CDATA[{{ ep.content | append: include.podcast.post_description | cdata_escape }}]]></description>
         <content:encoded>
             <![CDATA[{{ ep.content | expand_urls: include.podcast.podcast_url | cdata_escape }}]]>
