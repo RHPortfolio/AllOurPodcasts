@@ -13,7 +13,7 @@
     <atom:link href="{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}" rel="self" type="application/rss+xml" />
     <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
     <description>
-      <![CDATA[{{ include.podcast.description | cdata_escape }}]]></description>
+      {{ include.podcast.description }}></description>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
@@ -22,7 +22,7 @@
     <itunes:summary>{{ include.podcast.podcast_summary | xml_escape }}</itunes:summary>
     <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
     <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
-    <itunes:image href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art | xml_escape }}" />
+    <itunes:image href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art | xml_escape }}" ></itunes:image>
     <itunes:owner>
         <itunes:name>{{ include.podcast.podcast_owner | xml_escape }}</itunes:name>
         <itunes:email>{{ include.podcast.podcast_email | xml_escape }}</itunes:email>
