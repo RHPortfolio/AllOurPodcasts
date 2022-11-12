@@ -53,8 +53,9 @@
             <![CDATA[{{ ep.content | expand_urls: site.data.me3.podcast_url | cdata_escape }}]]>
         </content:encoded>
         <enclosure url="{{ ep.podcast_link }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
-        <itunes:title>{{ep.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</itunes:title>
+        <itunes:title>{{ ep.title | xml_escape }}</itunes:title>
         <itunes:subtitle>{{ site.data.me3.podcast_subtitle }}</itunes:subtitle>
+        {% if ep.episode_number %}<itunes:episode>{{ep.episode_number}}</itunes:episode>{% endif %}
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape }}</itunes:summary>
         <itunes:author>{{ site.data.me3.podcast_author | xml_escape }}</itunes:author>
         <itunes:image href="{{ site.url | xml_escape }}{{ site.data.me3.podcast_album_art }}" />
