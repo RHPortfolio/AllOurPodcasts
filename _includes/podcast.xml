@@ -4,8 +4,7 @@
     <title>{{ include.podcast.podcast_title | xml_escape }}</title>
     <atom:link href="{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}" rel="self" type="application/rss+xml" />
     <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
-    <description>
-      {{ include.podcast.description }}></description>
+    <description>{{ include.podcast.description }}></description>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
