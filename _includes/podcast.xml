@@ -13,7 +13,11 @@
     <itunes:summary>{{ include.podcast.podcast_summary | xml_escape }}</itunes:summary>
     <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
     <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
-    <itunes:image href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art | xml_escape }}" ></itunes:image>
+    <itunes:image>
+        <url>{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}</url>
+        <title>{{ include.podcast.podcast_title | xml_escape }} Logo</title>
+        <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}</link>
+    </itunes:image>
     <itunes:owner>
         <itunes:name>{{ include.podcast.podcast_owner | xml_escape }}</itunes:name>
         <itunes:email>{{ include.podcast.podcast_email | xml_escape }}</itunes:email>
@@ -59,7 +63,11 @@
         {% if ep.episode_number %}<itunes:episode>{{ep.episode_number}}</itunes:episode>{% endif %}
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape | strip_html }}</itunes:summary>
         <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
-        <itunes:image href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}" />
+        <itunes:image>
+            <url>{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}</url>
+            <title>{{ include.podcast.podcast_title | xml_escape }} Logo</title>
+            <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}</link>
+        </itunes:image>
         <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
         <itunes:keywords>{% for podcast_category in include.podcast.categories %}{{podcast_category}}, {% endfor %}{% for podcast_tag in include.podcast.tags %}{{podcast_tag}}, {% endfor %}{% for category in ep.categories %}{{category}},  {% endfor %}{% for tag in ep.tags %}{{tag}}, {% endfor %}</itunes:keywords>
         <itunes:duration>{{ ep.audio_duration | default="55:00" | xml_escape }}</itunes:duration>
