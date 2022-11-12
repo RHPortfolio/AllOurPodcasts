@@ -39,7 +39,8 @@
           <itunes:category text="{{ include.podcast.podcast_subcategory_one | xml_escape }}" />
         {% endif %}
         {% if include.podcast.podcast_subcategory_two %}
-          <itunes:category text="{{ include.podcast.podcast_subcategory_two | xml_escape }}" />
+            </itunes:category><itunes:category text="{{ include.podcast.podcast_category | xml_escape }}">
+            <itunes:category text="{{ include.podcast.podcast_subcategory_two | xml_escape }}" />
         {% endif %}
     </itunes:category>
 
