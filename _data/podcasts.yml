@@ -6,13 +6,13 @@
   podcast_album_art: /assets/2000x2000_Seasons_Podcast_Art.jpg
   podcast_owner: MeThreeComedy (Marianne MacRae and Richard Hanrahan)
   podcast_email: meThreeComedy@gmail.com
-  podcast_category: "TV & Film"
+  podcast_category: "TV &amp; Film"
   podcast_explicit: "yes"
   podcast_author: MeThreeComedy
   description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan.
   podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
   podcast_subtitle: Debating the miniature film festivals they'll never get to do.
-  category: "TV & Film"
+  category: "TV &amp; Film"
   tags:
     - "Film Festivals"
     - "Improv"
@@ -30,7 +30,7 @@
   podcast_album_art: /assets/It-Disney-Matter.jpeg
   itunes_url: "https://podcasts.apple.com/gb/podcast/it-disney-matter-it-does-with-me3-comedy/id1043323566"
   description: "Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in order - and then talk about it."
-  category: "TV & Film"
+  category: "TV &amp; Film"
   tags:
     - "Disney"
     - "Children's Entertainment"
@@ -47,7 +47,7 @@
   podcast_album_art: /assets/3000x3000_GBBO-Podcast.jpg
   itunes_url: "https://podcasts.apple.com/gb/podcast/great-british-bitch-off-with-me3-comedy/id1043321466"
   description: "A weekly, short podcast about the BBC TV show 'Great British Bake Off' in which Me3 Comedy - Marianne MacRae and Richard Hanrahan - discuss the events of the nation's favourite televised amateur baking competition."
-  category: "TV & Film"
+  category: "TV &amp; Film"
   tags:
     - "Baking"
     - "GBBO"
@@ -63,7 +63,7 @@
   podcast_album_art: /assets/1400x1400_Me3_All-Our-Podcasts.jpg
   itunes_url: ""
   description: "All of our podcasts consolidated into a single feed"
-  category: "TV & Film"
+  category: "TV &amp; Film"
   tags:
     - "Baking"
     - "GBBO"
