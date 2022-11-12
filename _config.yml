@@ -34,6 +34,7 @@ plugins:
   - jekyll-feed
   - audioinfo
 
+future: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -58,6 +59,7 @@ collections:
   - seasons
   - disney
   - gbbo
+
 
 collections_dir: podcasts
 
