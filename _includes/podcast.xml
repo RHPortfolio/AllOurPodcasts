@@ -25,7 +25,7 @@
     <image>
         <title>{{ include.podcast.podcast_title | xml_escape }}</title>
         <url>{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art | xml_escape }}</url>
-        <link>{{ site.url | append: podcast.podcast_url | xml_escape }}</link>
+        <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
     </image>
     <itunes:category text="{{ include.podcast.podcast_category | xml_escape }}">
         {% if include.podcast.podcast_subcategory_one %}
