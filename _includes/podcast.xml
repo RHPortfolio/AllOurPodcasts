@@ -40,7 +40,7 @@
   {% assign eps = include.episodes | reverse %}
   {% for ep in eps %}
     <item>
-        <title>{{include.podcast.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
+        <title>{{include.podcast.podcast_title_prefix}} #{{ ep.season_number}}{% if ep.episode_number <= 9 %}0{% endif %}{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
         <link>{{ site.url | append: ep.url | xml_escape }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
@@ -58,6 +58,7 @@
         <enclosure url="{{ ep.podcast_link }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
         <itunes:title>{{ ep.title | xml_escape }}</itunes:title>
         <itunes:subtitle>{{ include.podcast.podcast_subtitle }}</itunes:subtitle>
+        {% if ep.season_number %}<itunes:season>{{ep.season_number}}</itunes:season>{% endif %}
         {% if ep.episode_number %}<itunes:episode>{{ep.episode_number}}</itunes:episode>{% endif %}
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape | strip_html }}</itunes:summary>
         <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>

@@ -6,7 +6,12 @@
 
     <div class="info-container">
       <div class="info">
-        <a href="{{episode.url}}"><h1>{{ include.episode.podcast_title_prefix}} #{{include.episode.episode_number}}: {{ include.episode.title }}</h1></a>
+        <a href="{{episode.url}}"><h1>
+          {{ include.episode.podcast_title_prefix}} #{{ ep.season_number}}
+          {% if ep.episode_number <= 9 %}
+            0
+          {% endif %}
+          {{ ep.episode_number}}: {{ include.episode.title }}</h1></a>
 
 
         {% include tags-stream.html podcast=include.episode %}

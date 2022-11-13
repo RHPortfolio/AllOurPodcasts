@@ -2,7 +2,7 @@
   <div class="header">
     <p>Published: {{episode.date | date: "%a, %b %d, %Y"}}</p>
 
-    <a href="{{episode.url}}"><h2>{{episode.podcast_title_prefix}} #{{episode.episode_number}}: {{ episode.title }}</h2></a>
+    <a href="{{episode.url}}"><h2>{{episode.podcast_title_prefix}} #{{ episode.season_number }}{% unless episode.episode_number > 9 %}0{% endunless %}{{ episode.episode_number}}: {{ episode.title }}</h2></a>
 
     </div>
 
@@ -11,7 +11,7 @@
       <img class="podcast-art" src="{{episode.image_url}}" alt="{{episode.title}}" />
     {% else %}
       {% assign _podcast=site.data.podcasts | where: "id", page.id | first %}
-      <img class="podcast-art" src="{{_podcast.podcast_album_art}}" alt="{{episode.podcast_title_prefix}}{{episode.episode_number}}{{episode.title}}" />
+      <img class="podcast-art" src="{{_podcast.podcast_album_art}}" alt="{{episode.podcast_title_prefix}}#{{ episode.episode_number}}{% if episode.episode_number <= 9 %}0{% endif %}{{ episode.episode_number}}{{episode.title}}" />
     {% endif %}
 
     <div class="info">

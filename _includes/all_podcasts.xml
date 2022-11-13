@@ -16,7 +16,6 @@
     <itunes:image
       href="{{ site.url | xml_escape }}{{ site.data.me3.podcast_album_art | xml_escape }}"
     />
-    </itunes:image>
     <itunes:owner>
         <itunes:name>{{ site.data.me3.podcast_owner | xml_escape }}</itunes:name>
         <itunes:email>{{ site.data.me3.podcast_email | xml_escape }}</itunes:email>
@@ -39,7 +38,7 @@
   {% assign _episodes = site.seasons | concat: site.gbbo | concat: site.disney | sort: "date" | reverse %}
   {% for ep in _episodes %}
     <item>
-        <title>{{ep.podcast_title_prefix}} #{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
+        <title>{{ep.podcast_title_prefix}} #{{ ep.season_number}}{% if ep.episode_number <= 9 %}0{% endif %}{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
         <link>{{ site.url | append: ep.url | xml_escape }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
@@ -58,12 +57,9 @@
         <enclosure url="{{ ep.podcast_link }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
         <itunes:title>{{ ep.title | xml_escape }}</itunes:title>
         <itunes:subtitle>{{ site.data.me3.podcast_subtitle }}</itunes:subtitle>
-        {% if ep.episode_number %}<itunes:episode>{{ep.episode_number}}</itunes:episode>{% endif %}
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape }}</itunes:summary>
         <itunes:author>{{ site.data.me3.podcast_author | xml_escape }}</itunes:author>
-        <itunes:image
-          href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}"
-        />
+        <itunes:image href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}" />
         <itunes:explicit>{{ site.data.me3.podcast_explicit | xml_escape }}</itunes:explicit>
         <itunes:keywords>{% for podcast_category in site.data.me3.categories %}{{podcast_category}}, {% endfor %}{% for podcast_tag in site.data.me3.tags %}{{podcast_tag}}, {% endfor %}{% for category in ep.categories %}{{category}},  {% endfor %}{% for tag in ep.tags %}{{tag}}, {% endfor %}</itunes:keywords>
         <itunes:duration>{{ ep.audio_duration | default="55:00" | xml_escape }}</itunes:duration>
