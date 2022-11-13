@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 101
+season_number: 1
+episode_number: 1
 title:  "We Watch Snow White"
 date:   2015-06-29 09:34:58 +0100
 categories: podcast disney

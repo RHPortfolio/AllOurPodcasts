@@ -1,6 +1,7 @@
 ---
 layout: episode_seasons
-episode_number: 101
+season_number: 1
+episode_number: 1
 title:  "Meg Ryan, Cozy Films, Films Where Someone Dies in Pedal Bike Accidents"
 date:   2022-09-30 21:34:58 +0100
 categories: podcast seasons

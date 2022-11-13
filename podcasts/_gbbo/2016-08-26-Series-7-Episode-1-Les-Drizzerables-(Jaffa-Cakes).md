@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 701
+season_number: 7
+episode_number: 1
 title: "Series 7 Episode 1 Les Drizzerables (Jaffa Cakes)"
 date: 2016-08-26 11:55:29 +0100
 categories: podcast gbbo series-7 season-7

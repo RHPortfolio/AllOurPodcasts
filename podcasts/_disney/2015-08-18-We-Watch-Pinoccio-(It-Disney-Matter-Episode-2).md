@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 102
+season_number: 1
+episode_number: 2
 title:  "We Watch Pinoccio"
 date:   2015-08-18 09:34:58 +0100
 categories: podcast disney

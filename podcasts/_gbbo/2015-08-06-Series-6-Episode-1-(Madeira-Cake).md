@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 601
+season_number: 6
+episode_number: 1
 title: "Series 6 Episode 1 (Madeira Cake)"
 date: 2015-08-06 10:30:50 +0100
 categories: podcast gbbo

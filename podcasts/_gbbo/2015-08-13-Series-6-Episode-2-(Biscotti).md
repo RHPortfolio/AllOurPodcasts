@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 602
+season_number: 6
+episode_number: 2
 title: "Series 6 Episode 2 (Biscotti)"
 date: 2015-08-13 10:30:50 +0100
 categories: podcast gbbo

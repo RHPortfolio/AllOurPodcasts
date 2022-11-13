@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 104
+season_number: 1
+episode_number: 4
 title:  "We Watch Robin Hood"
 date:   2016-02-18 09:34:58 +0100
 categories: podcast disney

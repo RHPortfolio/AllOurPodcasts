@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 702
+season_number: 7
+episode_number: 2
 title: "Series 7 Episode 2 Benetration (Viennese Whirls)"
 date: 2016-09-01 15:53:04
 categories: podcast gbbo series-7 season-7

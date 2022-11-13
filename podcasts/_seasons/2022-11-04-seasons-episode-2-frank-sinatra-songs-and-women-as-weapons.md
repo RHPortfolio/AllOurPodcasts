@@ -1,6 +1,7 @@
 ---
 layout: episode_seasons
-episode_number: 102
+season_number: 1
+episode_number: 2
 title:  "Frank Sinatra Songs and Woman as Weapons"
 date:   2022-11-04 09:00:58 +0100
 categories: podcast seasons

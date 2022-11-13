@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 709
+season_number: 7
+episode_number: 9
 title: "Series 7 Episode 9 - Insane in the Membrane (Savarin)"
 date:  2016-10-21 10:59:34
 categories: podcast gbbo series-7 season-7

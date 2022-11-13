@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 607
+season_number: 6
+episode_number: 7
 title: "Series 6 Episode 7 (Tall Pie)"
 date:  2015-09-18 10:38:47 +0100
 categories: podcast gbbo series-6 season-6

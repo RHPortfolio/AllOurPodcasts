@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 609
+season_number: 6
+episode_number: 9
 title: "Series 6 Episode 9 (Chocolate Tart)"
 date: 2015-10-01 11:16:11 +0100
 categories: podcast gbbo series-6 season-6

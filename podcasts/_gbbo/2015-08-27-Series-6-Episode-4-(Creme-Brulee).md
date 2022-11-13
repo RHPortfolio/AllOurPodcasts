@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 604
+season_number: 6
+episode_number: 4
 title: "Series 6 Episode 4 (Crème Brûlée)"
 date:  2015-08-27 10:30:50 +0100
 categories: podcast gbbo series-6 season-6

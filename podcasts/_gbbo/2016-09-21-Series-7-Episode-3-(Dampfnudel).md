@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 703
+season_number: 7
+episode_number: 3
 title: "Series 7 Episode 3 (Dampfnudel)"
 date: 2016-09-21 10:29:45
 categories: podcast gbbo series-7 season-7

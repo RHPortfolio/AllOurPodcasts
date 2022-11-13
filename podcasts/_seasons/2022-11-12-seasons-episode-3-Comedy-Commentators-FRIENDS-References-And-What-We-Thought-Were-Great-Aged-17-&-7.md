@@ -1,8 +1,9 @@
 ---
 layout: episode_seasons
-episode_number: 103
+season_number: 1
+episode_number: 3
 title:  "Comedy Commentators, FRIENDS References And What We Thought Were Great Aged 17 & 7"
-date:   2022-11-12 09:00:00 +0100
+date: 2022-11-12 09:00:00 +0100
 categories: podcast seasons
 link: https://archive.org/download/seasons-103-comedy-commentators-friends-references-and-what-we-thought-were-great-aged-17-7/Seasons%20%23103_%20Comedy%20Commentators%2C%20FRIENDS%20References%20and%20What%20We%20Thought%20Were%20Great%20Aged%2017%20%26%207.mp3
 podcast_link: https://archive.org/download/seasons-103-comedy-commentators-friends-references-and-what-we-thought-were-great-aged-17-7/Seasons%20%23103_%20Comedy%20Commentators%2C%20FRIENDS%20References%20and%20What%20We%20Thought%20Were%20Great%20Aged%2017%20%26%207.mp3

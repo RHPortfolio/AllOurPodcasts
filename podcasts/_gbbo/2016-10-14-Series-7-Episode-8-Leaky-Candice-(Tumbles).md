@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 708
+season_number: 7
+episode_number: 8
 title: "Series 7 Episode 8 - Leaky Candice (Tumbles)"
 date: 2016-10-16 18:03:27
 categories: podcast gbbo series-7 season-7

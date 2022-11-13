@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 106
+season_number: 1
+episode_number: 6
 title:  "We Watch Finding Dory"
 date:   2016-06-19 09:34:58 +0100
 categories: podcast disney

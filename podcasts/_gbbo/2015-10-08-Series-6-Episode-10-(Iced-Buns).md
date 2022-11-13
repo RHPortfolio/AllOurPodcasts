@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 610
+season_number: 6
+episode_number: 10
 title: "Series 6 Episode 10 (Iced Buns)"
 date: 2015-10-08 22:40:44 +0100
 categories: podcast gbbo series-6 season-6

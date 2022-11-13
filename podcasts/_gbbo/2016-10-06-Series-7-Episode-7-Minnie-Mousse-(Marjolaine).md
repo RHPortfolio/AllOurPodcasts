@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 707
+season_number: 7
+episode_number: 7
 title: "Series 7 Episode 7 - Minnie Mousse (Marjolaine)"
 date: 2016-10-07 12:02:15
 categories: podcast gbbo series-7 season-7

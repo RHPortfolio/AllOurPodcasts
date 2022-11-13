@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 706
+season_number: 7
+episode_number: 6
 title: "Series 7 Episode 6 - Fougasse! No YOU are! (Fougasse)"
 date: 2016-09-29 09:46:44
 categories: podcast gbbo series-7 season-7

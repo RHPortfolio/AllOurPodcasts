@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 603
+season_number: 6
+episode_number: 3
 title: "Series 6 Episode 3 (Quickbreads)"
 date: 2015-08-23 11:30:50 +0100
 categories: podcast gbbo series-6 season-6

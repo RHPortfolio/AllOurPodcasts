@@ -1,6 +1,7 @@
 ---
 layout: episode
-episode_number: 103
+season_number: 1
+episode_number: 3
 title:  "We Watch Flubber"
 date:   2016-01-25 09:34:58 +0100
 categories: podcast disney

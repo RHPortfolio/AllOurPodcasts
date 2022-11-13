@@ -1,5 +1,7 @@
 ---
 layout: episode
+season_number: 1
+episode_number: 1
 title:  "Great British Bitch Off with Me3 Comedy Intro"
 date:   2015-08-05 13:49:55 +0100
 categories: podcast gbbo
