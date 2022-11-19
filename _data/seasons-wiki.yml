@@ -529,7 +529,7 @@
   films:
     - Phantom Thread
 
-    - season_title: "Michel Gondry Films"
+- season_title: "Michel Gondry Films"
   description: "...by the director"
   completed: false
   episodes:
@@ -599,6 +599,7 @@
   completed: false
   episodes:
     - 104
+
 - season_title: "Secret Situationist Films"
   description: "...finds which expose Situationist thinking, even unwittingly"
   completed: false
@@ -607,13 +608,13 @@
   films:
     - 'Hello Dolly'
 
-  - season_title: "Tearjerkers"
+- season_title: "Tearjerkers"
   description: "...films that make you bawl your eyes out"
   completed: false
   episodes:
     - 104
 
-  - season_title: "Movies with Movies in"
+- season_title: "Movies with Movies in"
   description: "...films that feature other films "
   completed: true
   episodes:
@@ -623,7 +624,7 @@
     - 'Zombieland'
     - 'Cinema Paradiso'
 
-  - season_title: "Movies from Movies with Movies in"
+- season_title: "Movies from Movies with Movies in"
   description: "...films that we should watch that have been played in other films"
   completed: true
   episodes:
@@ -633,19 +634,19 @@
     - 'The Blob (as referenced in Grease)'
     - 'An Affair to Remember (as referenced in ...?)'
 
-  - season_title: "How to watch... Bernie"
+- season_title: "How to watch... Bernie"
   description: "...need to work out a reason to watch this film"
   completed: false
   episodes:
     - 104
 
-  - season_title: "How to watch... Three Amigos"
+- season_title: "How to watch... Three Amigos"
   description: "...need to work out a reason to watch this film"
   completed: false
   episodes:
     - 104
 
-  - season_title: "How to watch... Mean Girls"
+- season_title: "How to watch... Mean Girls"
   description: "...need to work out a reason to watch this film"
   completed: false
   episodes:
@@ -663,25 +664,25 @@
   episodes:
     - 104
 
- - season_title: "Films you'd be shown at school in... R.E."
+- season_title: "Films you'd be shown at school in... R.E."
   description: "...wheeling out the old vhs"
   completed: false
   episodes:
     - 104
 
- - season_title: "Films you'd be shown at school in... English Lit"
+- season_title: "Films you'd be shown at school in... English Lit"
   description: "...wheeling out the old vhs"
   completed: false
   episodes:
     - 104
 
- - season_title: "Slapstick"
+- season_title: "Slapstick"
   description: "...violence as comedy"
   completed: false
   episodes:
     - 104
 
- - season_title: "Movies where someone is dancing to music only they can hear"
+- season_title: "Movies where someone is dancing to music only they can hear"
   description: "...wearing headphones or whatever"
   completed: false
   episodes:
@@ -689,13 +690,13 @@
   films:
     - '500 Days of Summer'
 
- - season_title: "Movies you thought were something else"
+- season_title: "Movies you thought were something else"
   description: "...unexpected misunderstandings"
   completed: false
   episodes:
     - 104
 
- - season_title: "Fictional Films In Films"
+- season_title: "Fictional Films In Films"
   description: "...so you can't actually see these"
   completed: false
   episodes:
@@ -703,7 +704,7 @@
   films:
     - 'Stab (from Scream 2)'
 
- - season_title: "Films That The 8,000,000,000th Baby Should See"
+- season_title: "Films That The 8,000,000,000th Baby Should See"
   description: "...essential viewing, essentially"
   completed: true
   episodes:
@@ -713,37 +714,37 @@
     - The Truman Show
     - Boyhood
 
- - season_title: "John Candy season"
+- season_title: "John Candy season"
   description: "...the man himself"
   completed: false
   episodes:
     - 104
 
- - season_title: "Shrimp Boat Season"
+- season_title: "Shrimp Boat Season"
   description: "...?"
   completed: false
   episodes:
     - 104
 
- - season_title: "Mother-child Friendship"
+- season_title: "Mother-child Friendship"
   description: "...family love"
   completed: false
   episodes:
     - 104
 
- - season_title: "Running Films"
+- season_title: "Running Films"
   description: "...the physical act"
   completed: false
   episodes:
     - 104
 
- - season_title: "Mentally Running Away Films"
+- season_title: "Mentally Running Away Films"
   description: "...retreating from your woes"
   completed: false
   episodes:
     - 104
 
- - season_title: "Intellectually Disabled Protagonist"
+- season_title: "Intellectually Disabled Protagonist"
   description: "...films where one of the featured characters has neurodevelopmental hurdles in their journey"
   completed: true
   episodes:
@@ -753,7 +754,7 @@
     - 'Mercury Rising'
     - 'Life, Animated'
 
- - season_title: "Watergate"
+- season_title: "Watergate"
   description: "...films about watergate"
   completed: false
   episodes:
@@ -762,18 +763,19 @@
     - "All The President's Men"
     - "Frost\/Nixon"
 
- - season_title: "Fictional Biography"
+- season_title: "Fictional Biography"
   description: "...they made it up!"
   completed: false
   episodes:
     - 104
- - season_title: "Things in Boxes"
+
+- season_title: "Things in Boxes"
   description: "...parcels not to be opened etc."
   completed: false
   episodes:
     - 104
 
- - season_title: "Tom Hanks Movies... about aids"
+- season_title: "Tom Hanks Movies... about aids"
   description: "...quite specific"
   completed: false
   episodes:
@@ -782,7 +784,7 @@
     - 'Philadelphia'
 
 
- - season_title: "Tom Hanks Movies... featuring accents"
+- season_title: "Tom Hanks Movies... featuring accents"
   description: "...less specific"
   completed: false
   episodes:
