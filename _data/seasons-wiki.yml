@@ -112,12 +112,6 @@
   episodes:
     - 102
 
-- season_title: "Films Referenced in Friends"
-  description: "Films which are made used in whatever way within the sitcom F.R.I.E.N.D.Z.'"
-  completed: false
-  episodes:
-    - 102
-
 - season_title: "Die Hard Films"
   description: "Films from the die hard franchise"
   completed: false
@@ -238,6 +232,7 @@
   completed: true
   episodes:
     - 103
+    - 102
   films:
     - "Star Wars: Episode 6 - Return of the Jedi"
     - "Indecent Proposal"
@@ -402,6 +397,7 @@
     - 103
   films:
     - 'Gone with the Wind?'
+    - 'Blazing Saddles'
 
 - season_title: "Unlikely Remakes"
   description: "Films you don't immediately consider as remakes"
@@ -524,3 +520,338 @@
     - 103
   films:
     - "Pagemaster"
+
+- season_title: "Sew and Sew"
+  description: "Films which include sewing, threading, weaving, that sort of things'"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - Phantom Thread
+
+    - season_title: "Michel Gondry Films"
+  description: "...by the director"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - Science of Sleep
+
+- season_title: "Accidental Electrocution"
+  description: "...characters receive a shock they weren't expecting"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Films where it ends up that one of them is a ghost all along"
+  description: "sorry, spoilers ahead"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Rhyme in the Title"
+  description: "...the title has to repeat sounds in some way"
+  completed: false
+  episodes:
+    - 104
+- season_title: "DVDs you Own But Have Never Seen"
+  description: "...no lying"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Blood, Guts & Screaming"
+  description: "...probably horror films, and probably not for Marianne's enjoyment"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Texas Chainsaw Massacre'
+
+- season_title: "Love or Friendship between children"
+  description: "...platonic, pure love between siblings, friends etc."
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Luca'
+    - 'Son of Rambow'
+
+- season_title: "Christmas Films that Aren't Christmas Films"
+  description: "...e.g. E.T."
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Meta Zombedy Films"
+  description: "...funny zombie movies"
+  completed: false
+  episodes:
+    - 104
+- season_title: "Julie Andrew Season"
+  description: "...though Sound of Music may not feature due to its 'special status"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Steve Martin Season"
+  description: ""
+  completed: false
+  episodes:
+    - 104
+- season_title: "Secret Situationist Films"
+  description: "...finds which expose Situationist thinking, even unwittingly"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Hello Dolly'
+
+  - season_title: "Tearjerkers"
+  description: "...films that make you bawl your eyes out"
+  completed: false
+  episodes:
+    - 104
+
+  - season_title: "Movies with Movies in"
+  description: "...films that feature other films "
+  completed: true
+  episodes:
+    - 104
+  films:
+    - 'Be Kind, Rewind'
+    - 'Zombieland'
+    - 'Cinema Paradiso'
+
+  - season_title: "Movies from Movies with Movies in"
+  description: "...films that we should watch that have been played in other films"
+  completed: true
+  episodes:
+    - 104
+  films:
+    - 'Rambo: First Blood (as referenced in Son of Rambow)'
+    - 'The Blob (as referenced in Grease)'
+    - 'An Affair to Remember (as referenced in ...?)'
+
+  - season_title: "How to watch... Bernie"
+  description: "...need to work out a reason to watch this film"
+  completed: false
+  episodes:
+    - 104
+
+  - season_title: "How to watch... Three Amigos"
+  description: "...need to work out a reason to watch this film"
+  completed: false
+  episodes:
+    - 104
+
+  - season_title: "How to watch... Mean Girls"
+  description: "...need to work out a reason to watch this film"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "How to watch... Guest House Paradiso"
+  description: "...need to work out a reason to watch this film"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "How to watch... Dead Man Walking"
+  description: "...need to work out a reason to watch this film"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Films you'd be shown at school in... R.E."
+  description: "...wheeling out the old vhs"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Films you'd be shown at school in... English Lit"
+  description: "...wheeling out the old vhs"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Slapstick"
+  description: "...violence as comedy"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Movies where someone is dancing to music only they can hear"
+  description: "...wearing headphones or whatever"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - '500 Days of Summer'
+
+ - season_title: "Movies you thought were something else"
+  description: "...unexpected misunderstandings"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Fictional Films In Films"
+  description: "...so you can't actually see these"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Stab (from Scream 2)'
+
+ - season_title: "Films That The 8,000,000,000th Baby Should See"
+  description: "...essential viewing, essentially"
+  completed: true
+  episodes:
+    - 104
+  films:
+    - Forrest Gump
+    - The Truman Show
+    - Boyhood
+
+ - season_title: "John Candy season"
+  description: "...the man himself"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Shrimp Boat Season"
+  description: "...?"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Mother-child Friendship"
+  description: "...family love"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Running Films"
+  description: "...the physical act"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Mentally Running Away Films"
+  description: "...retreating from your woes"
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Intellectually Disabled Protagonist"
+  description: "...films where one of the featured characters has neurodevelopmental hurdles in their journey"
+  completed: true
+  episodes:
+    - 104
+  film: 
+    - 'I am sam'
+    - 'Mercury Rising'
+    - 'Life, Animated'
+
+ - season_title: "Watergate"
+  description: "...films about watergate"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - "All The President's Men"
+    - "Frost\/Nixon"
+
+ - season_title: "Fictional Biography"
+  description: "...they made it up!"
+  completed: false
+  episodes:
+    - 104
+ - season_title: "Things in Boxes"
+  description: "...parcels not to be opened etc."
+  completed: false
+  episodes:
+    - 104
+
+ - season_title: "Tom Hanks Movies... about aids"
+  description: "...quite specific"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Philadelphia'
+
+
+ - season_title: "Tom Hanks Movies... featuring accents"
+  description: "...less specific"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Gay In The Mainstream"
+  description: "...coming out into the open"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Carey Mulligan Season"
+  description: "...all about her"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Never Let Me Go'
+
+- season_title: "Movies That Created a Real Life Reaction"
+  description: "...like War of the Worlds did on the radio"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Films that play with memory"
+  description: "...what was that category again?"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Cute Robot Season"
+  description: "...they made it up!"
+  completed: false
+  episodes:
+    - 104
+  films:
+    - 'Silent Running'
+
+- season_title: "Teeth Season"
+  description: "...films with teeth"
+  completed: false
+  episodes:
+    - 104
+  films: 
+    - "JAWS"
+
+- season_title: "Tender Films"
+  description: "...oh so sweet"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Movies About Blue People"
+  description: "...da ba dee da ba di Da"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "People Who Go Into Cartoon Characters"
+  description: "...transformations"
+  completed: false
+  episodes:
+    - 104
+
+- season_title: "Other World Films"
+  description: "...woah, where are we?"
+  completed: false
+  episodes:
+    - 104
+
+
