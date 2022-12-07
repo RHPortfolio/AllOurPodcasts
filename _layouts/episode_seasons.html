@@ -13,9 +13,13 @@
         <div class="podcast-page">
 
           {% include episode-page-header.html episode=page %}
-
-
-          {% include episode-page-seasons-notes.html episode=page.episode_number %}
+          {% if page.episode_number <= 9 %}
+            {% assign _episode_number = page.season_number | append: "0" | append: page.episode_number %}
+          {% else %}
+            {% assign _episode_number = page.season_number | append: page.episode_number %}
+          {% endif %}
+          
+          {% include episode-page-seasons-notes.html episode=_episode_number %}
 
 
         </div>
