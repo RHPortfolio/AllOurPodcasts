@@ -11,7 +11,7 @@ layout: default
       <img class="home-podcast-art" src="{{podcast.podcast_album_art}}" alt="{{podcast.title}}" />
     </a>
     <p>
-      <a href="{{podcast.podcast_url}}">RSS</a> | <a href="{{podcast.itunes_url}}">iTunes</a>
+      <a href="{{podcast.podcast_url}}">RSS</a> | <a href="{{podcast.itunes_url}}">iTunes</a>{% if podcast.spotify_url %} | <a href="{{podcast.spotify_url}}">Spotify</a>{% endif %}
       </p>
       </div>
     {% endfor %}
