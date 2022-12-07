@@ -812,3 +812,24 @@ display: flex;
 .attached-seasons li {
 
   display: inline-block;}
+
+.padding-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.padding-container small { 
+  align-self: flex-end;
+ }
+
+@media screen and (max-width: 480px) { 
+  .padding-container small { 
+    font-size: 0.4em;
+  }
+}
+@media screen and (min-width: 480px) {
+ .padding-container small { 
+    font-size: 0.8em;
+  }
+}
