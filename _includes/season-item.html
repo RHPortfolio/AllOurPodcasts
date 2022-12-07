@@ -1,28 +1,27 @@
 <div class="season-item {% if include.season.completed == true %}complete{% else %}incomplete{% endif %}">
-  <div class="header">
-    <h2 id="{{include.season.season_title | replace: " ", "-"}}">
+  <input type="checkbox" id="{{include.season.season_title | replace: ' ', '-'}}">{% if include.season.completed == true %}
+    {% assign status = "complete" %}
+  {% else %}
+    {% assign status = "incomplete" %}
+  {% endif %}
+  <label class="{{status}}" for="{{include.season.season_title | replace: ' ', '-'}}">
+<div class="film-title"><h2 id="{{include.season.season_title | replace: " ", "-"}}">
       {{ include.season.season_title }}
-    </h2>
-    <a class="link grey" href="{{ page.url }}#{{include.season.season_title | replace: " ", "-"}}">
-      <i class="fa-solid fa-link"></i>
-    </a>
-
-  </div>
-  <p class="subheader">
-      {% if include.season.completed == true %}
-        <em class="tag green">Complete</em>
-      {% else %}
-        <em class="tag">Incomplete</em>
-      {% endif %}
-      See episodes {{ include.season.episodes | array_to_sentence_string}}
-    </em>
-  </p>
-  <p>
-    {{ include.season.description}}
-  </p>
-  <ul class="films">
-    {% for film in include.season.films %}
-      <li>{{film}}</li>
-    {% endfor %}
-  </ul>
+    </h2> </div>
+  </label>
+  <div class="content" id="content-{{include.season.season_title | replace: ' ', '-'}}">
+    <div>
+     
+      <p> {{ include.season.description}} </p>
+      <ul class="films">
+      {% for film in include.season.films %}
+      {% assign _title-key = film | replace: " ", "-" | downcase %}
+      {% assign _film-meta = site.data.films-tmdb | where: "title_key", _title-key | first %}
+        <li><a href="https://www.themoviedb.org/movie/{{_film-meta.id}}"><img class="film-posters" src="https://image.tmdb.org/t/p/w500/{{ _film-meta.poster_path}}" alt="{{ _film-meta.title }} ({{ _film-meta.release_date }})" /></a>
+        </li>
+      {% endfor %}
+    </ul>
+     <p><em>See episodes {{ include.season.episodes | array_to_sentence_string}}.</em> Share this season </p><a class="link grey" href="{{ page.url }}#{{include.season.season_title | replace: " ", "-"}}"><i class="fa-solid fa-link"></i></a>
+    </div>
+</div>
 </div>
