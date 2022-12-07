@@ -1,3 +1,4 @@
+<!-- /:podcast/:episode-url -->
 <article class="podcast-header">
   <div class="podcast-main">
 
@@ -7,11 +8,9 @@
     <div class="info-container">
       <div class="info">
         <a href="{{episode.url}}"><h1>
-          {{ include.episode.podcast_title_prefix}} #{{ ep.season_number}}
-          {% if ep.episode_number <= 9 %}
-            0
-          {% endif %}
-          {{ ep.episode_number}}: {{ include.episode.title }}</h1></a>
+          {{ include.episode.podcast_title_prefix}} #{{ include.episode.season_number}}
+          {% if include.episode.episode_number <= 9 %}0{% endif %}
+          {{ include.episode.episode_number}}: {{ include.episode.title }}</h1></a>
 
 
         {% include tags-stream.html podcast=include.episode %}
@@ -22,7 +21,8 @@
     </div>
   </div>
   <div class="footer">
-    {% include podcasts-item-subscribe-row.html podcast=include.episode url=include.episode.url %}
+    {% assign podcast-meta = site.data.podcasts | where: "title-prefix", include.episode.podcast_title_prefix | first %}
+    {% include podcasts-item-subscribe-row.html podcast=podcast-meta url=include.episode.url %}
     {% assign link=site.url | append: include.episode.url %}
     {% include podcasts-item-footer.html link=link %}
   </div>

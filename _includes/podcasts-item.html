@@ -11,7 +11,8 @@
       {% include tags-stream.html podcast=podcast %}
 
       <div class="subscribe-row">
-        {% include podcasts-item-subscribe-row.html podcast=podcast %}
+        {% assign podcast-meta = site.data.podcasts | where: "id", podcast.title | first %}
+        {% include podcasts-item-subscribe-row.html podcast=podcast-meta %}
       </div>
 
       <p>{{podcast.description}}</p>
