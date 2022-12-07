@@ -20,7 +20,7 @@
 
 title: Me3 Comedy - All Our Podcasts
 email: meThreeComedy@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   The new home of Me3 Comedy podcasts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.me3comedy.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -83,7 +83,7 @@ defaults:
       path: ""
       type: "seasons" # a collection in your site, in plural form
     values:
-      podcast_url: /feed/seasons.xml
+      podcast_url: /seasons.xml
       podcast_album_art: /assets/2000x2000_Seasons_Podcast_Art.jpg
       podcast_title: Seasons
       podcast_owner: Me3 Comedy (Marianne MacRae and Richard Hanrahan)
@@ -95,11 +95,13 @@ defaults:
       podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
       podcast_subtitle: Debating the miniature film festivals they'll never get to do.
       podcast_title_prefix: "Seasons"
+      spotify_url: "https://open.spotify.com/show/2woM0Q0X5ZMrNrCeVKKX4y"
+      itunes_url: "https://podcasts.apple.com/us/podcast/seasons/id1654347929?itsct=podcast_box&itscg=30200&ls=1"
   - scope:
       path: ""
       type: "disney" # a collection in your site, in plural form
     values:
-      podcast_url: /feed/disney.xml
+      podcast_url: /disney.xml
       podcast_album_art: /assets/1400x1400_It-Disney-Matter.jpg
       podcast_title: It Disney Matter
       podcast_owner: Me3 Comedy (Marianne MacRae and Richard Hanrahan)
@@ -111,11 +113,12 @@ defaults:
       podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
       podcast_subtitle: (It Does!)
       podcast_title_prefix: "IDM"
+      itunes_url: "https://podcasts.apple.com/gb/podcast/it-disney-matter-it-does-with-me3-comedy/id1043323566"
   - scope:
       path: ""
       type: "gbbo" # a collection in your site, in plural form
     values:
-      podcast_url: /feed/gbbo.xml
+      podcast_url: /gbbo.xml
       podcast_album_art: /assets/3000x3000_GBBO-Podcast.jpg
       podcast_title: Great British Bitch Off
       podcast_owner: Me3 Comedy (Marianne MacRae and Richard Hanrahan)
@@ -127,3 +130,4 @@ defaults:
       podcast_summary: Weekly(ish) podcast in which the Me3 Comedy Lovers - Richard Hanrahan and Marianne MacRae - explore all things Disney as they endeavour to watch every Disney film, in no particulaar order - and then talk about it.
       podcast_subtitle: (It Does!)
       podcast_title_prefix: "GBBO"
+      itunes_url: "https://podcasts.apple.com/gb/podcast/great-british-bitch-off-with-me3-comedy/id1043321466"
