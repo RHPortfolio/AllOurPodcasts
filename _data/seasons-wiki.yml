@@ -1,18 +1,72 @@
 -
-   season_title: Films With Frank Sinatra Songs
-   description: Films which feature a track sung by Frank Sinatra, including songs by him covered by other artists
-   completed: TRUE
-   episodes: ["102"]
-   films: ["Bewitched", "Catch Me If You Can", "Down With Love"]
+   season_title: 2 Dogs, 1 Cat
+   description: ...cast contains two dogs and one cat
+   completed: FALSE
+   episodes: ["105"]
+   films: []
 -
-   season_title: Women As Weapons
-   description: Films which feature a central female character who are themselves a weapon. Often naive, or which feaature love or some other characteristic that defines them as better than the evil they must overcome
-   completed: TRUE
-   episodes: ["102"]
-   films: ["The Fifth Element","Alita: Battle Angel", "Red Sparrow"]
+   season_title: Accidental Electrocution
+   description: ...characters receive a shock they weren't expecting
+   completed: FALSE
+   episodes: ["104"]
+   films: []
 -
-   season_title: Tittyfire
-   description: Films which feature a sequences where someone's breasts are on fire, much like Mrs. Doubtfire
+   season_title: Adverts on VHS
+   description: Films known for being trailed before other films on a VHS
+   completed: FALSE
+   episodes: ["102"]
+   films: ["My Girl", "Song of the South"]
+-
+   season_title: Air Hostess Movies
+   description: Films which feature air hostesses, ideally in a prominent context
+   completed: FALSE
+   episodes: ["102"]
+   films: []
+-
+   season_title: Arthouse Nonsense
+   description: ...some arty thing where nothing really happens for 9 hours
+   completed: TRUE
+   episodes: ["105"]
+   films: [Fitzcarraldo, Russian Ark, Turin Horse]
+-
+   season_title: Backstreet Abortions
+   description: Films which involve an improvised/unofficial abortion
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Biggest Let Downs
+   description: Films that were considered critically acclaimed which you, for whatever reason, did not like
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Blood, Guts & Screaming
+   description: ...probably horror films, and probably not for Marianne's enjoyment
+   completed: FALSE
+   episodes: ["104"]
+   films: [Texas Chainsaw Massacre]
+-
+   season_title: Bonk on a Car on a boat
+   description: ...films that feature someone shagging in a car on a boat
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: British Ensemble Cast
+   description: Films considered British, which are built apon a wide range of established actors
+   completed: FALSE
+   episodes: ["103"]
+   films: ["Four Weddings and a Funeral?"]
+-
+   season_title: Carey Mulligan Season
+   description: ...all about her
+   completed: FALSE
+   episodes: ["104"]
+   films: [Never Let Me Go]
+-
+   season_title: Cartoon Character With Big Tits
+   description: Films which feature a cartoon character that prominently feature large breasts (e.g. Who Framed Roger Rabbit)
    completed: FALSE
    episodes: ["102"]
    films: []
@@ -23,46 +77,40 @@
    episodes: ["102"]
    films: ["Who Framed Roger Rabbit"]
 -
-   season_title: Adverts on VHS
-   description: Films known for being trailed before other films on a VHS
+   season_title: Chihuahua films
+   description: One of many 'dog by breed' seasons
    completed: FALSE
-   episodes: ["102"]
-   films: ["My Girl", "Song of the South"]
--
-   season_title: Copy Movies
-   description: Films seen having been copied or recorded from the telly
-   completed: FALSE
-   episodes: ["102"]
+   episodes: ["103"]
    films: []
 -
-   season_title: Piers Brosnan Hit By Fruit
-   description: Films which feature Piers Brosnan being hit by fruit
+   season_title: Child Actors who ended up having a career outside of movies
+   description: Films that feature child actors that went on to have careers outside of the movies
    completed: FALSE
-   episodes: ["102"]
-   films: ["Mrs. Doubtfire"]
--
-   season_title: Two Older Kids, One Younger
-   description: Films with children set-up as one significantly younger child with two older siblings (e.g. Mrs. Doubtfire)
-   completed: FALSE
-   episodes: ["102"]
+   episodes: ["103"]
    films: []
 -
-   season_title: Films to Fall Asleep To
-   description: Sleepy movies, either by habit or by content, which one has or could watch to aid somnolance
+   season_title: Christmas Action Films
+   description: ...
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["103"]
+   films: ["Die Hard?"]
+-
+   season_title: Christmas Films that Aren't Christmas Films
+   description: ...e.g. E.T.
+   completed: FALSE
+   episodes: ["104"]
    films: []
 -
-   season_title: Cartoon Character With Big Tits
-   description: Films which feature a cartoon character that prominently feature large breasts (e.g. Who Framed Roger Rabbit)
-   completed: FALSE
-   episodes: ["102"]
-   films: []
+   season_title: Comedy Commentators
+   description: Films where there are characters featured that provide comic relief
+   completed: TRUE
+   episodes: ["103, 102"]
+   films: ["Pitch Perfect 2", "Star Wars: Episode 1 - The Phantom Menace", "Dodgeball"]
 -
-   season_title: Deluded Film-makers
-   description: Films which feature content that is seemingly reflective of the film maker that unwittingly reveal flaws or vulnerabilities. E.g. Woody Allen films that cast him as an attractive lead
+   season_title: Communing with the dead
+   description: Films that feature attempted communication with the dead
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["103"]
    films: []
 -
    season_title: Con Man films
@@ -71,32 +119,38 @@
    episodes: ["102"]
    films: []
 -
-   season_title: Air Hostess Movies
-   description: Films which feature air hostesses, ideally in a prominent context
+   season_title: Copy Movies
+   description: Films seen having been copied or recorded from the telly
    completed: FALSE
    episodes: ["102"]
    films: []
 -
-   season_title: Good Prosthetic Teeth
-   description: Films which include some tasty fake gnashers
+   season_title: Corpse Films
+   description: Movies where one of the characters is a corpse - either as a prop or as a prominent protagonist
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["103"]
+   films: [Weekend at Bernie's,Death at a Funeral]
+-
+   season_title: Cute Robot Season
+   description: ...they made it up!
+   completed: FALSE
+   episodes: ["104"]
+   films: [Silent Running]
+-
+   season_title: Dairy Films
+   description: Milky movies
+   completed: FALSE
+   episodes: ["103"]
    films: []
 -
-   season_title: Scenes on Planes
-   description: Films which feature airplane airtime
-   completed: FALSE
-   episodes: ["102"]
-   films: []
+   season_title: Death on a toilet
+   description: Films that feature a death that takes place in or on a toilet
+   completed: TRUE
+   episodes: ["103"]
+   films: [Jurassic Park,Pulp Fiction,Elvis]
 -
-   season_title: Comedy Commentators
-   description: Films which include comic characters commentating formally on the digetic film reality
-   completed: FALSE
-   episodes: ["102"]
-   films: []
--
-   season_title: Essence Of a Virgin
-   description: Films which focus on virginity as an ingredient in its cinematic soup
+   season_title: Deluded Film-makers
+   description: Films which feature content that is seemingly reflective of the film maker that unwittingly reveal flaws or vulnerabilities. E.g. Woody Allen films that cast him as an attractive lead
    completed: FALSE
    episodes: ["102"]
    films: []
@@ -107,22 +161,40 @@
    episodes: ["102"]
    films: []
 -
-   season_title: Same Case Movies
-   description: Unknown, but I wrote it down
+   season_title: Documentaries That Make You Cry
+   description: ...
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["105"]
    films: []
 -
-   season_title: Three Word Movies
-   description: Films with three words in their title
+   season_title: Dogs who die
+   description: Films where a canine dies
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["103"]
+   films: [Marley and Me]
+-
+   season_title: Double-sided DVD
+   description: ...
+   completed: FALSE
+   episodes: ["103"]
    films: []
 -
-   season_title: Flaccid Penis Season
-   description: Films which feature or reference a flaccid penis. See also 'Erection' season
+   season_title: DVDs you Own But Have Never Seen
+   description: ...no lying
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["104"]
+   films: []
+-
+   season_title: Eaten Alive
+   description: Films where someone is consumed while still living. Ideally whole, like in a large whale or something
+   completed: FALSE
+   episodes: ["103", "106"]
+   films: [Sea Beast , Pinocchio]
+-
+   season_title: Elongated Nooo
+   description: Films which feature someone screaming 'nooo'
+   completed: FALSE
+   episodes: ["103"]
    films: []
 -
    season_title: Erections
@@ -131,22 +203,34 @@
    episodes: ["102"]
    films: []
 -
-   season_title: Title Spoken By Character
-   description: Films which feature a character saying the title of the film
+   season_title: Essence Of a Virgin
+   description: Films which focus on virginity as an ingredient in its cinematic soup
    completed: FALSE
    episodes: ["102"]
    films: []
 -
-   season_title: Start With A Phone Call
-   description: Films that are commenced by a call by phone.
+   season_title: Falling In Love With The Beast
+   description: ...when they are quite sexy, even in a kids film
    completed: FALSE
-   episodes: ["102"]
-   films: ["Scream"]
+   episodes: ["105"]
+   films: []
 -
-   season_title: William Shatner Sing Speaks
-   description: Films which feature William Shatner's distinctive music style
+   season_title: Fictional Biography
+   description: ...they made it up!
    completed: FALSE
-   episodes: ["102"]
+   episodes: ["104", "105"]
+   films: [Cock and Bull Story]
+-
+   season_title: Fictional Films In Films
+   description: ...so you can't actually see these
+   completed: FALSE
+   episodes: ["104"]
+   films: [Stab]
+-
+   season_title: Films about one day
+   description: Films that focus on a single day
+   completed: FALSE
+   episodes: ["103"]
    films: []
 -
    season_title: Films based on books you don't want to see
@@ -155,11 +239,209 @@
    episodes: ["102"]
    films: []
 -
-   season_title: The Skin I Live In
-   description: A season created specifically to feature the movie 'The Skin I Live In'
+   season_title: Films Based on Novels
+   description: ...book first films
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Films Not To Watch When You're Hungry
+   description: ...because the food depcited looks so damn good
+   completed: FALSE
+   episodes: ["105"]
+   films: [The Farewell]
+-
+   season_title: Films That Are Not Like Films In Some way
+   description: ...difficult to explain, needs further exploration
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Films that play with memory
+   description: ...what was that category again?
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Films That The 8,000,000,000th Baby Should See
+   description: ...essential viewing, essentially
+   completed: TRUE
+   episodes: ["104"]
+   films: [Forrest Gump,The Truman Show,Boyhood]
+-
+   season_title: Films to Fall Asleep To
+   description: Sleepy movies, either by habit or by content, which one has or could watch to aid somnolance
    completed: FALSE
    episodes: ["102"]
-   films: [The Skin I Live In]
+   films: []
+-
+   season_title: Films where it ends up that one of them is a ghost all along
+   description: sorry, spoilers ahead
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Films With Frank Sinatra Songs
+   description: Films which feature a track sung by Frank Sinatra, including songs by him covered by other artists
+   completed: TRUE
+   episodes: ["102"]
+   films: ["Bewitched", "Catch Me If You Can", "Down With Love"]
+-
+   season_title: Films with the word 'tit' in it
+   description: ...
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Films you'd be shown at school in... English Lit
+   description: ...wheeling out the old vhs
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Films you'd be shown at school in... R.E.
+   description: ...wheeling out the old vhs
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Five word Titles
+   description: ...
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Flaccid Penis Season
+   description: Films which feature or reference a flaccid penis. See also 'Erection' season
+   completed: FALSE
+   episodes: ["102"]
+   films: []
+-
+   season_title: Flatulance
+   description: Farty Classics
+   completed: FALSE
+   episodes: ["103"]
+   films: ["Gone with the Wind?",Blazing Saddles]
+-
+   season_title: Four word Titles
+   description: ...
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Fred Willan Season
+   description: Films that feature the brilliant but departed character actor
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Gay In The Mainstream
+   description: ...coming out into the open
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Girls Showering
+   description: Films where women are in the shower
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Good Prosthetic Teeth
+   description: Films which include some tasty fake gnashers
+   completed: FALSE
+   episodes: ["102"]
+   films: []
+-
+   season_title: Holocaust Films That Make You Cry
+   description: ...
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: How to watch... Bernie
+   description: ...need to work out a reason to watch this film
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: How to watch... Dead Man Walking
+   description: ...need to work out a reason to watch this film
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: How to watch... Guest House Paradiso
+   description: ...need to work out a reason to watch this film
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: How to watch... Mean Girls
+   description: ...need to work out a reason to watch this film
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: How to watch... Three Amigos
+   description: ...need to work out a reason to watch this film
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Improvised Scripts
+   description: Movies that were improvised on set
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: In The Bin
+   description: ...films that should be put in the bin and forgotten about
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Intellectually Disabled Protagonist
+   description: ...films where one of the featured characters has neurodevelopmental hurdles in their journey
+   completed: TRUE
+   episodes: ["104"]
+   films: [I am sam,Mercury Rising,"Life, Animated"]
+-
+   season_title: John Candy season
+   description: ...the man himself
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Julie Andrew Season
+   description: ...though Sound of Music may not feature due to its 'special status
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Kids Films That Make You Cry
+   description: ...
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Love or Friendship between children
+   description: ...platonic, pure love between siblings, friends etc.
+   completed: FALSE
+   episodes: ["104"]
+   films: [Luca,Son of Rambow]
+-
+   season_title: Male Protagonist
+   description: Films which have a male protagonist
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Marianne Hasn't Seen
+   description: Films Marianne hasn't seen
+   completed: FALSE
+   episodes: ["103"]
+   films: []
 -
    season_title: Marianne's Films you thought were great when you were 17
    description: A collection of films Marianne thought were great when she was 17
@@ -173,6 +455,150 @@
    episodes: ["103"]
    films: ["Freddie as F.R.O.7.",Fievel Goes West,Labyrinth]
 -
+   season_title: Marianne's Too Precious
+   description: Films considered too special to be considered or thrown away in a single film season. This is a special, personal category
+   completed: FALSE
+   episodes: ["103"]
+   films: [The Sound of Music,Little Women]
+-
+   season_title: Medium films
+   description: Films that feature a medium. Could be someone ghostly, could be vinyl, who knows!
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Mentally Running Away Films
+   description: ...retreating from your woes
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Meta Zombedy Films
+   description: ...funny zombie movies
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Michel Gondry Films
+   description: ...by the director
+   completed: FALSE
+   episodes: ["104"]
+   films: [Science of Sleep]
+-
+   season_title: Mockumentaries
+   description: Fictional films filmed in a faux documentary style
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Mother-child Friendship
+   description: ...family love
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Movies About Blue People
+   description: ...da ba dee da ba di Da
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Movies from Movies with Movies in
+   description: ...films that we should watch that have been played in other films
+   completed: TRUE
+   episodes: ["104"]
+   films: ["Rambo: First Blood",The Blob,An Affair to Remember]
+-
+   season_title: Movies That Created a Real Life Reaction
+   description: ...like War of the Worlds did on the radio
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Movies where someone is dancing to music only they can hear
+   description: ...wearing headphones or whatever
+   completed: FALSE
+   episodes: ["104"]
+   films: [500 Days of Summer]
+-
+   season_title: Movies with Movies in
+   description: ...films that feature other films
+   completed: TRUE
+   episodes: ["104"]
+   films: ["Be Kind, Rewind",Zombieland,Cinema Paradiso]
+-
+   season_title: Movies you thought were something else
+   description: ...unexpected misunderstandings
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: One word Food Films
+   description: Films that have a single word in the title, that is an item of food
+   completed: TRUE
+   episodes: ["103"]
+   films: [Chocolat,Butter,Ratatouille]
+-
+   season_title: One word Titles
+   description: ...
+   completed: FALSE
+   episodes: ["103"]
+   films: ["seven?", "once?"]
+-
+   season_title: Organ Harvesting
+   description: ...featuring something about harvesting organs
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Other World Films
+   description: ...woah, where are we?
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: People Who Go Into Cartoon Characters
+   description: ...transformations
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
+   season_title: Piers Brosnan Hit By Fruit
+   description: Films which feature Piers Brosnan being hit by fruit
+   completed: FALSE
+   episodes: ["102"]
+   films: ["Mrs. Doubtfire"]
+-
+   season_title: Post-2050
+   description: Films set after the year 2050
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: POV
+   description: Films that feature some scenes presented as if from the point of view of a character
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Referenced in the F.R.I.E.N.D.S
+   description: Films that were referenced in some way in the TV Show Friends. This includes films that were being watched within the show; films mentioned and films parodied or enacted within conversation (could be separate seasons)
+   completed: TRUE
+   episodes: ["103", "102"]
+   films: ["Star Wars: Episode 6 - Return of the Jedi", "Indecent Proposal", "Officer and a Gentleman"]
+-
+   season_title: Relentlessly Sad Films
+   description: ...fiction films that make you just cry and cry and cry, but more meaningful than a tearjerker
+   completed: FALSE
+   episodes: ["105"]
+   films: []
+-
+   season_title: Rhyme in the Title
+   description: ...the title has to repeat sounds in some way
+   completed: FALSE
+   episodes: ["104"]
+   films: []
+-
    season_title: Richard's Films you thought were great when you were 17
    description: A collection of films Richard thought were great when she was 17
    completed: TRUE
@@ -185,259 +611,31 @@
    episodes: ["103"]
    films: [Lion King,Home Alone,Ace Ventura]
 -
-   season_title: Comedy Commentators
-   description: Films where there are characters featured that provide comic relief
-   completed: TRUE
-   episodes: ["103"]
-   films: ["Pitch Perfect 2", "Star Wars: Episode 1 - The Phantom Menace", "Dodgeball"]
--
-   season_title: Referenced in the F.R.I.E.N.D.S
-   description: Films that were referenced in some way in the TV Show Friends. This includes films that were being watched within the show; films mentioned and films parodied or enacted within conversation (could be separate seasons)
-   completed: TRUE
-   episodes: ["103", "102"]
-   films: ["Star Wars: Episode 6 - Return of the Jedi", "Indecent Proposal", "Officer and a Gentleman"]
--
-   season_title: Death on a toilet
-   description: Films that feature a death that takes place in or on a toilet
-   completed: TRUE
-   episodes: ["103"]
-   films: [Jurassic Park,Pulp Fiction,Elvis]
--
-   season_title: One word Food Films
-   description: Films that have a single word in the title, that is an item of food
-   completed: TRUE
-   episodes: ["103"]
-   films: [Chocolat,Butter,Ratatouille]
--
-   season_title: Girls Showering
-   description: Films where women are in the shower
+   season_title: Running Films
+   description: ...the physical act
    completed: FALSE
-   episodes: ["103"]
+   episodes: ["104"]
    films: []
 -
-   season_title: Sincerity Collapse
-   description: Uncertain; a heightened moment in a film which at the same time attempts to be sincere and real but which is melodramatic or bizarre. E.g. Shower scene in Pitch Perfect
+   season_title: Same Case Movies
+   description: Unknown, but I wrote it down
    completed: FALSE
-   episodes: ["103"]
+   episodes: ["102"]
    films: []
 -
-   season_title: Post-2050
-   description: Films set after the year 2050
+   season_title: Scenes on Planes
+   description: Films which feature airplane airtime
    completed: FALSE
-   episodes: ["103"]
+   episodes: ["102"]
    films: []
 -
-   season_title: Male Protagonist
-   description: Films which have a male protagonist
+   season_title: Secret Situationist Films
+   description: ...finds which expose Situationist thinking, even unwittingly
    completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Elongated Nooo
-   description: Films which feature someone screaming 'nooo'
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Marianne Hasn't Seen
-   description: Films Marianne hasn't seen
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: POV
-   description: Films that feature some scenes presented as if from the point of view of a character
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Backstreet Abortions
-   description: Films which involve an improvised/unofficial abortion
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Zac Effron Musicals
-   description: Musical films featuring Zac Effron
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Child Actors who ended up having a career outside of movies
-   description: Films that feature child actors that went on to have careers outside of the movies
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Medium films
-   description: Films that feature a medium. Could be someone ghostly, could be vinyl, who knows!
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Communing with the dead
-   description: Films that feature attempted communication with the dead
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Films about one day
-   description: Films that focus on a single day
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Timeloop Movies
-   description: Films that feature a repeated segment of time
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Dairy Films
-   description: Milky movies
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Mockumentaries
-   description: Fictional films filmed in a faux documentary style
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Fred Willan Season
-   description: Films that feature the brilliant but departed character actor
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Improvised Scripts
-   description: Movies that were improvised on set
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Talking Dogs
-   description: Films that feature canines that talk
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Dogs who die
-   description: Films where a canine dies
-   completed: FALSE
-   episodes: ["103"]
-   films: [Marley and Me]
--
-   season_title: Chihuahua films
-   description: One of many 'dog by breed' seasons
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Eaten Alive
-   description: Films where someone is consumed while still living. Ideally whole, like in a large whale or something
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Flatulance
-   description: Farty Classics
-   completed: FALSE
-   episodes: ["103"]
-   films: ["Gone with the Wind?",Blazing Saddles]
--
-   season_title: Unlikely Remakes
-   description: Films you don't immediately consider as remakes
-   completed: FALSE
-   episodes: ["103"]
-   films: [Mr. Deeds]
--
-   season_title: One word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: ["seven?", "once?"]
--
-   season_title: Two word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Three word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Four word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Five word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Six word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
+   episodes: ["104"]
+   films: [Hello Dolly]
 -
    season_title: Seven word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: SNL Cast Films
-   description: Films that prominently feature SNL cast members
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Corpse Films
-   description: Movies where one of the characters is a corpse - either as a prop or as a prominent protagonist
-   completed: FALSE
-   episodes: ["103"]
-   films: [Weekend at Bernie's,Death at a Funeral]
--
-   season_title: Vest Films
-   description: Films where a vest is worn throughout the feature
-   completed: FALSE
-   episodes: ["103"]
-   films: ["Die Hard?"]
--
-   season_title: British Ensemble Cast
-   description: Films considered British, which are built apon a wide range of established actors
-   completed: FALSE
-   episodes: ["103"]
-   films: ["Four Weddings and a Funeral?"]
--
-   season_title: Christmas Action Films
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: ["Die Hard?"]
--
-   season_title: Biggest Let Downs
-   description: Films that were considered critically acclaimed which you, for whatever reason, did not like
-   completed: FALSE
-   episodes: ["103"]
-   films: []
--
-   season_title: Marianne's Too Precious
-   description: Films considered too special to be considered or thrown away in a single film season. This is a special, personal category
-   completed: FALSE
-   episodes: ["103"]
-   films: [The Sound of Music,Little Women]
--
-   season_title: Double-sided DVD
    description: ...
    completed: FALSE
    episodes: ["103"]
@@ -449,136 +647,22 @@
    episodes: ["104"]
    films: [Phantom Thread]
 -
-   season_title: Michel Gondry Films
-   description: ...by the director
-   completed: FALSE
-   episodes: ["104"]
-   films: [Science of Sleep]
--
-   season_title: Accidental Electrocution
-   description: ...characters receive a shock they weren't expecting
+   season_title: Shrimp Boat Season
+   description: ...?
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Films where it ends up that one of them is a ghost all along
-   description: sorry, spoilers ahead
+   season_title: Sincerity Collapse
+   description: Uncertain; a heightened moment in a film which at the same time attempts to be sincere and real but which is melodramatic or bizarre. E.g. Shower scene in Pitch Perfect
    completed: FALSE
-   episodes: ["104"]
+   episodes: ["103"]
    films: []
 -
-   season_title: Rhyme in the Title
-   description: ...the title has to repeat sounds in some way
+   season_title: Six word Titles
+   description: ...
    completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: DVDs you Own But Have Never Seen
-   description: ...no lying
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Blood, Guts & Screaming
-   description: ...probably horror films, and probably not for Marianne's enjoyment
-   completed: FALSE
-   episodes: ["104"]
-   films: [Texas Chainsaw Massacre]
--
-   season_title: Love or Friendship between children
-   description: ...platonic, pure love between siblings, friends etc.
-   completed: FALSE
-   episodes: ["104"]
-   films: [Luca,Son of Rambow]
--
-   season_title: Christmas Films that Aren't Christmas Films
-   description: ...e.g. E.T.
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Meta Zombedy Films
-   description: ...funny zombie movies
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Julie Andrew Season
-   description: ...though Sound of Music may not feature due to its 'special status
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Steve Martin Season
-   description: 
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Secret Situationist Films
-   description: ...finds which expose Situationist thinking, even unwittingly
-   completed: FALSE
-   episodes: ["104"]
-   films: [Hello Dolly]
--
-   season_title: Tearjerkers
-   description: ...films that make you bawl your eyes out
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Movies with Movies in
-   description: ...films that feature other films
-   completed: TRUE
-   episodes: ["104"]
-   films: ["Be Kind, Rewind",Zombieland,Cinema Paradiso]
--
-   season_title: Movies from Movies with Movies in
-   description: ...films that we should watch that have been played in other films
-   completed: TRUE
-   episodes: ["104"]
-   films: ["Rambo: First Blood",The Blob,An Affair to Remember]
--
-   season_title: How to watch... Bernie
-   description: ...need to work out a reason to watch this film
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: How to watch... Three Amigos
-   description: ...need to work out a reason to watch this film
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: How to watch... Mean Girls
-   description: ...need to work out a reason to watch this film
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: How to watch... Guest House Paradiso
-   description: ...need to work out a reason to watch this film
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: How to watch... Dead Man Walking
-   description: ...need to work out a reason to watch this film
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Films you'd be shown at school in... R.E.
-   description: ...wheeling out the old vhs
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Films you'd be shown at school in... English Lit
-   description: ...wheeling out the old vhs
-   completed: FALSE
-   episodes: ["104"]
+   episodes: ["103"]
    films: []
 -
    season_title: Slapstick
@@ -587,82 +671,106 @@
    episodes: ["104"]
    films: []
 -
-   season_title: Movies where someone is dancing to music only they can hear
-   description: ...wearing headphones or whatever
+   season_title: SNL Cast Films
+   description: Films that prominently feature SNL cast members
    completed: FALSE
-   episodes: ["104"]
-   films: [500 Days of Summer]
+   episodes: ["103"]
+   films: []
 -
-   season_title: Movies you thought were something else
-   description: ...unexpected misunderstandings
+   season_title: Start With A Phone Call
+   description: Films that are commenced by a call by phone.
+   completed: FALSE
+   episodes: ["102"]
+   films: ["Scream"]
+-
+   season_title: Steve Martin Season
+   description: 
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Fictional Films In Films
-   description: ...so you can't actually see these
+   season_title: Strange Films
+   description: ...
    completed: FALSE
-   episodes: ["104"]
-   films: [Stab]
+   episodes: ["105"]
+   films: [Faust,]
 -
-   season_title: Films That The 8,000,000,000th Baby Should See
-   description: ...essential viewing, essentially
+   season_title: Sucked Off Into Cartoon World
+   description: ...when live action characters ends up in a cartoon universe
    completed: TRUE
-   episodes: ["104"]
-   films: [Forrest Gump,The Truman Show,Boyhood]
+   episodes: ["105", "103"]
+   films: [Space Jam, Pagemaster, Bedknobs & Broomsticks]
 -
-   season_title: John Candy season
-   description: ...the man himself
+   season_title: Talking Animal Films
+   description: ...with animals that talk
    completed: FALSE
-   episodes: ["104"]
+   episodes: ["105"]
    films: []
 -
-   season_title: Shrimp Boat Season
-   description: ...?
+   season_title: Talking Dogs
+   description: Films that feature canines that talk
    completed: FALSE
-   episodes: ["104"]
+   episodes: ["103"]
    films: []
 -
-   season_title: Mother-child Friendship
-   description: ...family love
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Running Films
-   description: ...the physical act
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Mentally Running Away Films
-   description: ...retreating from your woes
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Intellectually Disabled Protagonist
-   description: ...films where one of the featured characters has neurodevelopmental hurdles in their journey
+   season_title: Tearjerkers
+   description: ...schmultzy hollywood films that make you cry
    completed: TRUE
-   episodes: ["104"]
-   films: [I am sam,Mercury Rising,"Life, Animated"]
+   episodes: ["105, 104"]
+   films: [Titanic, English Patient, Other People]
 -
-   season_title: Watergate
-   description: ...films about watergate
+   season_title: Teeth Season
+   description: ...films with teeth
    completed: FALSE
    episodes: ["104"]
-   films: [All The President's Men,"Frost/Nixon"]
+   films: [JAWS]
 -
-   season_title: Fictional Biography
-   description: ...they made it up!
+   season_title: Tender Films
+   description: ...oh so sweet
    completed: FALSE
-   episodes: ["104", "105"]
-   films: [Cock and Bull Story]
+   episodes: ["104"]
+   films: []
+-
+   season_title: The Skin I Live In
+   description: A season created specifically to feature the movie 'The Skin I Live In'
+   completed: FALSE
+   episodes: ["102"]
+   films: [The Skin I Live In]
 -
    season_title: Things in Boxes
    description: ...parcels not to be opened etc.
    completed: FALSE
    episodes: ["104"]
+   films: []
+-
+   season_title: Three Word Movies
+   description: Films with three words in their title
+   completed: FALSE
+   episodes: ["102"]
+   films: []
+-
+   season_title: Three word Titles
+   description: ...
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Timeloop Movies
+   description: Films that feature a repeated segment of time
+   completed: FALSE
+   episodes: ["103"]
+   films: []
+-
+   season_title: Title Spoken By Character
+   description: Films which feature a character saying the title of the film
+   completed: FALSE
+   episodes: ["102"]
+   films: []
+-
+   season_title: Tittyfire
+   description: Films which feature a sequences where someone's breasts are on fire, much like Mrs. Doubtfire
+   completed: FALSE
+   episodes: ["102"]
    films: []
 -
    season_title: Tom Hanks Movies... about aids
@@ -677,173 +785,53 @@
    episodes: ["104"]
    films: []
 -
-   season_title: Gay In The Mainstream
-   description: ...coming out into the open
+   season_title: Two Older Kids, One Younger
+   description: Films with children set-up as one significantly younger child with two older siblings (e.g. Mrs. Doubtfire)
    completed: FALSE
-   episodes: ["104"]
+   episodes: ["102"]
    films: []
 -
-   season_title: Carey Mulligan Season
-   description: ...all about her
+   season_title: Two word Titles
+   description: ...
    completed: FALSE
-   episodes: ["104"]
-   films: [Never Let Me Go]
--
-   season_title: Movies That Created a Real Life Reaction
-   description: ...like War of the Worlds did on the radio
-   completed: FALSE
-   episodes: ["104"]
+   episodes: ["103"]
    films: []
 -
-   season_title: Films that play with memory
-   description: ...what was that category again?
+   season_title: Unlikely Remakes
+   description: Films you don't immediately consider as remakes
+   completed: FALSE
+   episodes: ["103"]
+   films: [Mr. Deeds]
+-
+   season_title: Vest Films
+   description: Films where a vest is worn throughout the feature
+   completed: FALSE
+   episodes: ["103"]
+   films: ["Die Hard?"]
+-
+   season_title: Watergate
+   description: ...films about watergate
    completed: FALSE
    episodes: ["104"]
+   films: [All The President's Men,"Frost/Nixon"]
+-
+   season_title: William Shatner Sing Speaks
+   description: Films which feature William Shatner's distinctive music style
+   completed: FALSE
+   episodes: ["102"]
    films: []
 -
-   season_title: Cute Robot Season
-   description: ...they made it up!
-   completed: FALSE
-   episodes: ["104"]
-   films: [Silent Running]
--
-   season_title: Teeth Season
-   description: ...films with teeth
-   completed: FALSE
-   episodes: ["104"]
-   films: [JAWS]
--
-   season_title: Tender Films
-   description: ...oh so sweet
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Movies About Blue People
-   description: ...da ba dee da ba di Da
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: People Who Go Into Cartoon Characters
-   description: ...transformations
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Other World Films
-   description: ...woah, where are we?
-   completed: FALSE
-   episodes: ["104"]
-   films: []
--
-   season_title: Tearjerkers
-   description: ...schmultzy hollywood films that make you cry
+   season_title: Women As Weapons
+   description: Films which feature a central female character who are themselves a weapon. Often naive, or which feaature love or some other characteristic that defines them as better than the evil they must overcome
    completed: TRUE
-   episodes: ["105"]
-   films: [Titanic, English Patient, Other People]
+   episodes: ["102"]
+   films: ["The Fifth Element","Alita: Battle Angel", "Red Sparrow"]
 -
-   season_title: Holocaust Films That Make You Cry
-   description: ...
+   season_title: Zac Effron Musicals
+   description: Musical films featuring Zac Effron
    completed: FALSE
-   episodes: ["105"]
+   episodes: ["103"]
    films: []
--
-   season_title: Kids Films That Make You Cry
-   description: ...
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Documentaries That Make You Cry
-   description: ...
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: In The Bin
-   description: ...films that should be put in the bin and forgotten about
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Bonk on a Car on a boat
-   description: ...films that feature someone shagging in a car on a boat
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Films with the word 'tit' in it
-   description: ...
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Talking Animal Films
-   description: ...with animals that talk
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: 2 Dogs, 1 Cat
-   description: ...cast contains two dogs and one cat
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Organ Harvesting
-   description: ...featuring something about harvesting organs
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Films Based on Novels
-   description: ...book first films
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Strange Films
-   description: ...
-   completed: FALSE
-   episodes: ["105"]
-   films: [Faust,]
--
-   season_title: Relentlessly Sad Films
-   description: ...fiction films that make you just cry and cry and cry, but more meaningful than a tearjerker
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Films Not To Watch When You're Hungry
-   description: ...because the food depcited looks so damn good
-   completed: FALSE
-   episodes: ["105"]
-   films: [The Farewell]
--
-   season_title: Falling In Love With The Beast
-   description: ...when they are quite sexy, even in a kids film
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Arthouse Nonsense
-   description: ...some arty thing where nothing really happens for 9 hours
-   completed: TRUE
-   episodes: ["105"]
-   films: [Fitzcarraldo, Russian Ark, Turin Horse]
--
-   season_title: Films That Are Not Like Films In Some way
-   description: ...difficult to explain, needs further exploration
-   completed: FALSE
-   episodes: ["105"]
-   films: []
--
-   season_title: Sucked Off Into Cartoon World
-   description: ...when live action characters ends up in a cartoon universe
-   completed: TRUE
-   episodes: ["105", "103"]
-   films: [Space Jam, Pagemaster, Bedknobs & Broomsticks]
 -
    season_title: Sucked Off from Cartoon World Into Reality
    description: ...when cartoon elements are brought into the real world
@@ -975,10 +963,280 @@
    description: ...pals from the mind
    completed: FALSE
    episodes: ["105"]
-   films: []
+   films: [Inside Out]
 -
    season_title: Kids Horror
    description: ...scary films made for kids, or at least kid friendly
    completed: FALSE
    episodes: ["105"]
+   films: []
+-
+   season_title: High School Films with a twist
+   description: ...not your typical high school movies
+   completed: TRUE
+   episodes: ["106"]
+   films: [The Faculty , Heathers , "Jennifer's Body"]
+-
+   season_title: School Musicals
+   description: ...not just high school but, mid-school or pre-school too. Any musical set in a school environment
+   completed: FALSE
+   episodes: ["106"]
+   films: [School of Rock , Fame]
+-
+   season_title: High School Films based on Modern Literary Adaptation
+   description: ...books written post 1950
+   completed: FALSE
+   episodes: ["106"]
+   films: [Virgin Suicides , Basketball Diaries]
+-
+   season_title: High School Films baseds on Graphic Novels
+   description: ...comics or graphic novels 
+   completed: FALSE
+   episodes: ["106"]
+   films: [Ghost World , "Scott Pilgrim vs. The World"]
+-
+   season_title: Films About Boarding Schools
+   description: ...set in, or include significant reference to a school where pupils live
+   completed: FALSE
+   episodes: ["106"]
+   films: ["Dead Poets' Society"]
+-
+   season_title: Julia Stiles Films
+   description: ...featuring the starlette herself
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Movies We've Watched Too Many Times
+   description: ...but don't fit somewhere else
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Remakes of Remakes
+   description: ...films which reference a previous film, but possibly which themselves were originally an adaptation. Thinking here remakes of old films or films from a different language
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Dick Drawn On Your Face
+   description: ...character has a member appear on their skin
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: High School Films based on Classics
+   description: ...books, plays and stories written before 1900
+   completed: TRUE
+   episodes: ["106"]
+   films: [O , "She's The Man" , Clueless]
+-
+   season_title: Croquet Movies
+   description: ...featuring the aforementioned ball hitting sport
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Trying out a guitar with headphones in
+   description: ...characters listen to their own guitar skills to test the guitar's suitability
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Paint Throwing Films
+   description: ...featuring colour powder or liquids being flung about
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: "Lil' Cameo from Big Movie Stars"
+   description: ...where a famous person from music plays a character in the film that is not in the film for a significant length of time, but not playing themelves
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: "Usher/Sisqo Season"
+   description: ...these two getting their films on
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: People Playing the Wrong Age
+   description: ...by a lot. 
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Inappropriate Age Films
+   description: ...a character pretends to be the wrong age
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Inspiration for Musicals
+   description: ...films which have since become musicals, or which inspired musicals
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: High School Movies with Time Travel
+   description: ...studends mess about with time
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Quottable Movie Quotes
+   description: ...subjective films that have inspired turns of phrase that are frequently used
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Slow Motion
+   description: ...featuring moments where time is paused or slowed down
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Plots Pivot Around an outdated retro tech
+   description: ...so an answerphone or pager or fax is an important plot device
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Women with bows and arrows
+   description: ...archeresses
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Movies about dancing
+   description: ...not featuring dancing, but where dancing is the subject of the movie
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Pinocchio Films
+   description: ...high level pinocchio vibes
+   completed: TRUE
+   episodes: ["106"]
+   films: [Harvey , "Guillermo del Toro's Pinocchio" , Pinocchio]
+-
+   season_title: Movies with little pals
+   description: ...could be worms, an insect, a mouse, you know a buddy that comes with you in your pocket
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Sports Biopics
+   description: ...about a sporting moment or person or sport
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Movies about suicide
+   description: ...yeesh bit dark but, there's some good ones
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Movies about cars
+   description: ...but with personality
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: "Woman Grabs A Man's Butt"
+   description: ...reversed power dynamics with a sexual undertone
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Virginia Wolf Films
+   description: ...the great literary figure celebrated on screen
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Birthday Wishes
+   description: ...in which a character specifically blows out a candle or pleads secretly to themselves for something to change on their birthday
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Characters That Fight Themselves
+   description: ...battling with something inside themselves, but with physical manifestation
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Farting In An Elevator
+   description: ...stinky or loud, doesn't matter what kind of fart, but elevator context is key.
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: "Rich for the plumbing: A Goldie Hawn Retrospective"
+   description: ...choice highlights from a distinguised career.
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Fairy Godmother
+   description: ...magical assistance
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Ghibli Season... would like to see
+   description: ...an excuse to talk about ghibli films
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Pulls String Of Pearls Out of Mouth
+   description: ...probably a bit too niche
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Killed With A Shovel
+   description: ...definitely not too niche
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Puppet Films
+   description: ...featuring puppetry in some part
+   completed: TRUE
+   episodes: ["106"]
+   films: [Team America , The Beaver , Possum]
+-
+   season_title: Protruding Facial Features
+   description: ...we're talking big noses, long eyelids
+   completed: TRUE
+   episodes: ["106"]
+   films: [Roxanne , Tusk , Dumbo]
+-
+   season_title: Movies About Lying
+   description: ...honking great mistruths
+   completed: TRUE
+   episodes: ["106"]
+   films: [Invention of Lying , What Lies Beneath , The Imposter]
+-
+   season_title: Childlike On Journeys
+   description: ...kids on journeys, we're talking naive, idiots, village folk in town
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Comedy of Manners
+   description: ...where the humour is derived from an out of place person uncertain of custom
+   completed: FALSE
+   episodes: ["106"]
+   films: []
+-
+   season_title: Bodysnatcher Season
+   description: ...someone's body is taken over from the inside
+   completed: FALSE
+   episodes: ["106"]
    films: []
