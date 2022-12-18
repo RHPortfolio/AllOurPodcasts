@@ -416,7 +416,7 @@
    season_title: Julie Andrew Season
    description: ...though Sound of Music may not feature due to its 'special status
    completed: FALSE
-   episodes: ["104"]
+   episodes: ["104", "107"]
    films: []
 -
    season_title: Kids Films That Make You Cry
@@ -806,7 +806,7 @@
    season_title: Vest Films
    description: Films where a vest is worn throughout the feature
    completed: FALSE
-   episodes: ["103"]
+   episodes: ["103", "107"]
    films: ["Die Hard?"]
 -
    season_title: Watergate
@@ -1239,4 +1239,226 @@
    description: ...someone's body is taken over from the inside
    completed: FALSE
    episodes: ["106"]
+   films: []
+-
+   season_title: Christmas Not Christmas... Family or Daytime Films
+   description: ...comfy family movies to watch during the day of christmas, but which aren't christmas movies
+   completed: TRUE
+   episodes: ["107"]
+   films: ["The Wrong Trousers",Matilda,Millions]
+-
+   season_title: Christmas Not Christmas... Musicals
+   description: ...musicals to watch at christmas which are not christmas films
+   completed: TRUE
+   episodes: ["107"]
+   films: [My Fair Lady , Oliver , Chitty Chitty Bang Bang]
+-
+   season_title: Christmas Not Christmas... Evening Big Movies
+   description: ...big movies to watch at christmas which aren't christmas films
+   completed: TRUE
+   episodes: ["107"]
+   films: [Titanic , Paddington , "Harry Potter and the Philosopher's Stone"]
+-
+   season_title: Christmas Not Christmas... Around Christmas
+   description: ...movies to watch around the christmas season, but not on christmas day and which are not christmas films
+   completed: FALSE
+   episodes: ["107"]
+   films: ["Planes, Trains and Automobiles" , "Dawn of the Dead"]
+-
+   season_title: Sheath Of Wheat
+   description: ...a hand is dangled through a field of wheat
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Doors are Crucial For The Narrative
+   description: ...where doors are integral to a movie
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Food Falling From The Sky
+   description: ...edible produce falls from above
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Slippers Shyed
+   description: ...you'll have to ask Marianne about that
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Christmas Films to Watch NOT At Christmas
+   description: ...christmas films to watch throughout the year
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Big Christmas Film VHS
+   description: ...big films you got as a VHS at christmas
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: "Quite Kitely So..."
+   description: ...films with kites
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Kid Falls Into River
+   description: ...where children end up wet in a natural water source
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Easter Not Easter
+   description: ...films to watch at easter which aren't easter films
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: New Years Not New Years
+   description: ...films to watch around new years to watch around new years
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Blue Coat Movies
+   description: ...character wears a blue coat
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Red Hat Movies
+   description: ...prominent character wears a red hat
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Movies With Famous Sandwiches
+   description: ...bread and bread with joy between
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Spy Not Spy
+   description: ...movies which feel like a spy film, but aren't
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Penguin Antagonist
+   description: ...penguins against you
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Robots Gone Wrong
+   description: ...androids and mechanical men that break their programming
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Magic Children
+   description: ...kids with extra special abilities
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Movies That Are Good With Adverts
+   description: ...films that are improved by being spaced out by supporting adverts
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Dog Steals The Show
+   description: ...film is dominated by a dog's performance
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Bear Films
+   description: ..features bears
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: "We're British, Thanks"
+   description: ...annoying british identity films e.g. The Italian Job, Damnbusters
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: MI5
+   description: ...secret service films specific to MI5
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: MI6
+   description: ...secret service films specific to MI6
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: GCHQ
+   description: ...secret service films specific to GCHQ
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Animals In Revolt
+   description: ...the critters are revolting
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Birds In Hats
+   description: ...chapeaus on pappeaus
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Acceptable Mel Gibson Films
+   description: ...movies that he was involved with that it's still okay to watch and enjoy
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Threat Of Pie
+   description: ...possibility death or violence by pie lingers
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Joan Cusack 
+   description: ...her films in focus
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Robin Williams Wears A Hat
+   description: ...actor is framed by a chapeau
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Christmas Christmas Films
+   description: ...films about christmas to watch on christmas
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Heroes With Calculators
+   description: ...where maths saves the day
+   completed: FALSE
+   episodes: ["107"]
+   films: []
+-
+   season_title: Nanny Films
+   description: ...movies with a prominent nanny
+   completed: FALSE
+   episodes: ["107"]
    films: []
