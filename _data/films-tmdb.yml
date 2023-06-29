@@ -6,1767 +6,1046 @@
   popularity: 21.1
   poster_path: "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg"
   release_date: '1986-08-08'
-- title_key: lost-in-translation
-  title: Lost in Translation
-  id: 153
-  original_title: Lost in Translation
-  popularity: 23.187
-  poster_path: "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg"
-  release_date: '2003-09-18'
-- title_key: lion-king
-  title: The Lion King
-  id: 8587
-  original_title: The Lion King
-  popularity: 111.742
-  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-  release_date: '1994-06-23'
-- title_key: home-alone
-  title: Home Alone 4
-  id: 12536
-  original_title: Home Alone 4
-  popularity: 49.715
-  poster_path: "/lL2Ri3PHs9V1ot3V8ZUvrtFgj9h.jpg"
-  release_date: '2002-11-03'
-- title_key: ace-ventura
-  title: 'Ace Ventura: Pet Detective'
-  id: 3049
-  original_title: 'Ace Ventura: Pet Detective'
-  popularity: 26.045
-  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
-  release_date: '1994-02-04'
-- title_key: star-wars:-episode-6---return-of-the-jedi
-  title: Return of the Jedi
-  id: 1892
-  original_title: Return of the Jedi
-  popularity: 28.35
-  poster_path: "/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg"
-  release_date: '1983-05-25'
-- title_key: marley-and-me
-  title: Marley & Me
-  id: 14306
-  original_title: Marley & Me
-  popularity: 25.332
-  poster_path: "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg"
-  release_date: '2008-12-25'
-- title_key: gone-with-the-wind?
-  title: Gone with the Wind
-  id: 770
-  original_title: Gone with the Wind
-  popularity: 27.615
-  poster_path: "/7K5hvvoM2Of1fgEgUSveNE6DNe7.jpg"
-  release_date: '1939-12-15'
-- title_key: seven?
-  title: The Magnificent Seven
-  id: 333484
-  original_title: The Magnificent Seven
-  popularity: 50.672
-  poster_path: "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg"
-  release_date: '2016-09-14'
-- title_key: once?
-  title: Everything Everywhere All at Once
-  id: 545611
-  original_title: Everything Everywhere All at Once
-  popularity: 83.572
-  poster_path: "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
-  release_date: '2022-03-24'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 43.009
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: four-weddings-and-a-funeral?
-  title: Four Weddings and a Funeral
-  id: 712
-  original_title: Four Weddings and a Funeral
-  popularity: 14.677
-  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
-  release_date: '1994-03-09'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 43.009
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: science-of-sleep
-  title: The Science of Sleep
-  id: 564339
-  original_title: The Science of Sleep
-  popularity: 0.6
-  poster_path: "/aloUQ9FlNIB88k0jgcMgMHIsjNR.jpg"
-  release_date: '2016-09-01'
-- title_key: hello-dolly
-  title: Hello, Dolly!
-  id: 14030
-  original_title: Hello, Dolly!
-  popularity: 7.558
-  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
-  release_date: '1969-12-12'
-- title_key: be-kind,-rewind
-  title: Be Kind Rewind
-  id: 4953
-  original_title: Be Kind Rewind
-  popularity: 9.011
-  poster_path: "/3n6ErSzozABZWcb880tASUNyBb7.jpg"
-  release_date: '2008-01-20'
-- title_key: rambo:-first-blood
-  title: 'Rambo: First Blood Part II'
-  id: 1369
-  original_title: 'Rambo: First Blood Part II'
-  popularity: 41.885
-  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
-  release_date: '1985-05-21'
-- title_key: 500-days-of-summer
-  title: "(500) Days of Summer"
-  id: 19913
-  original_title: "(500) Days of Summer"
-  popularity: 35.485
-  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
-  release_date: '2009-07-17'
-- title_key: stab
-  title: Final Stab
-  id: 70123
-  original_title: Final Stab
-  popularity: 4.892
-  poster_path: "/9BOBHnNNyXsu63dPLhJra7PZQxM.jpg"
-  release_date: '2001-05-05'
-- title_key: i-am-sam
-  title: I Am Sam
-  id: 10950
-  original_title: I Am Sam
-  popularity: 18.875
-  poster_path: "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
-  release_date: '2001-12-28'
-- title_key: all-the-president's-men
-  title: All the President's Men
-  id: 891
-  original_title: All the President's Men
-  popularity: 13.503
-  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
-  release_date: '1976-01-18'
-- title_key: cock-and-bull-story
-  title: A Cock and Bull Story
-  id: 8435
-  original_title: A Cock and Bull Story
-  popularity: 7.545
-  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
-  release_date: '2005-07-17'
-- title_key: jaws
-  title: Jaws
-  id: 578
-  original_title: Jaws
-  popularity: 34.561
-  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
-  release_date: '1975-06-20'
-- title_key: chip-n'-dale-rescue-rangers
-  title: 'Chip ''n Dale: Rescue Rangers'
-  id: 420821
-  original_title: 'Chip ''n Dale: Rescue Rangers'
-  popularity: 72.522
-  poster_path: "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
-  release_date: '2022-05-20'
-- title_key: james-and-the-giant-peach
-  title: James and the Giant Peach
-  id: 10539
-  original_title: James and the Giant Peach
-  popularity: 20.993
-  poster_path: "/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
-  release_date: '1996-04-12'
-- title_key: bewitched
-  title: Bewitched
-  id: 9722
-  original_title: Bewitched
-  popularity: 15.468
-  poster_path: "/bQqHksFAeUdozGGABxHJt3YVIyA.jpg"
-  release_date: '2005-06-21'
-- title_key: catch-me-if-you-can
-  title: Catch Me If You Can
-  id: 640
-  original_title: Catch Me If You Can
-  popularity: 41.518
-  poster_path: "/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg"
-  release_date: '2002-12-16'
-- title_key: down-with-love
-  title: Down with Love
-  id: 10720
-  original_title: Down with Love
-  popularity: 10.94
-  poster_path: "/8hpGe0U8oK05dEjVjACjw6TgbWm.jpg"
-  release_date: '2003-05-08'
-- title_key: the-fifth-element
-  title: The Fifth Element
-  id: 18
-  original_title: The Fifth Element
-  popularity: 42.404
-  poster_path: "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg"
-  release_date: '1997-05-02'
-- title_key: alita:-battle-angel
-  title: 'Alita: Battle Angel'
-  id: 399579
-  original_title: 'Alita: Battle Angel'
-  popularity: 47.469
-  poster_path: "/xRWht48C2V8XNfzvPehyClOvDni.jpg"
-  release_date: '2019-01-31'
-- title_key: red-sparrow
-  title: Red Sparrow
-  id: 401981
-  original_title: Red Sparrow
-  popularity: 27.279
-  poster_path: "/vLCogyfQGxVLDC1gqUdNAIkc29L.jpg"
-  release_date: '2018-02-28'
-- title_key: who-framed-roger-rabbit
-  title: Who Framed Roger Rabbit
-  id: 856
-  original_title: Who Framed Roger Rabbit
-  popularity: 27.741
-  poster_path: "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
-  release_date: '1988-06-21'
 - title_key: my-girl
   title: My Girl
   id: 4032
   original_title: My Girl
-  popularity: 18.854
+  popularity: 19.209
   poster_path: "/qyJJNHteA7BUwQSey05t7qP4vRV.jpg"
-  release_date: '1991-01-01'
+  release_date: '1991-11-27'
 - title_key: song-of-the-south
   title: Song of the South
   id: 13850
   original_title: Song of the South
-  popularity: 13.404
+  popularity: 15.478
   poster_path: "/lFlWpfcw8TCmZ88jw6e943vEbtu.jpg"
   release_date: '1946-11-12'
-- title_key: mrs.-doubtfire
-  title: Mrs. Doubtfire
-  id: 788
-  original_title: Mrs. Doubtfire
-  popularity: 20.911
-  poster_path: "/szvidvi0Fo4j2gmMtk1sNe1rkzw.jpg"
-  release_date: '1993-11-24'
-- title_key: scream
-  title: Scream
-  id: 646385
-  original_title: Scream
-  popularity: 101.648
-  poster_path: "/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg"
-  release_date: '2022-01-12'
-- title_key: the-skin-i-live-in
-  title: The Skin I Live In
-  id: 63311
-  original_title: La piel que habito
-  popularity: 19.55
-  poster_path: "/wlTHU4M3Hmkxntnfv4iVMeMnPg2.jpg"
-  release_date: '2011-08-17'
-- title_key: stand-by-me
-  title: Stand by Me
-  id: 235
-  original_title: Stand by Me
-  popularity: 21.1
-  poster_path: "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg"
-  release_date: '1986-08-08'
-- title_key: lost-in-translation
-  title: Lost in Translation
-  id: 153
-  original_title: Lost in Translation
-  popularity: 23.187
-  poster_path: "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg"
-  release_date: '2003-09-18'
-- title_key: muriel's-wedding
-  title: Muriel's Wedding
-  id: 236
-  original_title: Muriel's Wedding
-  popularity: 11.808
-  poster_path: "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg"
-  release_date: '1994-09-29'
-- title_key: freddie-as-f.r.o.7.
-  title: Freddie as F.R.O.7.
-  id: 110395
-  original_title: Freddie as F.R.O.7.
-  popularity: 4.516
-  poster_path: "/kwwELguZahdtIOvaaGkgmFNPabR.jpg"
-  release_date: '1992-08-14'
-- title_key: fievel-goes-west
-  title: 'An American Tail: Fievel Goes West'
-  id: 10380
-  original_title: 'An American Tail: Fievel Goes West'
-  popularity: 19.79
-  poster_path: "/cImuS7FE9MHT5vnwIHGx1Ryh0K1.jpg"
-  release_date: '1991-11-21'
-- title_key: labyrinth
-  title: Labyrinth
-  id: 13597
-  original_title: Labyrinth
-  popularity: 20.561
-  poster_path: "/hbSdA1DmNA9IlfVoqJkIWYF2oYm.jpg"
-  release_date: '1986-06-27'
-- title_key: napoleon-dynamite
-  title: Napoleon Dynamite
-  id: 8193
-  original_title: Napoleon Dynamite
-  popularity: 13.288
-  poster_path: "/6Iv6Uwa2SBLN0dSGM00rdrwN4MJ.jpg"
-  release_date: '2004-06-11'
-- title_key: donnie-darko
-  title: Donnie Darko
-  id: 141
-  original_title: Donnie Darko
-  popularity: 27.657
-  poster_path: "/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg"
-  release_date: '2001-10-24'
-- title_key: shaun-of-the-dead
-  title: Shaun of the Dead
-  id: 747
-  original_title: Shaun of the Dead
-  popularity: 29.74
-  poster_path: "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg"
-  release_date: '2004-04-09'
-- title_key: lion-king
-  title: The Lion King
-  id: 8587
-  original_title: The Lion King
-  popularity: 111.742
-  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-  release_date: '1994-06-23'
-- title_key: home-alone
-  title: Home Alone 4
-  id: 12536
-  original_title: Home Alone 4
-  popularity: 49.715
-  poster_path: "/lL2Ri3PHs9V1ot3V8ZUvrtFgj9h.jpg"
-  release_date: '2002-11-03'
-- title_key: ace-ventura
-  title: 'Ace Ventura: Pet Detective'
-  id: 3049
-  original_title: 'Ace Ventura: Pet Detective'
-  popularity: 26.045
-  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
-  release_date: '1994-02-04'
+- title_key: fitzcarraldo
+  title: Fitzcarraldo
+  id: 9343
+  original_title: Fitzcarraldo
+  popularity: 16.529
+  poster_path: "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg"
+  release_date: '1982-03-02'
+- title_key: russian-ark
+  title: Russian Ark
+  id: 16646
+  original_title: Русский ковчег
+  popularity: 11.328
+  poster_path: "/7NhwiUZHBajpKC2xcGcpFhMJ07k.jpg"
+  release_date: '2002-05-22'
+- title_key: turin-horse
+  title: The Turin Horse
+  id: 81401
+  original_title: A torinói ló
+  popularity: 8.785
+  poster_path: "/2kSElneXSKmMsGL55k0CbPGqLbu.jpg"
+  release_date: '2011-02-15'
+- title_key: texas-chainsaw-massacre
+  title: Texas Chainsaw Massacre
+  id: 632727
+  original_title: Texas Chainsaw Massacre
+  popularity: 46.458
+  poster_path: "/vSiX5K8bBUtFJ7Jw8KDnNms5UcK.jpg"
+  release_date: '2022-02-18'
+- title_key: four-weddings-and-a-funeral?
+  title: Four Weddings and a Funeral
+  id: 712
+  original_title: Four Weddings and a Funeral
+  popularity: 20.357
+  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
+  release_date: '1994-03-09'
+- title_key: never-let-me-go
+  title: Never Let Me Go
+  id: 42188
+  original_title: Never Let Me Go
+  popularity: 12.037
+  poster_path: "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg"
+  release_date: '2010-03-18'
+- title_key: who-framed-roger-rabbit
+  title: Who Framed Roger Rabbit
+  id: 856
+  original_title: Who Framed Roger Rabbit
+  popularity: 29.859
+  poster_path: "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
+  release_date: '1988-06-21'
+- title_key: die-hard?
+  title: Die Hard
+  id: 562
+  original_title: Die Hard
+  popularity: 51.55
+  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
+  release_date: '1988-07-15'
 - title_key: pitch-perfect-2
   title: Pitch Perfect 2
   id: 254470
   original_title: Pitch Perfect 2
-  popularity: 48.491
-  poster_path: "/vQKzBHxHalu1Dp8yga7Ju9IXQDD.jpg"
+  popularity: 44.283
+  poster_path: "/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg"
   release_date: '2015-05-07'
 - title_key: star-wars:-episode-1---the-phantom-menace
   title: 'Star Wars: Episode I - The Phantom Menace'
   id: 1893
   original_title: 'Star Wars: Episode I - The Phantom Menace'
-  popularity: 28.967
+  popularity: 39.228
   poster_path: "/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg"
   release_date: '1999-05-19'
 - title_key: dodgeball
-  title: 'DodgeBall: A True Underdog Story'
-  id: 9472
-  original_title: 'DodgeBall: A True Underdog Story'
-  popularity: 26.041
-  poster_path: "/r8KbNHkkwFXLjV1suGwm0Qjure5.jpg"
-  release_date: '2004-06-18'
-- title_key: star-wars:-episode-6---return-of-the-jedi
-  title: Return of the Jedi
-  id: 1892
-  original_title: Return of the Jedi
-  popularity: 28.35
-  poster_path: "/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg"
-  release_date: '1983-05-25'
-- title_key: indecent-proposal
-  title: Indecent Proposal
-  id: 4478
-  original_title: Indecent Proposal
-  popularity: 20.623
-  poster_path: "/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg"
-  release_date: '1993-04-07'
-- title_key: officer-and-a-gentleman
-  title: An Officer and a Gentleman
-  id: 2623
-  original_title: An Officer and a Gentleman
-  popularity: 18.606
-  poster_path: "/69adZbLeRk5TNQ3e0008dMnde9p.jpg"
-  release_date: '1982-07-28'
-- title_key: jurassic-park
-  title: Jurassic Park
-  id: 329
-  original_title: Jurassic Park
-  popularity: 23.122
-  poster_path: "/b1xCNnyrPebIc7EWNZIa6jhb1Ww.jpg"
-  release_date: '1993-06-11'
-- title_key: pulp-fiction
-  title: Pulp Fiction
-  id: 680
-  original_title: Pulp Fiction
-  popularity: 60.289
-  poster_path: "/fIE3lAGcZDV1G6XM5KmuWnNsPp1.jpg"
-  release_date: '1994-09-10'
-- title_key: elvis
-  title: Elvis
-  id: 614934
-  original_title: Elvis
-  popularity: 71.794
-  poster_path: "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
-  release_date: '2022-06-22'
-- title_key: chocolat
-  title: Chocolat
-  id: 392
-  original_title: Chocolat
-  popularity: 16.206
-  poster_path: "/jPNmQq23eNbKFVPZnY5Kxc63MvW.jpg"
-  release_date: '2000-03-02'
-- title_key: butter
-  title: Butter
-  id: 79697
-  original_title: Butter
-  popularity: 11.028
-  poster_path: "/1rYC8s3fjg8zzh38yjFMsumvfF8.jpg"
-  release_date: '2012-10-05'
-- title_key: ratatouille
-  title: Ratatouille
-  id: 2062
-  original_title: Ratatouille
-  popularity: 93.669
-  poster_path: "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
-  release_date: '2007-06-28'
-- title_key: marley-and-me
-  title: Marley & Me
-  id: 14306
-  original_title: Marley & Me
-  popularity: 25.332
-  poster_path: "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg"
-  release_date: '2008-12-25'
-- title_key: gone-with-the-wind?
-  title: Gone with the Wind
-  id: 770
-  original_title: Gone with the Wind
-  popularity: 27.615
-  poster_path: "/7K5hvvoM2Of1fgEgUSveNE6DNe7.jpg"
-  release_date: '1939-12-15'
-- title_key: blazing-saddles
-  title: Blazing Saddles
-  id: 11072
-  original_title: Blazing Saddles
-  popularity: 13.623
-  poster_path: "/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg"
-  release_date: '1974-02-07'
-- title_key: mr.-deeds
-  title: Mr. Deeds
-  id: 2022
-  original_title: Mr. Deeds
-  popularity: 16.629
-  poster_path: "/pX0oAJ27acWEHoI7lmmQpoBmdv4.jpg"
-  release_date: '2002-06-28'
-- title_key: seven?
-  title: The Magnificent Seven
-  id: 333484
-  original_title: The Magnificent Seven
-  popularity: 50.672
-  poster_path: "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg"
-  release_date: '2016-09-14'
-- title_key: once?
-  title: Everything Everywhere All at Once
-  id: 545611
-  original_title: Everything Everywhere All at Once
-  popularity: 83.572
-  poster_path: "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
-  release_date: '2022-03-24'
+  title: Dodgeball
+  id: 916060
+  original_title: Dodgeball
+  popularity: 0.6
+  poster_path: "/6vST7NzzVwUIAp3DGwj7v1yKhkX.jpg"
+  release_date: '2001-02-15'
 - title_key: weekend-at-bernie's
   title: Weekend at Bernie's
   id: 8491
   original_title: Weekend at Bernie's
-  popularity: 13.139
+  popularity: 16.683
   poster_path: "/a5FcWYJemR3jR8BrYihEorWRCDr.jpg"
   release_date: '1989-07-05'
 - title_key: death-at-a-funeral
   title: Death at a Funeral
   id: 34803
   original_title: Death at a Funeral
-  popularity: 15.039
+  popularity: 13.491
   poster_path: "/oBCQYMJTqV3qLjrvZ5sTZUCBky7.jpg"
   release_date: '2010-04-15'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 43.009
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: four-weddings-and-a-funeral?
-  title: Four Weddings and a Funeral
-  id: 712
-  original_title: Four Weddings and a Funeral
-  popularity: 14.677
-  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
-  release_date: '1994-03-09'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 43.009
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: the-sound-of-music
-  title: The Sound of Music
-  id: 15121
-  original_title: The Sound of Music
-  popularity: 20.561
-  poster_path: "/xvXiJggaxRrU4jLjTXCmqnqEsGd.jpg"
-  release_date: '1965-03-29'
-- title_key: little-women
-  title: Little Women
-  id: 331482
-  original_title: Little Women
-  popularity: 30.132
-  poster_path: "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
-  release_date: '2019-12-25'
-- title_key: phantom-thread
-  title: Phantom Thread
-  id: 400617
-  original_title: Phantom Thread
-  popularity: 18.069
-  poster_path: "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg"
-  release_date: '2017-12-25'
-- title_key: science-of-sleep
-  title: The Science of Sleep
-  id: 564339
-  original_title: The Science of Sleep
-  popularity: 0.6
-  poster_path: "/aloUQ9FlNIB88k0jgcMgMHIsjNR.jpg"
-  release_date: '2016-09-01'
-- title_key: texas-chainsaw-massacre
-  title: Texas Chainsaw Massacre
-  id: 632727
-  original_title: Texas Chainsaw Massacre
-  popularity: 67.265
-  poster_path: "/e8vYPpkUJpf5Ils99kxF0Ev73ay.jpg"
-  release_date: '2022-02-18'
-- title_key: luca
-  title: Luca
-  id: 508943
-  original_title: Luca
-  popularity: 121.906
-  poster_path: "/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg"
-  release_date: '2021-06-17'
-- title_key: son-of-rambow
-  title: Son of Rambow
-  id: 13258
-  original_title: Son of Rambow
-  popularity: 11.597
-  poster_path: "/hOCdlpTs91eDohj5LhCGQF4bxqe.jpg"
-  release_date: '2007-01-22'
-- title_key: hello-dolly
-  title: Hello, Dolly!
-  id: 14030
-  original_title: Hello, Dolly!
-  popularity: 7.558
-  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
-  release_date: '1969-12-12'
-- title_key: be-kind,-rewind
-  title: Be Kind Rewind
-  id: 4953
-  original_title: Be Kind Rewind
-  popularity: 9.011
-  poster_path: "/3n6ErSzozABZWcb880tASUNyBb7.jpg"
-  release_date: '2008-01-20'
-- title_key: zombieland
-  title: Zombieland
-  id: 19908
-  original_title: Zombieland
-  popularity: 37.876
-  poster_path: "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg"
-  release_date: '2009-10-07'
-- title_key: cinema-paradiso
-  title: Cinema Paradiso
-  id: 11216
-  original_title: Nuovo Cinema Paradiso
-  popularity: 18.587
-  poster_path: "/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg"
-  release_date: '1988-11-17'
-- title_key: rambo:-first-blood
-  title: 'Rambo: First Blood Part II'
-  id: 1369
-  original_title: 'Rambo: First Blood Part II'
-  popularity: 41.885
-  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
-  release_date: '1985-05-21'
-- title_key: the-blob
-  title: The Blob
-  id: 9599
-  original_title: The Blob
-  popularity: 17.725
-  poster_path: "/dC7KOlc8oVSgUw607E2S7P3WLwb.jpg"
-  release_date: '1988-08-05'
-- title_key: an-affair-to-remember
-  title: An Affair to Remember
-  id: 8356
-  original_title: An Affair to Remember
-  popularity: 12.51
-  poster_path: "/1GbacsSg7hBetRb8G0vQ2a8SN.jpg"
-  release_date: '1957-07-11'
-- title_key: 500-days-of-summer
-  title: "(500) Days of Summer"
-  id: 19913
-  original_title: "(500) Days of Summer"
-  popularity: 35.485
-  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
-  release_date: '2009-07-17'
+- title_key: silent-running
+  title: Silent Running
+  id: 811
+  original_title: Silent Running
+  popularity: 9.854
+  poster_path: "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg"
+  release_date: '1972-03-09'
+- title_key: jurassic-park
+  title: Jurassic Park
+  id: 329
+  original_title: Jurassic Park
+  popularity: 23.341
+  poster_path: "/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"
+  release_date: '1993-06-11'
+- title_key: pulp-fiction
+  title: Pulp Fiction
+  id: 680
+  original_title: Pulp Fiction
+  popularity: 80.651
+  poster_path: "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg"
+  release_date: '1994-09-10'
+- title_key: elvis
+  title: Elvis
+  id: 614934
+  original_title: Elvis
+  popularity: 46.548
+  poster_path: "/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg"
+  release_date: '2022-06-22'
+- title_key: marley-and-me
+  title: 'Marley & Me: The Puppy Years'
+  id: 72391
+  original_title: 'Marley & Me: The Puppy Years'
+  popularity: 12.138
+  poster_path: "/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg"
+  release_date: '2011-06-01'
+- title_key: sea-beast
+  title: Sea Beast
+  id: 21922
+  original_title: Sea Beast
+  popularity: 7.021
+  poster_path: "/ta56QLWqHo5G3u9tQw2cS5NEMsF.jpg"
+  release_date: '2008-06-30'
+- title_key: pinocchio
+  title: Pinocchio
+  id: 532639
+  original_title: Pinocchio
+  popularity: 57.625
+  poster_path: "/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
+  release_date: '2022-09-07'
+- title_key: cock-and-bull-story
+  title: A Cock and Bull Story
+  id: 8435
+  original_title: A Cock and Bull Story
+  popularity: 8.61
+  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
+  release_date: '2005-07-17'
 - title_key: stab
-  title: Final Stab
-  id: 70123
-  original_title: Final Stab
-  popularity: 4.892
-  poster_path: "/9BOBHnNNyXsu63dPLhJra7PZQxM.jpg"
-  release_date: '2001-05-05'
+  title: 'Female Prisoner Scorpion: Beast Stable'
+  id: 35282
+  original_title: 女囚さそり　けもの部屋
+  popularity: 7.092
+  poster_path: "/zHRhQ3v1pXCIB3LnOFdfTZso4nO.jpg"
+  release_date: '1973-07-29'
+- title_key: the-farewell
+  title: The Farewell
+  id: 565310
+  original_title: The Farewell
+  popularity: 14.113
+  poster_path: "/7UrIarxfjxZC9YGj8H1ATKZMXVy.jpg"
+  release_date: '2019-07-12'
 - title_key: forrest-gump
   title: Forrest Gump
   id: 13
   original_title: Forrest Gump
-  popularity: 58.175
-  poster_path: "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg"
+  popularity: 68.82
+  poster_path: "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
   release_date: '1994-06-23'
 - title_key: the-truman-show
   title: The Truman Show
   id: 37165
   original_title: The Truman Show
-  popularity: 43.715
+  popularity: 50.61
   poster_path: "/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
   release_date: '1998-06-04'
 - title_key: boyhood
   title: Boyhood
   id: 85350
   original_title: Boyhood
-  popularity: 17.777
+  popularity: 18.67
   poster_path: "/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg"
   release_date: '2014-06-05'
+- title_key: bewitched
+  title: Bewitched
+  id: 9722
+  original_title: Bewitched
+  popularity: 16.61
+  poster_path: "/bQqHksFAeUdozGGABxHJt3YVIyA.jpg"
+  release_date: '2005-06-21'
+- title_key: catch-me-if-you-can
+  title: Catch Me If You Can
+  id: 640
+  original_title: Catch Me If You Can
+  popularity: 83.129
+  poster_path: "/sdYgEkKCDPWNU6KnoL4qd8xZ4w7.jpg"
+  release_date: '2002-12-16'
+- title_key: down-with-love
+  title: Down with Love
+  id: 10720
+  original_title: Down with Love
+  popularity: 15.623
+  poster_path: "/8hpGe0U8oK05dEjVjACjw6TgbWm.jpg"
+  release_date: '2003-05-08'
+- title_key: gone-with-the-wind?
+  title: Gone with the Wind
+  id: 770
+  original_title: Gone with the Wind
+  popularity: 36.657
+  poster_path: "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
+  release_date: '1939-12-15'
+- title_key: blazing-saddles
+  title: Blazing Saddles
+  id: 11072
+  original_title: Blazing Saddles
+  popularity: 20.705
+  poster_path: "/nb1MLEOXVFBKTM4J9GLoksqgDBk.jpg"
+  release_date: '1974-02-07'
 - title_key: i-am-sam
   title: I Am Sam
   id: 10950
   original_title: I Am Sam
-  popularity: 18.875
+  popularity: 21.253
   poster_path: "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
   release_date: '2001-12-28'
 - title_key: mercury-rising
   title: Mercury Rising
   id: 8838
   original_title: Mercury Rising
-  popularity: 15.086
+  popularity: 18.333
   poster_path: "/60AAso6I2TzQCy2SjqtzPni8csA.jpg"
   release_date: '1998-04-03'
 - title_key: life,-animated
   title: Life, Animated
   id: 376233
   original_title: Life, Animated
-  popularity: 6.979
+  popularity: 6.366
   poster_path: "/dAbgluMr621IDx0fvyzVOYtAhEX.jpg"
   release_date: '2016-03-03'
-- title_key: all-the-president's-men
-  title: All the President's Men
-  id: 891
-  original_title: All the President's Men
-  popularity: 13.503
-  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
-  release_date: '1976-01-18'
-- title_key: frost/nixon
-  title: Frost/Nixon
-  id: 11499
-  original_title: Frost/Nixon
-  popularity: 9.018
-  poster_path: "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg"
-  release_date: '2008-10-15'
-- title_key: cock-and-bull-story
-  title: A Cock and Bull Story
-  id: 8435
-  original_title: A Cock and Bull Story
-  popularity: 7.545
-  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
-  release_date: '2005-07-17'
-- title_key: philadelphia
-  title: Philadelphia
-  id: 9800
-  original_title: Philadelphia
-  popularity: 22.103
-  poster_path: "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg"
-  release_date: '1993-12-22'
-- title_key: never-let-me-go
-  title: Never Let Me Go
-  id: 42188
-  original_title: Never Let Me Go
-  popularity: 12.128
-  poster_path: "/8F0r5ng9Fp60OhzQfR5v33fppq.jpg"
-  release_date: '2010-03-18'
-- title_key: silent-running
-  title: Silent Running
-  id: 811
-  original_title: Silent Running
-  popularity: 8.716
-  poster_path: "/ahasZ5HILZHtlrl6cbXgpfk0y8H.jpg"
-  release_date: '1972-03-09'
-- title_key: jaws
-  title: Jaws
-  id: 578
-  original_title: Jaws
-  popularity: 34.561
-  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
-  release_date: '1975-06-20'
+- title_key: luca
+  title: Luca
+  id: 508943
+  original_title: Luca
+  popularity: 98.613
+  poster_path: "/8tABCBpzu3mZbzMB3sRzMEHEvJi.jpg"
+  release_date: '2021-06-17'
+- title_key: son-of-rambow
+  title: Son of Rambow
+  id: 13258
+  original_title: Son of Rambow
+  popularity: 12.486
+  poster_path: "/hOCdlpTs91eDohj5LhCGQF4bxqe.jpg"
+  release_date: '2007-01-22'
+- title_key: stand-by-me
+  title: Stand by Me Doraemon
+  id: 265712
+  original_title: STAND BY ME ドラえもん
+  popularity: 123.027
+  poster_path: "/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg"
+  release_date: '2014-08-08'
+- title_key: lost-in-translation
+  title: Lost in Translation
+  id: 153
+  original_title: Lost in Translation
+  popularity: 21.852
+  poster_path: "/4k4Yz08WGfbu8ITIjaG99XTeco8.jpg"
+  release_date: '2003-09-18'
+- title_key: muriel's-wedding
+  title: Muriel's Wedding
+  id: 236
+  original_title: Muriel's Wedding
+  popularity: 19.167
+  poster_path: "/zJyTr8Fo412a2OIfJGXTRAm4IwX.jpg"
+  release_date: '1994-09-29'
+- title_key: freddie-as-f.r.o.7.
+  title: Freddie as F.R.O.7.
+  id: 110395
+  original_title: Freddie as F.R.O.7.
+  popularity: 3.43
+  poster_path: "/iwNknOCtcBw0siZBVHCMfaAm82R.jpg"
+  release_date: '1992-08-14'
+- title_key: fievel-goes-west
+  title: 'An American Tail: Fievel Goes West'
+  id: 10380
+  original_title: 'An American Tail: Fievel Goes West'
+  popularity: 19.261
+  poster_path: "/cImuS7FE9MHT5vnwIHGx1Ryh0K1.jpg"
+  release_date: '1991-11-21'
+- title_key: labyrinth
+  title: Labyrinth
+  id: 13597
+  original_title: Labyrinth
+  popularity: 33.292
+  poster_path: "/q2GimbyqxCeLkRfSMajtaHdwWg9.jpg"
+  release_date: '1986-06-27'
+- title_key: the-sound-of-music
+  title: The Sound of Music
+  id: 15121
+  original_title: The Sound of Music
+  popularity: 31.192
+  poster_path: "/xvXiJggaxRrU4jLjTXCmqnqEsGd.jpg"
+  release_date: '1965-03-29'
+- title_key: little-women
+  title: Little Women
+  id: 331482
+  original_title: Little Women
+  popularity: 31.386
+  poster_path: "/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg"
+  release_date: '2019-12-25'
+- title_key: science-of-sleep
+  title: The Science of Sleep
+  id: 300
+  original_title: La Science des rêves
+  popularity: 14.743
+  poster_path: "/1qCq228LsNtUseCnNE7Naw6NBUz.jpg"
+  release_date: '2006-02-11'
+- title_key: rambo:-first-blood
+  title: 'Rambo: First Blood Part II'
+  id: 1369
+  original_title: 'Rambo: First Blood Part II'
+  popularity: 45.694
+  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
+  release_date: '1985-05-21'
+- title_key: the-blob
+  title: The Blob
+  id: 9599
+  original_title: The Blob
+  popularity: 20.577
+  poster_path: "/zXXDmz5cPuSo9LveCNjZ1j16szC.jpg"
+  release_date: '1988-08-05'
+- title_key: an-affair-to-remember
+  title: An Affair to Remember
+  id: 8356
+  original_title: An Affair to Remember
+  popularity: 13.616
+  poster_path: "/fLoFdmJ78qFY0D2YeMdxQ07v3jC.jpg"
+  release_date: '1957-07-11'
+- title_key: 500-days-of-summer
+  title: "(500) Days of Summer"
+  id: 19913
+  original_title: "(500) Days of Summer"
+  popularity: 37.495
+  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
+  release_date: '2009-07-17'
+- title_key: be-kind,-rewind
+  title: Be Kind Rewind
+  id: 4953
+  original_title: Be Kind Rewind
+  popularity: 15.079
+  poster_path: "/6vSig2xxiD5OUnSdn8bsc5ldNJb.jpg"
+  release_date: '2008-01-20'
+- title_key: zombieland
+  title: Zombieland
+  id: 19908
+  original_title: Zombieland
+  popularity: 45.857
+  poster_path: "/dUkAmAyPVqubSBNRjRqCgHggZcK.jpg"
+  release_date: '2009-10-07'
+- title_key: cinema-paradiso
+  title: Cinema Paradiso
+  id: 11216
+  original_title: Nuovo Cinema Paradiso
+  popularity: 39.159
+  poster_path: "/8SRUfRUi6x4O68n0VCbDNRa6iGL.jpg"
+  release_date: '1988-11-17'
+- title_key: chocolat
+  title: Chocolat
+  id: 392
+  original_title: Chocolat
+  popularity: 16.002
+  poster_path: "/jPNmQq23eNbKFVPZnY5Kxc63MvW.jpg"
+  release_date: '2000-12-22'
+- title_key: butter
+  title: Butter
+  id: 79697
+  original_title: Butter
+  popularity: 7.033
+  poster_path: "/1rYC8s3fjg8zzh38yjFMsumvfF8.jpg"
+  release_date: '2011-09-04'
+- title_key: ratatouille
+  title: Ratatouille
+  id: 2062
+  original_title: Ratatouille
+  popularity: 97.088
+  poster_path: "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+  release_date: '2007-06-28'
+- title_key: seven?
+  title: Seven
+  id: 578207
+  original_title: Seven
+  popularity: 5.631
+  poster_path: "/yk2rWyacJmbJYQvFuUum2k4TQXn.jpg"
+  release_date: '2019-06-05'
+- title_key: once?
+  title: Once
+  id: 5723
+  original_title: Once
+  popularity: 13.64
+  poster_path: "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg"
+  release_date: '2007-03-23'
+- title_key: mrs.-doubtfire
+  title: Mrs. Doubtfire
+  id: 788
+  original_title: Mrs. Doubtfire
+  popularity: 25.815
+  poster_path: "/shHrSmXS5140o6sQzgzXxn3KqSm.jpg"
+  release_date: '1993-11-24'
+- title_key: star-wars:-episode-6---return-of-the-jedi
+  title: Return of the Jedi
+  id: 1892
+  original_title: Return of the Jedi
+  popularity: 37.845
+  poster_path: "/xxCnFmRZ83jHTZsBiceG4IBUGoq.jpg"
+  release_date: '1983-05-25'
+- title_key: indecent-proposal
+  title: Indecent Proposal
+  id: 4478
+  original_title: Indecent Proposal
+  popularity: 20.222
+  poster_path: "/a39WoiTJEG5kNLIrr3kOMwg3LFg.jpg"
+  release_date: '1993-04-07'
+- title_key: officer-and-a-gentleman
+  title: An Officer and a Gentleman
+  id: 2623
+  original_title: An Officer and a Gentleman
+  popularity: 28.128
+  poster_path: "/69adZbLeRk5TNQ3e0008dMnde9p.jpg"
+  release_date: '1982-07-28'
+- title_key: napoleon-dynamite
+  title: Napoleon Dynamite
+  id: 8193
+  original_title: Napoleon Dynamite
+  popularity: 17.277
+  poster_path: "/g5PAKdu5aolXMnIRFkCo6vXq5Jh.jpg"
+  release_date: '2004-06-11'
+- title_key: donnie-darko
+  title: Donnie Darko
+  id: 141
+  original_title: Donnie Darko
+  popularity: 32.714
+  poster_path: "/3PiQIQzJX2oE8Uw6gjL08BXQRoB.jpg"
+  release_date: '2001-10-24'
+- title_key: shaun-of-the-dead
+  title: Shaun of the Dead
+  id: 747
+  original_title: Shaun of the Dead
+  popularity: 39.578
+  poster_path: "/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg"
+  release_date: '2004-04-09'
+- title_key: lion-king
+  title: The Lion King
+  id: 8587
+  original_title: The Lion King
+  popularity: 101.399
+  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  release_date: '1994-06-24'
+- title_key: home-alone
+  title: Home Sweet Home Alone
+  id: 654974
+  original_title: Home Sweet Home Alone
+  popularity: 30.981
+  poster_path: "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"
+  release_date: '2021-11-12'
+- title_key: ace-ventura
+  title: 'Ace Ventura: Pet Detective'
+  id: 3049
+  original_title: 'Ace Ventura: Pet Detective'
+  popularity: 29.389
+  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
+  release_date: '1994-02-04'
+- title_key: hello-dolly
+  title: Hello, Dolly!
+  id: 14030
+  original_title: Hello, Dolly!
+  popularity: 13.968
+  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
+  release_date: '1969-12-12'
+- title_key: phantom-thread
+  title: Phantom Thread
+  id: 400617
+  original_title: Phantom Thread
+  popularity: 17.887
+  poster_path: "/hgoWjp9Sh0MI97eAMZCnIoVfgvq.jpg"
+  release_date: '2017-12-25'
+- title_key: the-best-little-whorehouse-in-texas
+  title: The Best Little Whorehouse in Texas
+  id: 16363
+  original_title: The Best Little Whorehouse in Texas
+  popularity: 12.033
+  poster_path: "/yw3PNR3NVeKKfLWv8SgFQnXoHZh.jpg"
+  release_date: '1982-07-23'
+- title_key: he's-just-not-that-into-you
+  title: He's Just Not That Into You
+  id: 10184
+  original_title: He's Just Not That Into You
+  popularity: 28.747
+  poster_path: "/ruc33YnCrmCL8PHdPQVzfa4shWX.jpg"
+  release_date: '2009-02-06'
+- title_key: the-hand-that-rocks-the-cradle
+  title: The Hand that Rocks the Cradle
+  id: 11087
+  original_title: The Hand that Rocks the Cradle
+  popularity: 20.824
+  poster_path: "/1fBnyO3SbNBplck45js6O4pQaLw.jpg"
+  release_date: '1992-01-10'
+- title_key: scream
+  title: Scream
+  id: 646385
+  original_title: Scream
+  popularity: 115.282
+  poster_path: "/nD4M4Bx457ryLuKYpxFwQ2IBJ5w.jpg"
+  release_date: '2022-01-12'
+- title_key: faust
+  title: Faust
+  id: 77560
+  original_title: Faust
+  popularity: 10.743
+  poster_path: "/t4SbcJCSD2dLLh36WnhVgY4X6C0.jpg"
+  release_date: '2011-09-08'
+- title_key: space-jam
+  title: Space Jam
+  id: 2300
+  original_title: Space Jam
+  popularity: 28.641
+  poster_path: "/rjr6VuZoqEwJRmYxUnjbp1Skhg9.jpg"
+  release_date: '1996-11-15'
+- title_key: pagemaster
+  title: The Pagemaster
+  id: 15139
+  original_title: The Pagemaster
+  popularity: 17.0
+  poster_path: "/eH1elSNGetooPtK2aXHGuJblzkS.jpg"
+  release_date: '1994-11-23'
+- title_key: bedknobs-&-broomsticks
+  title: Bedknobs and Broomsticks
+  id: 12335
+  original_title: Bedknobs and Broomsticks
+  popularity: 15.168
+  poster_path: "/iE9gc9LyrQK6BKMeNb6RrlJKDb.jpg"
+  release_date: '1971-10-07'
 - title_key: titanic
   title: Titanic
   id: 597
   original_title: Titanic
-  popularity: 98.344
+  popularity: 662.213
   poster_path: "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
   release_date: '1997-11-18'
 - title_key: english-patient
   title: The English Patient
   id: 409
   original_title: The English Patient
-  popularity: 17.348
-  poster_path: "/yqaKkARc9Ku8mIENQt8bGVHaowJ.jpg"
-  release_date: '1996-11-05'
+  popularity: 25.095
+  poster_path: "/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg"
+  release_date: '1996-11-14'
 - title_key: other-people
-  title: Other People
-  id: 371449
-  original_title: Other People
-  popularity: 8.544
-  poster_path: "/aC7VqBeovG1yPUtlOhUfXofKBkZ.jpg"
-  release_date: '2016-09-09'
-- title_key: faust
-  title: Faust
-  id: 77560
-  original_title: Faust
-  popularity: 7.419
-  poster_path: "/t4SbcJCSD2dLLh36WnhVgY4X6C0.jpg"
-  release_date: '2011-09-08'
-- title_key: the-farewell
-  title: The Farewell
-  id: 565310
-  original_title: The Farewell
-  popularity: 14.305
-  poster_path: "/7ht2IMGynDSVQGvAXhAb83DLET8.jpg"
-  release_date: '2019-07-12'
-- title_key: fitzcarraldo
-  title: Fitzcarraldo
-  id: 9343
-  original_title: Fitzcarraldo
-  popularity: 6.479
-  poster_path: "/oBCnYEKcg1rMhr5JjDnrRpilvDd.jpg"
-  release_date: '1982-03-02'
-- title_key: russian-ark
-  title: 'In One Breath: Alexander Sokurov''s Russian Ark'
-  id: 192221
-  original_title: 'In One Breath: Alexander Sokurov''s Russian Ark'
-  popularity: 0.844
-  poster_path: "/vWrj8yO7u4K3la9Ygwi4ypyt7gY.jpg"
-  release_date: '2003-01-01'
-- title_key: turin-horse
-  title: The Turin Horse
-  id: 81401
-  original_title: A torinói ló
-  popularity: 10.564
-  poster_path: "/2kSElneXSKmMsGL55k0CbPGqLbu.jpg"
-  release_date: '2011-02-15'
-- title_key: space-jam
-  title: 'Space Jam: A New Legacy'
-  id: 379686
-  original_title: 'Space Jam: A New Legacy'
-  popularity: 82.139
-  poster_path: "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg"
-  release_date: '2021-07-08'
-- title_key: pagemaster
-  title: The Pagemaster
-  id: 15139
-  original_title: The Pagemaster
-  popularity: 15.889
-  poster_path: "/iIWUuCjN8VND7BDugvf45LveA6p.jpg"
-  release_date: '1994-11-23'
-- title_key: bedknobs-&-broomsticks
-  title: Bedknobs and Broomsticks
-  id: 12335
-  original_title: Bedknobs and Broomsticks
-  popularity: 15.21
-  poster_path: "/iE9gc9LyrQK6BKMeNb6RrlJKDb.jpg"
-  release_date: '1971-10-07'
+  title: Other People's Children
+  id: 803694
+  original_title: Les Enfants des autres
+  popularity: 31.282
+  poster_path: "/5oDu0n0vc7D3t3RhxHDrT0Ezcoa.jpg"
+  release_date: '2022-09-21'
+- title_key: jaws
+  title: Jaws
+  id: 578
+  original_title: Jaws
+  popularity: 47.735
+  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
+  release_date: '1975-06-20'
+- title_key: the-skin-i-live-in
+  title: The Skin I Live In
+  id: 63311
+  original_title: La piel que habito
+  popularity: 27.419
+  poster_path: "/xTQ3SifXs7KmoToNIgStXG59ZZL.jpg"
+  release_date: '2011-08-17'
+- title_key: philadelphia
+  title: Philadelphia
+  id: 9800
+  original_title: Philadelphia
+  popularity: 23.818
+  poster_path: "/tFe5Yoo5zT495okA49bq1vPPkiV.jpg"
+  release_date: '1993-12-22'
+- title_key: mr.-deeds
+  title: Mr. Deeds
+  id: 2022
+  original_title: Mr. Deeds
+  popularity: 25.859
+  poster_path: "/7gGk3pkpRsNlJ4PrJgEfgY9PG43.jpg"
+  release_date: '2002-06-28'
+- title_key: die-hard?
+  title: Die Hard
+  id: 562
+  original_title: Die Hard
+  popularity: 51.55
+  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
+  release_date: '1988-07-15'
+- title_key: all-the-president's-men
+  title: All the President's Men
+  id: 891
+  original_title: All the President's Men
+  popularity: 19.059
+  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
+  release_date: '1976-01-18'
+- title_key: frost/nixon
+  title: Frost/Nixon
+  id: 11499
+  original_title: Frost/Nixon
+  popularity: 12.266
+  poster_path: "/z4cQ2mJxwPZUwVh97yX9oNsLLZQ.jpg"
+  release_date: '2008-10-15'
+- title_key: the-fifth-element
+  title: The Fifth Element
+  id: 18
+  original_title: The Fifth Element
+  popularity: 72.772
+  poster_path: "/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg"
+  release_date: '1997-05-02'
+- title_key: alita:-battle-angel
+  title: 'Alita: Battle Angel'
+  id: 399579
+  original_title: 'Alita: Battle Angel'
+  popularity: 42.169
+  poster_path: "/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+  release_date: '2019-01-31'
+- title_key: red-sparrow
+  title: Red Sparrow
+  id: 401981
+  original_title: Red Sparrow
+  popularity: 27.473
+  poster_path: "/vLCogyfQGxVLDC1gqUdNAIkc29L.jpg"
+  release_date: '2018-02-28'
 - title_key: enchanted
   title: Enchanted
   id: 4523
   original_title: Enchanted
-  popularity: 78.66
+  popularity: 34.673
   poster_path: "/8KCNzCArLlvLdQoHx6npua2VSVc.jpg"
   release_date: '2007-11-20'
 - title_key: monkeybone
   title: Monkeybone
   id: 23685
   original_title: Monkeybone
-  popularity: 11.357
+  popularity: 19.053
   poster_path: "/lgH7Wej9922C1MQv0wciAfesKH8.jpg"
   release_date: '2001-02-23'
 - title_key: chip-n'-dale-rescue-rangers
   title: 'Chip ''n Dale: Rescue Rangers'
   id: 420821
   original_title: 'Chip ''n Dale: Rescue Rangers'
-  popularity: 72.522
+  popularity: 52.472
   poster_path: "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
   release_date: '2022-05-20'
 - title_key: who-framed-roger-rabbit
   title: Who Framed Roger Rabbit
   id: 856
   original_title: Who Framed Roger Rabbit
-  popularity: 27.741
+  popularity: 29.859
   poster_path: "/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg"
   release_date: '1988-06-21'
 - title_key: james-and-the-giant-peach
   title: James and the Giant Peach
   id: 10539
   original_title: James and the Giant Peach
-  popularity: 20.993
-  poster_path: "/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
-  release_date: '1996-04-12'
-- title_key: four-weddings-and-a-funeral?
-  title: Four Weddings and a Funeral
-  id: 712
-  original_title: Four Weddings and a Funeral
-  popularity: 20.775
-  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
-  release_date: '1994-03-09'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 51.573
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: marley-and-me
-  title: Marley & Me
-  id: 14306
-  original_title: Marley & Me
-  popularity: 24.652
-  poster_path: "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg"
-  release_date: '2008-12-25'
-- title_key: sea-beast
-  title: The Sea Beast
-  id: 560057
-  original_title: The Sea Beast
-  popularity: 108.146
-  poster_path: "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
-  release_date: '2022-06-24'
-- title_key: pinocchio
-  title: Pinocchio
-  id: 532639
-  original_title: Pinocchio
-  popularity: 593.473
-  poster_path: "/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
-  release_date: '2022-09-07'
-- title_key: cock-and-bull-story
-  title: A Cock and Bull Story
-  id: 8435
-  original_title: A Cock and Bull Story
-  popularity: 7.789
-  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
-  release_date: '2005-07-17'
-- title_key: stab
-  title: Final Stab
-  id: 70123
-  original_title: Final Stab
-  popularity: 2.38
-  poster_path: "/9BOBHnNNyXsu63dPLhJra7PZQxM.jpg"
-  release_date: '2001-05-05'
-- title_key: gone-with-the-wind?
-  title: Gone with the Wind
-  id: 770
-  original_title: Gone with the Wind
-  popularity: 28.978
-  poster_path: "/7K5hvvoM2Of1fgEgUSveNE6DNe7.jpg"
-  release_date: '1939-12-15'
-- title_key: i-am-sam
-  title: I Am Sam
-  id: 10950
-  original_title: I Am Sam
-  popularity: 18.697
-  poster_path: "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
-  release_date: '2001-12-28'
-- title_key: stand-by-me
-  title: Stand by Me
-  id: 235
-  original_title: Stand by Me
-  popularity: 21.405
-  poster_path: "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg"
-  release_date: '1986-08-08'
-- title_key: lost-in-translation
-  title: Lost in Translation
-  id: 153
-  original_title: Lost in Translation
-  popularity: 24.943
-  poster_path: "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg"
-  release_date: '2003-09-18'
-- title_key: science-of-sleep
-  title: The Science of Sleep
-  id: 564339
-  original_title: The Science of Sleep
-  popularity: 0.6
-  poster_path: "/aloUQ9FlNIB88k0jgcMgMHIsjNR.jpg"
-  release_date: '2016-09-01'
-- title_key: rambo:-first-blood
-  title: 'Rambo: First Blood Part II'
-  id: 1369
-  original_title: 'Rambo: First Blood Part II'
-  popularity: 53.225
-  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
-  release_date: '1985-05-21'
-- title_key: 500-days-of-summer
-  title: "(500) Days of Summer"
-  id: 19913
-  original_title: "(500) Days of Summer"
-  popularity: 44.202
-  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
-  release_date: '2009-07-17'
-- title_key: be-kind,-rewind
-  title: Be Kind Rewind
-  id: 4953
-  original_title: Be Kind Rewind
-  popularity: 11.558
-  poster_path: "/3n6ErSzozABZWcb880tASUNyBb7.jpg"
-  release_date: '2008-01-20'
-- title_key: seven?
-  title: The Magnificent Seven
-  id: 333484
-  original_title: The Magnificent Seven
-  popularity: 44.109
-  poster_path: "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg"
-  release_date: '2016-09-14'
-- title_key: once?
-  title: Everything Everywhere All at Once
-  id: 545611
-  original_title: Everything Everywhere All at Once
-  popularity: 102.997
-  poster_path: "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
-  release_date: '2022-03-24'
-- title_key: star-wars:-episode-6---return-of-the-jedi
-  title: Return of the Jedi
-  id: 1892
-  original_title: Return of the Jedi
-  popularity: 28.646
-  poster_path: "/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg"
-  release_date: '1983-05-25'
-- title_key: lion-king
-  title: The Lion King
-  id: 8587
-  original_title: The Lion King
-  popularity: 113.494
-  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-  release_date: '1994-06-23'
-- title_key: home-alone
-  title: Home Alone 3
-  id: 9714
-  original_title: Home Alone 3
-  popularity: 74.561
-  poster_path: "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg"
-  release_date: '1997-12-12'
-- title_key: ace-ventura
-  title: 'Ace Ventura: Pet Detective'
-  id: 3049
-  original_title: 'Ace Ventura: Pet Detective'
-  popularity: 25.111
-  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
-  release_date: '1994-02-04'
-- title_key: hello-dolly
-  title: Hello, Dolly!
-  id: 14030
-  original_title: Hello, Dolly!
-  popularity: 12.542
-  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
-  release_date: '1969-12-12'
-- title_key: space-jam
-  title: 'Space Jam: A New Legacy'
-  id: 379686
-  original_title: 'Space Jam: A New Legacy'
-  popularity: 79.861
-  poster_path: "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg"
-  release_date: '2021-07-08'
-- title_key: pagemaster
-  title: The Pagemaster
-  id: 15139
-  original_title: The Pagemaster
-  popularity: 17.041
-  poster_path: "/iIWUuCjN8VND7BDugvf45LveA6p.jpg"
-  release_date: '1994-11-23'
-- title_key: bedknobs-&-broomsticks
-  title: Bedknobs and Broomsticks
-  id: 12335
-  original_title: Bedknobs and Broomsticks
-  popularity: 17.915
-  poster_path: "/iE9gc9LyrQK6BKMeNb6RrlJKDb.jpg"
-  release_date: '1971-10-07'
-- title_key: jaws
-  title: Jaws
-  id: 578
-  original_title: Jaws
-  popularity: 38.696
-  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
-  release_date: '1975-06-20'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 51.573
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: all-the-president's-men
-  title: All the President's Men
-  id: 891
-  original_title: All the President's Men
-  popularity: 11.666
-  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
-  release_date: '1976-01-18'
-- title_key: chip-n'-dale-rescue-rangers
-  title: 'Chip ''n Dale: Rescue Rangers'
-  id: 420821
-  original_title: 'Chip ''n Dale: Rescue Rangers'
-  popularity: 80.36
-  poster_path: "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
-  release_date: '2022-05-20'
-- title_key: james-and-the-giant-peach
-  title: James and the Giant Peach
-  id: 10539
-  original_title: James and the Giant Peach
-  popularity: 23.893
+  popularity: 23.145
   poster_path: "/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
   release_date: '1996-04-12'
 - title_key: inside-out
   title: Inside Out
   id: 150540
   original_title: Inside Out
-  popularity: 94.211
+  popularity: 104.637
   poster_path: "/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg"
   release_date: '2015-06-09'
 - title_key: the-faculty
   title: The Faculty
   id: 9276
   original_title: The Faculty
-  popularity: 16.73
+  popularity: 19.493
   poster_path: "/l0rz4vB0FfxraTd1mLGoaydSQd1.jpg"
   release_date: '1998-12-25'
 - title_key: heathers
   title: Heathers
   id: 2640
   original_title: Heathers
-  popularity: 21.528
+  popularity: 20.405
   poster_path: "/dGbVfM4WlM7uvIbyRehfPZUIgp2.jpg"
   release_date: '1989-03-31'
 - title_key: jennifer's-body
   title: Jennifer's Body
   id: 19994
   original_title: Jennifer's Body
-  popularity: 33.04
+  popularity: 41.59
   poster_path: "/wrkjsGcFJxcQqR56kJUYAEKKg2T.jpg"
   release_date: '2009-09-18'
 - title_key: school-of-rock
   title: School of Rock
   id: 1584
   original_title: School of Rock
-  popularity: 19.649
+  popularity: 32.243
   poster_path: "/zXLXaepIBvFVLU25DH3wv4IPSbe.jpg"
   release_date: '2003-10-03'
 - title_key: fame
   title: Fame
   id: 28665
   original_title: Fame
-  popularity: 11.674
+  popularity: 13.401
   poster_path: "/hm7f9a0BdjV9OLOJ5wFWQq55Jfd.jpg"
   release_date: '2009-09-23'
 - title_key: virgin-suicides
   title: The Virgin Suicides
   id: 1443
   original_title: The Virgin Suicides
-  popularity: 17.6
-  poster_path: "/wDrTeDUuWf7SRQnkVea2ZpOcwnt.jpg"
+  popularity: 20.445
+  poster_path: "/1NCQtXPQnaHRjOZVmktA9BSM35F.jpg"
   release_date: '1999-12-31'
 - title_key: basketball-diaries
   title: The Basketball Diaries
   id: 10474
   original_title: The Basketball Diaries
-  popularity: 23.29
+  popularity: 29.166
   poster_path: "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
   release_date: '1995-04-21'
 - title_key: ghost-world
   title: Ghost World
   id: 1548
   original_title: Ghost World
-  popularity: 11.7
+  popularity: 10.678
   poster_path: "/uwKqnUPE4dSM0kKuMW0vXpURh2T.jpg"
   release_date: '2001-07-20'
 - title_key: scott-pilgrim-vs.-the-world
   title: Scott Pilgrim vs. the World
   id: 22538
   original_title: Scott Pilgrim vs. the World
-  popularity: 35.013
+  popularity: 33.071
   poster_path: "/g5IoYeudx9XBEfwNL0fHvSckLBz.jpg"
   release_date: '2010-08-12'
 - title_key: dead-poets'-society
   title: Dead Poets Society
   id: 207
   original_title: Dead Poets Society
-  popularity: 28.481
+  popularity: 33.476
   poster_path: "/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
   release_date: '1989-06-02'
-- title_key: o
-  title: Gantz:O
-  id: 396263
-  original_title: GANTZ:O
-  popularity: 33.65
-  poster_path: "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg"
-  release_date: '2016-10-14'
+- title_key: o-2001
+  title: O
+  id: 11065
+  original_title: O
+  popularity: 12.372
+  poster_path: "/u8mFQU3YwNvZWcATncaAHUfEEMr.jpg"
+  release_date: '2001-08-31'
 - title_key: she's-the-man
   title: She's the Man
   id: 9655
   original_title: She's the Man
-  popularity: 18.615
+  popularity: 24.14
   poster_path: "/gdF2PEBdwoohpPqKL93eCk17zNO.jpg"
   release_date: '2006-03-17'
 - title_key: clueless
   title: Clueless
   id: 9603
   original_title: Clueless
-  popularity: 29.406
-  poster_path: "/i6oWPOklGIDKG45tPjcLNH0fRNO.jpg"
+  popularity: 38.917
+  poster_path: "/8AwVTcgpTnmeOs4TdTWqcFDXEsA.jpg"
   release_date: '1995-07-19'
 - title_key: harvey
   title: Harvey
   id: 11787
   original_title: Harvey
-  popularity: 9.688
+  popularity: 10.911
   poster_path: "/dgd82hYmpiXDM1G867HqNaWe8wj.jpg"
   release_date: '1950-12-04'
 - title_key: guillermo-del-toro's-pinocchio
   title: Guillermo del Toro's Pinocchio
   id: 555604
   original_title: Guillermo del Toro's Pinocchio
-  popularity: 436.768
+  popularity: 85.12
   poster_path: "/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg"
   release_date: '2022-11-09'
 - title_key: pinocchio
   title: Pinocchio
   id: 532639
   original_title: Pinocchio
-  popularity: 593.473
+  popularity: 57.625
   poster_path: "/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg"
   release_date: '2022-09-07'
+- title_key: ratatouille
+  title: Ratatouille
+  id: 2062
+  original_title: Ratatouille
+  popularity: 97.088
+  poster_path: "/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg"
+  release_date: '2007-06-28'
+- title_key: mulan
+  title: Mulan
+  id: 10674
+  original_title: Mulan
+  popularity: 91.508
+  poster_path: "/5TYgKxYhnhRNNwqnRAKHkgfqi2G.jpg"
+  release_date: '1998-06-18'
+- title_key: indian-in-the-cupboard
+  title: The Indian in the Cupboard
+  id: 11359
+  original_title: The Indian in the Cupboard
+  popularity: 19.05
+  poster_path: "/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg"
+  release_date: '1995-07-14'
 - title_key: team-america
   title: 'Team America: World Police'
   id: 3989
   original_title: 'Team America: World Police'
-  popularity: 16.659
+  popularity: 17.291
   poster_path: "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg"
   release_date: '2004-10-10'
 - title_key: the-beaver
   title: The Beaver
   id: 50780
   original_title: The Beaver
-  popularity: 10.72
+  popularity: 13.517
   poster_path: "/nlaWgS7iIb6MG3t0FitV1xdPqIV.jpg"
   release_date: '2011-05-05'
 - title_key: possum
   title: Possum
   id: 472269
   original_title: Possum
-  popularity: 10.157
+  popularity: 9.878
   poster_path: "/5QOFKSpE7KacBriU95fxG6hmmvr.jpg"
   release_date: '2018-10-26'
 - title_key: roxanne
   title: Roxanne
   id: 11584
   original_title: Roxanne
-  popularity: 11.198
+  popularity: 14.536
   poster_path: "/c2XSGkpAIIof6Oi8Sr6wBvwt1Lk.jpg"
   release_date: '1987-06-19'
 - title_key: tusk
   title: Tusk
   id: 246403
   original_title: Tusk
-  popularity: 19.405
+  popularity: 17.235
   poster_path: "/pHghiDnQ63O7MiItD6CaSz2jjnr.jpg"
   release_date: '2014-09-19'
 - title_key: dumbo
   title: Dumbo
   id: 11360
   original_title: Dumbo
-  popularity: 49.15
+  popularity: 212.87
   poster_path: "/4x9FmvdJ464Fg7A9XcbYSmxfVw3.jpg"
   release_date: '1941-10-31'
 - title_key: invention-of-lying
   title: The Invention of Lying
   id: 23082
   original_title: The Invention of Lying
-  popularity: 17.124
+  popularity: 18.42
   poster_path: "/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg"
   release_date: '2009-09-13'
 - title_key: what-lies-beneath
   title: What Lies Beneath
   id: 2655
   original_title: What Lies Beneath
-  popularity: 17.728
+  popularity: 19.747
   poster_path: "/2L3Cn0CizbSy2E9KJt1SiOSyb6p.jpg"
   release_date: '2000-07-21'
 - title_key: the-imposter
   title: The Imposter
   id: 84287
   original_title: The Imposter
-  popularity: 10.602
+  popularity: 11.399
   poster_path: "/mH1gbte3UeIOXtoTrpZqjfMIoo.jpg"
   release_date: '2012-07-13'
-- title_key: four-weddings-and-a-funeral?
-  title: Four Weddings and a Funeral
-  id: 712
-  original_title: Four Weddings and a Funeral
-  popularity: 20.775
-  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
-  release_date: '1994-03-09'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 51.573
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: marley-and-me
-  title: Marley & Me
-  id: 14306
-  original_title: Marley & Me
-  popularity: 24.652
-  poster_path: "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg"
-  release_date: '2008-12-25'
-- title_key: sea-beast
-  title: The Sea Beast
-  id: 560057
-  original_title: The Sea Beast
-  popularity: 108.146
-  poster_path: "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
-  release_date: '2022-06-24'
-- title_key: cock-and-bull-story
-  title: A Cock and Bull Story
-  id: 8435
-  original_title: A Cock and Bull Story
-  popularity: 7.789
-  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
-  release_date: '2005-07-17'
-- title_key: stab
-  title: Final Stab
-  id: 70123
-  original_title: Final Stab
-  popularity: 2.38
-  poster_path: "/9BOBHnNNyXsu63dPLhJra7PZQxM.jpg"
-  release_date: '2001-05-05'
-- title_key: gone-with-the-wind?
-  title: Gone with the Wind
-  id: 770
-  original_title: Gone with the Wind
-  popularity: 28.978
-  poster_path: "/7K5hvvoM2Of1fgEgUSveNE6DNe7.jpg"
-  release_date: '1939-12-15'
-- title_key: i-am-sam
-  title: I Am Sam
-  id: 10950
-  original_title: I Am Sam
-  popularity: 18.697
-  poster_path: "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
-  release_date: '2001-12-28'
-- title_key: stand-by-me
-  title: Stand by Me
-  id: 235
-  original_title: Stand by Me
-  popularity: 21.405
-  poster_path: "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg"
-  release_date: '1986-08-08'
-- title_key: lost-in-translation
-  title: Lost in Translation
-  id: 153
-  original_title: Lost in Translation
-  popularity: 24.943
-  poster_path: "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg"
-  release_date: '2003-09-18'
-- title_key: science-of-sleep
-  title: The Science of Sleep
-  id: 564339
-  original_title: The Science of Sleep
-  popularity: 0.6
-  poster_path: "/aloUQ9FlNIB88k0jgcMgMHIsjNR.jpg"
-  release_date: '2016-09-01'
-- title_key: rambo:-first-blood
-  title: 'Rambo: First Blood Part II'
-  id: 1369
-  original_title: 'Rambo: First Blood Part II'
-  popularity: 53.225
-  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
-  release_date: '1985-05-21'
-- title_key: 500-days-of-summer
-  title: "(500) Days of Summer"
-  id: 19913
-  original_title: "(500) Days of Summer"
-  popularity: 44.202
-  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
-  release_date: '2009-07-17'
-- title_key: be-kind,-rewind
-  title: Be Kind Rewind
-  id: 4953
-  original_title: Be Kind Rewind
-  popularity: 11.558
-  poster_path: "/3n6ErSzozABZWcb880tASUNyBb7.jpg"
-  release_date: '2008-01-20'
-- title_key: seven?
-  title: The Magnificent Seven
-  id: 333484
-  original_title: The Magnificent Seven
-  popularity: 44.109
-  poster_path: "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg"
-  release_date: '2016-09-14'
-- title_key: once?
-  title: Everything Everywhere All at Once
-  id: 545611
-  original_title: Everything Everywhere All at Once
-  popularity: 102.997
-  poster_path: "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
-  release_date: '2022-03-24'
-- title_key: star-wars:-episode-6---return-of-the-jedi
-  title: Return of the Jedi
-  id: 1892
-  original_title: Return of the Jedi
-  popularity: 28.646
-  poster_path: "/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg"
-  release_date: '1983-05-25'
-- title_key: lion-king
-  title: The Lion King
-  id: 8587
-  original_title: The Lion King
-  popularity: 113.494
-  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-  release_date: '1994-06-23'
-- title_key: home-alone
-  title: Home Alone 3
-  id: 9714
-  original_title: Home Alone 3
-  popularity: 74.561
-  poster_path: "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg"
-  release_date: '1997-12-12'
-- title_key: ace-ventura
-  title: 'Ace Ventura: Pet Detective'
-  id: 3049
-  original_title: 'Ace Ventura: Pet Detective'
-  popularity: 25.111
-  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
-  release_date: '1994-02-04'
-- title_key: hello-dolly
-  title: Hello, Dolly!
-  id: 14030
-  original_title: Hello, Dolly!
-  popularity: 12.542
-  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
-  release_date: '1969-12-12'
-- title_key: space-jam
-  title: 'Space Jam: A New Legacy'
-  id: 379686
-  original_title: 'Space Jam: A New Legacy'
-  popularity: 79.861
-  poster_path: "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg"
-  release_date: '2021-07-08'
-- title_key: pagemaster
-  title: The Pagemaster
-  id: 15139
-  original_title: The Pagemaster
-  popularity: 17.041
-  poster_path: "/iIWUuCjN8VND7BDugvf45LveA6p.jpg"
-  release_date: '1994-11-23'
-- title_key: bedknobs-&-broomsticks
-  title: Bedknobs and Broomsticks
-  id: 12335
-  original_title: Bedknobs and Broomsticks
-  popularity: 17.915
-  poster_path: "/iE9gc9LyrQK6BKMeNb6RrlJKDb.jpg"
-  release_date: '1971-10-07'
-- title_key: jaws
-  title: Jaws
-  id: 578
-  original_title: Jaws
-  popularity: 38.696
-  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
-  release_date: '1975-06-20'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 51.573
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: all-the-president's-men
-  title: All the President's Men
-  id: 891
-  original_title: All the President's Men
-  popularity: 11.666
-  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
-  release_date: '1976-01-18'
-- title_key: chip-n'-dale-rescue-rangers
-  title: 'Chip ''n Dale: Rescue Rangers'
-  id: 420821
-  original_title: 'Chip ''n Dale: Rescue Rangers'
-  popularity: 80.36
-  poster_path: "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
-  release_date: '2022-05-20'
-- title_key: james-and-the-giant-peach
-  title: James and the Giant Peach
-  id: 10539
-  original_title: James and the Giant Peach
-  popularity: 23.893
-  poster_path: "/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
-  release_date: '1996-04-12'
-- title_key: virgin-suicides
-  title: The Virgin Suicides
-  id: 1443
-  original_title: The Virgin Suicides
-  popularity: 17.6
-  poster_path: "/wDrTeDUuWf7SRQnkVea2ZpOcwnt.jpg"
-  release_date: '1999-12-31'
-- title_key: basketball-diaries
-  title: The Basketball Diaries
-  id: 10474
-  original_title: The Basketball Diaries
-  popularity: 23.29
-  poster_path: "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
-  release_date: '1995-04-21'
-- title_key: dead-poets'-society
-  title: Dead Poets Society
-  id: 207
-  original_title: Dead Poets Society
-  popularity: 28.481
-  poster_path: "/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
-  release_date: '1989-06-02'
-- title_key: o
-  title: Gantz:O
-  id: 396263
-  original_title: GANTZ:O
-  popularity: 33.65
-  poster_path: "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg"
-  release_date: '2016-10-14'
-- title_key: she's-the-man
-  title: She's the Man
-  id: 9655
-  original_title: She's the Man
-  popularity: 18.615
-  poster_path: "/gdF2PEBdwoohpPqKL93eCk17zNO.jpg"
-  release_date: '2006-03-17'
-- title_key: team-america
-  title: 'Team America: World Police'
-  id: 3989
-  original_title: 'Team America: World Police'
-  popularity: 16.659
-  poster_path: "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg"
-  release_date: '2004-10-10'
-- title_key: invention-of-lying
-  title: The Invention of Lying
-  id: 23082
-  original_title: The Invention of Lying
-  popularity: 17.124
-  poster_path: "/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg"
-  release_date: '2009-09-13'
 - title_key: the-wrong-trousers
   title: The Wrong Trousers
   id: 531
   original_title: The Wrong Trousers
-  popularity: 15.645
+  popularity: 14.986
   poster_path: "/mV8SDTjkxrDxu0a0egvFz1lRPU7.jpg"
   release_date: '1993-12-17'
 - title_key: matilda
   title: Matilda
   id: 10830
   original_title: Matilda
-  popularity: 37.196
+  popularity: 48.49
   poster_path: "/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg"
   release_date: '1996-08-02'
 - title_key: millions
-  title: Brewster's Millions
-  id: 11064
-  original_title: Brewster's Millions
-  popularity: 22.351
-  poster_path: "/7z5PMgpczjXDT5scdrlLt38mnKJ.jpg"
-  release_date: '1985-05-22'
+  title: Millions
+  id: 13373
+  original_title: Millions
+  popularity: 12.558
+  poster_path: "/xKbnBopSedOmsKU94OD2vsrtcnf.jpg"
+  release_date: '2004-04-29'
 - title_key: my-fair-lady
   title: My Fair Lady
   id: 11113
   original_title: My Fair Lady
-  popularity: 16.166
+  popularity: 18.464
   poster_path: "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg"
   release_date: '1964-10-21'
 - title_key: oliver
   title: Oliver!
   id: 17917
   original_title: Oliver!
-  popularity: 14.208
-  poster_path: "/5QbZEHndREQxcoGC5TKY8KxBdqa.jpg"
+  popularity: 17.7
+  poster_path: "/1XJgoaOWKrqxkKeBKWLKSigqG8c.jpg"
   release_date: '1968-09-26'
 - title_key: chitty-chitty-bang-bang
   title: Chitty Chitty Bang Bang
   id: 11708
   original_title: Chitty Chitty Bang Bang
-  popularity: 13.24
+  popularity: 16.917
   poster_path: "/gHET7AjuKU2iX0YsbFTYHKOV3jX.jpg"
   release_date: '1968-12-17'
+- title_key: titanic
+  title: Titanic
+  id: 597
+  original_title: Titanic
+  popularity: 662.213
+  poster_path: "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  release_date: '1997-11-18'
+- title_key: paddington
+  title: Paddington
+  id: 116149
+  original_title: Paddington
+  popularity: 24.671
+  poster_path: "/y7lFcSKhFrcelocr2VFflJnVzIH.jpg"
+  release_date: '2014-11-24'
+- title_key: harry-potter-and-the-philosopher's-stone
+  title: Harry Potter and the Philosopher's Stone
+  id: 671
+  original_title: Harry Potter and the Philosopher's Stone
+  popularity: 162.16
+  poster_path: "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  release_date: '2001-11-16'
 - title_key: planes,-trains-and-automobiles
   title: Planes, Trains and Automobiles
   id: 2609
   original_title: Planes, Trains and Automobiles
-  popularity: 24.546
+  popularity: 19.753
   poster_path: "/3RSucVsX96Ste8WDJfZP1hbNGqQ.jpg"
   release_date: '1987-11-26'
-- title_key: day-of-the-dead
-  title: 'Day of the Dead: Bloodline'
-  id: 485415
-  original_title: 'Day of the Dead: Bloodline'
-  popularity: 25.427
-  poster_path: "/3jM4C1wJxHLWlF4tcSyyv6fnJPR.jpg"
-  release_date: '2017-12-29'
-- title_key: four-weddings-and-a-funeral?
-  title: Four Weddings and a Funeral
-  id: 712
-  original_title: Four Weddings and a Funeral
-  popularity: 20.775
-  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
-  release_date: '1994-03-09'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 51.573
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: marley-and-me
-  title: Marley & Me
-  id: 14306
-  original_title: Marley & Me
-  popularity: 24.652
-  poster_path: "/pnB6hjTKylb0Ve2nUWt16gzkErr.jpg"
-  release_date: '2008-12-25'
-- title_key: sea-beast
-  title: The Sea Beast
-  id: 560057
-  original_title: The Sea Beast
-  popularity: 108.146
-  poster_path: "/9Zfv4Ap1e8eKOYnZPtYaWhLkk0d.jpg"
-  release_date: '2022-06-24'
-- title_key: cock-and-bull-story
-  title: A Cock and Bull Story
-  id: 8435
-  original_title: A Cock and Bull Story
-  popularity: 7.789
-  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
-  release_date: '2005-07-17'
-- title_key: stab
-  title: Final Stab
-  id: 70123
-  original_title: Final Stab
-  popularity: 2.38
-  poster_path: "/9BOBHnNNyXsu63dPLhJra7PZQxM.jpg"
-  release_date: '2001-05-05'
-- title_key: gone-with-the-wind?
-  title: Gone with the Wind
-  id: 770
-  original_title: Gone with the Wind
-  popularity: 28.978
-  poster_path: "/7K5hvvoM2Of1fgEgUSveNE6DNe7.jpg"
-  release_date: '1939-12-15'
-- title_key: i-am-sam
-  title: I Am Sam
-  id: 10950
-  original_title: I Am Sam
-  popularity: 18.697
-  poster_path: "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
-  release_date: '2001-12-28'
-- title_key: stand-by-me
-  title: Stand by Me
-  id: 235
-  original_title: Stand by Me
-  popularity: 21.405
-  poster_path: "/7QbJa6syM4ZYxtey0d7qB7bmhzb.jpg"
-  release_date: '1986-08-08'
-- title_key: lost-in-translation
-  title: Lost in Translation
-  id: 153
-  original_title: Lost in Translation
-  popularity: 24.943
-  poster_path: "/wkSzJs7oMf8MIr9CQVICsvRfwA7.jpg"
-  release_date: '2003-09-18'
-- title_key: science-of-sleep
-  title: The Science of Sleep
-  id: 564339
-  original_title: The Science of Sleep
-  popularity: 0.6
-  poster_path: "/aloUQ9FlNIB88k0jgcMgMHIsjNR.jpg"
-  release_date: '2016-09-01'
-- title_key: rambo:-first-blood
-  title: 'Rambo: First Blood Part II'
-  id: 1369
-  original_title: 'Rambo: First Blood Part II'
-  popularity: 53.225
-  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
-  release_date: '1985-05-21'
-- title_key: 500-days-of-summer
-  title: "(500) Days of Summer"
-  id: 19913
-  original_title: "(500) Days of Summer"
-  popularity: 44.202
-  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
-  release_date: '2009-07-17'
-- title_key: be-kind,-rewind
-  title: Be Kind Rewind
-  id: 4953
-  original_title: Be Kind Rewind
-  popularity: 11.558
-  poster_path: "/3n6ErSzozABZWcb880tASUNyBb7.jpg"
-  release_date: '2008-01-20'
-- title_key: seven?
-  title: The Magnificent Seven
-  id: 333484
-  original_title: The Magnificent Seven
-  popularity: 44.109
-  poster_path: "/ezcS78TIjgr85pVdaPDd2rSPVNs.jpg"
-  release_date: '2016-09-14'
-- title_key: once?
-  title: Everything Everywhere All at Once
-  id: 545611
-  original_title: Everything Everywhere All at Once
-  popularity: 102.997
-  poster_path: "/w3LxiVYdWWRvEVdn5RYq6jIqkb1.jpg"
-  release_date: '2022-03-24'
-- title_key: star-wars:-episode-6---return-of-the-jedi
-  title: Return of the Jedi
-  id: 1892
-  original_title: Return of the Jedi
-  popularity: 28.646
-  poster_path: "/q6ydU8r1iYyy2bV7tPVaq266Y1k.jpg"
-  release_date: '1983-05-25'
-- title_key: lion-king
-  title: The Lion King
-  id: 8587
-  original_title: The Lion King
-  popularity: 113.494
-  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
-  release_date: '1994-06-23'
-- title_key: home-alone
-  title: Home Alone 3
-  id: 9714
-  original_title: Home Alone 3
-  popularity: 74.561
-  poster_path: "/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg"
-  release_date: '1997-12-12'
-- title_key: ace-ventura
-  title: 'Ace Ventura: Pet Detective'
-  id: 3049
-  original_title: 'Ace Ventura: Pet Detective'
-  popularity: 25.111
-  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
-  release_date: '1994-02-04'
-- title_key: hello-dolly
-  title: Hello, Dolly!
-  id: 14030
-  original_title: Hello, Dolly!
-  popularity: 12.542
-  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
-  release_date: '1969-12-12'
-- title_key: space-jam
-  title: 'Space Jam: A New Legacy'
-  id: 379686
-  original_title: 'Space Jam: A New Legacy'
-  popularity: 79.861
-  poster_path: "/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg"
-  release_date: '2021-07-08'
-- title_key: pagemaster
-  title: The Pagemaster
-  id: 15139
-  original_title: The Pagemaster
-  popularity: 17.041
-  poster_path: "/iIWUuCjN8VND7BDugvf45LveA6p.jpg"
-  release_date: '1994-11-23'
-- title_key: bedknobs-&-broomsticks
-  title: Bedknobs and Broomsticks
-  id: 12335
-  original_title: Bedknobs and Broomsticks
-  popularity: 17.915
-  poster_path: "/iE9gc9LyrQK6BKMeNb6RrlJKDb.jpg"
-  release_date: '1971-10-07'
-- title_key: jaws
-  title: Jaws
-  id: 578
-  original_title: Jaws
-  popularity: 38.696
-  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
-  release_date: '1975-06-20'
-- title_key: die-hard?
-  title: Die Hard
-  id: 562
-  original_title: Die Hard
-  popularity: 51.573
-  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
-  release_date: '1988-07-15'
-- title_key: all-the-president's-men
-  title: All the President's Men
-  id: 891
-  original_title: All the President's Men
-  popularity: 11.666
-  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
-  release_date: '1976-01-18'
-- title_key: chip-n'-dale-rescue-rangers
-  title: 'Chip ''n Dale: Rescue Rangers'
-  id: 420821
-  original_title: 'Chip ''n Dale: Rescue Rangers'
-  popularity: 80.36
-  poster_path: "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
-  release_date: '2022-05-20'
-- title_key: james-and-the-giant-peach
-  title: James and the Giant Peach
-  id: 10539
-  original_title: James and the Giant Peach
-  popularity: 23.893
-  poster_path: "/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
-  release_date: '1996-04-12'
-- title_key: virgin-suicides
-  title: The Virgin Suicides
-  id: 1443
-  original_title: The Virgin Suicides
-  popularity: 17.6
-  poster_path: "/wDrTeDUuWf7SRQnkVea2ZpOcwnt.jpg"
-  release_date: '1999-12-31'
-- title_key: basketball-diaries
-  title: The Basketball Diaries
-  id: 10474
-  original_title: The Basketball Diaries
-  popularity: 23.29
-  poster_path: "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
-  release_date: '1995-04-21'
-- title_key: dead-poets'-society
-  title: Dead Poets Society
-  id: 207
-  original_title: Dead Poets Society
-  popularity: 28.481
-  poster_path: "/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
-  release_date: '1989-06-02'
-- title_key: o
-  title: Gantz:O
-  id: 396263
-  original_title: GANTZ:O
-  popularity: 33.65
-  poster_path: "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg"
-  release_date: '2016-10-14'
-- title_key: she's-the-man
-  title: She's the Man
-  id: 9655
-  original_title: She's the Man
-  popularity: 18.615
-  poster_path: "/gdF2PEBdwoohpPqKL93eCk17zNO.jpg"
-  release_date: '2006-03-17'
-- title_key: team-america
-  title: 'Team America: World Police'
-  id: 3989
-  original_title: 'Team America: World Police'
-  popularity: 16.659
-  poster_path: "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg"
-  release_date: '2004-10-10'
-- title_key: invention-of-lying
-  title: The Invention of Lying
-  id: 23082
-  original_title: The Invention of Lying
-  popularity: 17.124
-  poster_path: "/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg"
-  release_date: '2009-09-13'
+- title_key: dawn-of-the-dead
+  title: Dawn of the Dead
+  id: 923
+  original_title: Dawn of the Dead
+  popularity: 29.443
+  poster_path: "/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg"
+  release_date: '1978-09-02'
+- title_key: i,-daniel-blake
+  title: I, Daniel Blake
+  id: 374473
+  original_title: I, Daniel Blake
+  popularity: 9.944
+  poster_path: "/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg"
+  release_date: '2016-10-21'
+- title_key: full-monty
+  title: The Full Monty
+  id: 9427
+  original_title: The Full Monty
+  popularity: 13.392
+  poster_path: "/xkMiZv2FPrhIAtxvEcN1jAbkHRY.jpg"
+  release_date: '1997-08-13'
+- title_key: precious
+  title: Precious
+  id: 25793
+  original_title: Precious
+  popularity: 17.654
+  poster_path: "/cY23k6VQsHVfTQIHf7e887iAfq4.jpg"
+  release_date: '2009-11-06'
+- title_key: alvin-&-the-chipmunks:-the-squeakquel
+  title: 'Alvin and the Chipmunks: The Squeakquel'
+  id: 23398
+  original_title: 'Alvin and the Chipmunks: The Squeakquel'
+  popularity: 36.167
+  poster_path: "/8mdPqOga5fty15nXmaNcK1fsNMa.jpg"
+  release_date: '2009-12-21'
+- title_key: batman-v-superman:-dawn-of-justice
+  title: 'Batman v Superman: Dawn of Justice'
+  id: 209112
+  original_title: 'Batman v Superman: Dawn of Justice'
+  popularity: 84.132
+  poster_path: "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg"
+  release_date: '2016-03-23'
+- title_key: bridget-jones-diary:-edge-of-reason
+  title: 'Bridget Jones: The Edge of Reason'
+  id: 9801
+  original_title: 'Bridget Jones: The Edge of Reason'
+  popularity: 20.868
+  poster_path: "/42v82AwTnhaL1JkNcQK8PRAh46P.jpg"
+  release_date: '2004-11-10'
+- title_key: once-upon-a-time…-in-hollywood
+  title: Once Upon a Time… in Hollywood
+  id: 466272
+  original_title: Once Upon a Time… in Hollywood
+  popularity: 54.618
+  poster_path: "/wQKeS2JrsRF8XSfd9zqflrc5gad.jpg"
+  release_date: '2019-07-24'
+- title_key: how-stella-got-her-groove-back
+  title: How Stella Got Her Groove Back
+  id: 33644
+  original_title: How Stella Got Her Groove Back
+  popularity: 9.745
+  poster_path: "/5h7x6EkAyoOdk38UOPV2eZI7GzU.jpg"
+  release_date: '1998-08-14'
+- title_key: air-bud
+  title: Air Bud
+  id: 20737
+  original_title: Air Bud
+  popularity: 14.658
+  poster_path: "/kDfzh6QdX2tseTwwyB7lp2RP7iE.jpg"
+  release_date: '1997-08-01'
+- title_key: friends-with-benefits
+  title: Friends with Benefits
+  id: 50544
+  original_title: Friends with Benefits
+  popularity: 36.728
+  poster_path: "/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg"
+  release_date: '2011-07-21'
+- title_key: no-strings-attached
+  title: No Strings Attached
+  id: 41630
+  original_title: No Strings Attached
+  popularity: 49.356
+  poster_path: "/9C09L1U9S13J4Ut029Qhu0oLcTQ.jpg"
+  release_date: '2011-01-21'
+- title_key: zack-and-miri-make-a-porno
+  title: Zack and Miri Make a Porno
+  id: 10358
+  original_title: Zack and Miri Make a Porno
+  popularity: 37.394
+  poster_path: "/40qxr2p2s297Q1mWFJOsRatQPK0.jpg"
+  release_date: '2008-09-18'

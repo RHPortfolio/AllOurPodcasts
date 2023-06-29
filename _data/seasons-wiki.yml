@@ -134,7 +134,7 @@
    season_title: Cute Robot Season
    description: ...they made it up!
    completed: FALSE
-   episodes: ["104"]
+   episodes: ["104", "201"]
    films: [Silent Running]
 -
    season_title: Dairy Films
@@ -227,79 +227,79 @@
    episodes: ["104"]
    films: [Stab]
 -
-   season_title: Films about one day
+   season_title: About one day
    description: Films that focus on a single day
    completed: FALSE
    episodes: ["103"]
    films: []
 -
-   season_title: Films based on books you don't want to see
+   season_title: Based on books you don't want to see
    description: Films which began life on the written page which don't interest us
    completed: FALSE
    episodes: ["102"]
    films: []
 -
-   season_title: Films Based on Novels
+   season_title: Based on Novels
    description: ...book first films
    completed: FALSE
    episodes: ["105"]
    films: []
 -
-   season_title: Films Not To Watch When You're Hungry
+   season_title: Not To Watch When You're Hungry AKA Delicious Food
    description: ...because the food depcited looks so damn good
    completed: FALSE
-   episodes: ["105"]
+   episodes: ["105", "210"]
    films: [The Farewell]
 -
-   season_title: Films That Are Not Like Films In Some way
+   season_title: Not Like Films In Some way
    description: ...difficult to explain, needs further exploration
    completed: FALSE
    episodes: ["105"]
    films: []
 -
-   season_title: Films that play with memory
+   season_title: Play with memory
    description: ...what was that category again?
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Films That The 8,000,000,000th Baby Should See
+   season_title: The 8,000,000,000th Baby Should See
    description: ...essential viewing, essentially
    completed: TRUE
    episodes: ["104"]
    films: [Forrest Gump,The Truman Show,Boyhood]
 -
-   season_title: Films to Fall Asleep To
+   season_title: To Fall Asleep To
    description: Sleepy movies, either by habit or by content, which one has or could watch to aid somnolance
    completed: FALSE
    episodes: ["102"]
    films: []
 -
-   season_title: Films where it ends up that one of them is a ghost all along
+   season_title: Where it ends up that one of them is a ghost all along
    description: sorry, spoilers ahead
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Films With Frank Sinatra Songs
+   season_title: With Frank Sinatra Songs
    description: Films which feature a track sung by Frank Sinatra, including songs by him covered by other artists
    completed: TRUE
    episodes: ["102"]
    films: ["Bewitched", "Catch Me If You Can", "Down With Love"]
 -
-   season_title: Films with the word 'tit' in it
+   season_title: With the word 'tit' in it
    description: ...
    completed: FALSE
    episodes: ["105"]
    films: []
 -
-   season_title: Films you'd be shown at school in... English Lit
+   season_title: You'd be shown at school in... English Lit
    description: ...wheeling out the old vhs
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Films you'd be shown at school in... R.E.
+   season_title: You'd be shown at school in... R.E.
    description: ...wheeling out the old vhs
    completed: FALSE
    episodes: ["104"]
@@ -497,37 +497,37 @@
    episodes: ["104"]
    films: []
 -
-   season_title: Movies About Blue People
+   season_title: About Blue People
    description: ...da ba dee da ba di Da
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Movies from Movies with Movies in
+   season_title: Films from Films with Films in
    description: ...films that we should watch that have been played in other films
    completed: TRUE
    episodes: ["104"]
    films: ["Rambo: First Blood",The Blob,An Affair to Remember]
 -
-   season_title: Movies That Created a Real Life Reaction
+   season_title: Films That Created a Real Life Reaction
    description: ...like War of the Worlds did on the radio
    completed: FALSE
    episodes: ["104"]
    films: []
 -
-   season_title: Movies where someone is dancing to music only they can hear
+   season_title: Films where someone is dancing to music only they can hear
    description: ...wearing headphones or whatever
    completed: FALSE
    episodes: ["104"]
    films: [500 Days of Summer]
 -
-   season_title: Movies with Movies in
+   season_title: Films with Films in
    description: ...films that feature other films
    completed: TRUE
    episodes: ["104"]
    films: ["Be Kind, Rewind",Zombieland,Cinema Paradiso]
 -
-   season_title: Movies you thought were something else
+   season_title: Films you thought were something else
    description: ...unexpected misunderstandings
    completed: FALSE
    episodes: ["104"]
@@ -659,11 +659,11 @@
    episodes: ["103"]
    films: []
 -
-   season_title: Six word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
-   films: []
+   season_title: 6ix Word Titles
+   description: ...movies with Six Words in the title
+   completed: TRUE
+   episodes: ["103", "201"]
+   films: ["The Best Little Whorehouse in Texas" , "He's Just Not That Into You" , "The Hand That Rocks The Cradle"]
 -
    season_title: Slapstick
    description: ...violence as comedy
@@ -743,16 +743,10 @@
    episodes: ["104"]
    films: []
 -
-   season_title: Three Word Movies
+   season_title: Three Word Titles
    description: Films with three words in their title
    completed: FALSE
-   episodes: ["102"]
-   films: []
--
-   season_title: Three word Titles
-   description: ...
-   completed: FALSE
-   episodes: ["103"]
+   episodes: ["102", "103"]
    films: []
 -
    season_title: Timeloop Movies
@@ -773,13 +767,13 @@
    episodes: ["102"]
    films: []
 -
-   season_title: Tom Hanks Movies... about aids
+   season_title: Tom Hanks Films... about aids
    description: ...quite specific
    completed: FALSE
    episodes: ["104"]
    films: [Philadelphia]
 -
-   season_title: Tom Hanks Movies... featuring accents
+   season_title: Tom Hanks Films... featuring accents
    description: ...less specific
    completed: FALSE
    episodes: ["104"]
@@ -791,7 +785,7 @@
    episodes: ["102"]
    films: []
 -
-   season_title: Two word Titles
+   season_title: Two Word Titles
    description: ...
    completed: FALSE
    episodes: ["103"]
@@ -878,7 +872,7 @@
    season_title: Big Best Friends
    description: ...larger pals
    completed: FALSE
-   episodes: ["105"]
+   episodes: ["105", "210"]
    films: []
 -
    season_title: Giant Fruit Season
@@ -1007,7 +1001,7 @@
    episodes: ["106"]
    films: []
 -
-   season_title: Movies We've Watched Too Many Times
+   season_title: Films We've Watched Too Many Times
    description: ...but don't fit somewhere else
    completed: FALSE
    episodes: ["106"]
@@ -1029,9 +1023,9 @@
    description: ...books, plays and stories written before 1900
    completed: TRUE
    episodes: ["106"]
-   films: [O , "She's The Man" , Clueless]
+   films: [O 2001 , "She's The Man" , Clueless]
 -
-   season_title: Croquet Movies
+   season_title: Croquet Films
    description: ...featuring the aforementioned ball hitting sport
    completed: FALSE
    episodes: ["106"]
@@ -1049,7 +1043,7 @@
    episodes: ["106"]
    films: []
 -
-   season_title: "Lil' Cameo from Big Movie Stars"
+   season_title: "Lil' Cameo from Big Music Stars"
    description: ...where a famous person from music plays a character in the film that is not in the film for a significant length of time, but not playing themelves
    completed: FALSE
    episodes: ["106"]
@@ -1079,7 +1073,7 @@
    episodes: ["106"]
    films: []
 -
-   season_title: High School Movies with Time Travel
+   season_title: High School Films with Time Travel
    description: ...studends mess about with time
    completed: FALSE
    episodes: ["106"]
@@ -1109,7 +1103,7 @@
    episodes: ["106"]
    films: []
 -
-   season_title: Movies about dancing
+   season_title: Films about dancing
    description: ...not featuring dancing, but where dancing is the subject of the movie
    completed: FALSE
    episodes: ["106"]
@@ -1121,11 +1115,11 @@
    episodes: ["106"]
    films: [Harvey , "Guillermo del Toro's Pinocchio" , Pinocchio]
 -
-   season_title: Movies with little pals
+   season_title: With little pals
    description: ...could be worms, an insect, a mouse, you know a buddy that comes with you in your pocket
-   completed: FALSE
-   episodes: ["106"]
-   films: []
+   completed: TRUE
+   episodes: ["106", "201"]
+   films: [Ratatouille , Mulan , Indian In The Cupboard]
 -
    season_title: Sports Biopics
    description: ...about a sporting moment or person or sport
@@ -1133,13 +1127,13 @@
    episodes: ["106"]
    films: []
 -
-   season_title: Movies about suicide
+   season_title: About suicide
    description: ...yeesh bit dark but, there's some good ones
    completed: FALSE
    episodes: ["106"]
    films: []
 -
-   season_title: Movies about cars
+   season_title: About cars
    description: ...but with personality
    completed: FALSE
    episodes: ["106"]
@@ -1217,7 +1211,7 @@
    episodes: ["106"]
    films: [Roxanne , Tusk , Dumbo]
 -
-   season_title: Movies About Lying
+   season_title: About Lying
    description: ...honking great mistruths
    completed: TRUE
    episodes: ["106"]
@@ -1253,7 +1247,7 @@
    episodes: ["107"]
    films: [My Fair Lady , Oliver , Chitty Chitty Bang Bang]
 -
-   season_title: Christmas Not Christmas... Evening Big Movies
+   season_title: Christmas Not Christmas... Evening Big Films
    description: ...big movies to watch at christmas which aren't christmas films
    completed: TRUE
    episodes: ["107"]
@@ -1325,19 +1319,19 @@
    episodes: ["107"]
    films: []
 -
-   season_title: Blue Coat Movies
+   season_title: Blue Coat Films
    description: ...character wears a blue coat
    completed: FALSE
    episodes: ["107"]
    films: []
 -
-   season_title: Red Hat Movies
+   season_title: Red Hat Films
    description: ...prominent character wears a red hat
    completed: FALSE
    episodes: ["107"]
    films: []
 -
-   season_title: Movies With Famous Sandwiches
+   season_title: Films With Famous Sandwiches
    description: ...bread and bread with joy between
    completed: FALSE
    episodes: ["107"]
@@ -1367,7 +1361,7 @@
    episodes: ["107"]
    films: []
 -
-   season_title: Movies That Are Good With Adverts
+   season_title: Good With Adverts
    description: ...films that are improved by being spaced out by supporting adverts
    completed: FALSE
    episodes: ["107"]
@@ -1461,4 +1455,268 @@
    description: ...movies with a prominent nanny
    completed: FALSE
    episodes: ["107"]
+   films: []
+-
+   season_title: Films That You Refuse To Watch For Political Reasons
+   description: ...movies that you will not watch. Can be purely subjective. Inspired by a tweet by Alex Kealy
+   completed: FALSE
+   episodes: []
+   films: []
+-
+   season_title: Scenes Where Someone Looks Into A Fridge
+   description: ...movies that include seminal fridge door escapades
+   completed: FALSE
+   episodes: []
+   films: []
+-
+   season_title: Benefits
+   description: ...we had to do this one given our name change. We think this is about characters that are receiving government support in some way. Dole movies if you will.
+   completed: TRUE
+   episodes: ["201"]
+   films: ["I, Daniel Blake" , Full Monty , Precious]
+-
+   season_title: Colon Films
+   description: ...films that have a colon in the title
+   completed: TRUE
+   episodes: ["201"]
+   films: ["Alvin & The Chipmunks: The Squeakquel" , "batman v superman: dawn of justice" , "Bridget Jones Diary: Edge Of Reason"]
+-
+   season_title: Unexpected Parenthesis
+   description: ...films that have a parenthesis in the title, but you don't expect it
+   completed: FALSE
+   episodes: ["201"]
+   films: ["Once upon a time… in hollywood"]
+-
+   season_title: Salsa Dancing On A Cruise Ship
+   description: ...dancing happens. cruise ship location
+   completed: FALSE
+   episodes: ["201"]
+   films: ["How Stella Got Her Groove Back"]
+-
+   season_title: Dance Empowerment
+   description: ...dance changes a character for the better
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: I'm in Love with Taye Diggs
+   description: ...Marianne had a biographical time in which Taye Diggs featured prominently
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: That Have The Names Of Beer in the Title
+   description: ...product placement or not of the drinky variety
+   completed: FALSE
+   episodes: ["201"]
+   films: ["Air Bud" ]
+-
+   season_title: Little Boys In Red Dungarees
+   description: ...well dressed kids, specifically boys and dungarees of the rouge variety
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: You Would See in a rental Shop
+   description: ...these are DVDs but most likely VHS that you would frequently see and remember on the shelf in the old walk in rental shops
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Mash Potato Films
+   description: ...mash it baby.
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Eyeball Movies
+   description: ...an eyeball features prominently. I'm not 100%
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Where Someone Stands Up In the back of a Roofless car
+   description: ...either a utility vehicle though most likely a limo with a sunroof
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: With Six In The Title
+   description: ...the title features an actual number, 6.
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Duck Umbrella
+   description: ... Mary Poppins features a duck umbrella. There are maybe more
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Friends With Benefits AKA Shaggin' Ya Mates
+   description: ...in which characters once friends fall in fuck with each other
+   completed: TRUE
+   episodes: ["201"]
+   films: [Friends With Benefits , No Strings Attached , Zack and Miri Make a Porno]
+-
+   season_title: Kooky Couple Cooking
+   description: ...a couple cooks together, most likely through love.
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: DVD with Toy
+   description: ...or you know collectors edition statuettes. That sort of shit.
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Altered Versions Of Studio Logos
+   description: ...the opening logo is rethemed deliberately, and against brand guidelines (but obviously permitted byt the studio)
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Fictional Search Engines
+   description: ...characters use 'search.com' or whatever the company makes up to avoid the £20 google on screenfee
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Films About Men Taking Their Clothes Off That King Charles Watches Exclusively
+   description: ...so our king only watches films in which men take their clothes off. These are the best of them, by royal decree
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Spawned a Musical
+   description: ...inspired a stage musical
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Spawned a TV Show
+   description: ...inspired a series of TV episodes
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Filthy Toilets
+   description: ...with dirty toilets in 'em
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Addiction
+   description: ...characters are obsessed with doing something
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Kicked In The Groin
+   description: ...someoner receives a groinal blow
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Sean Connery Impressions
+   description: ...schplendid. Tennish?
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Head Twisting
+   description: ...ouch
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Famous People With Dowdy Roles
+   description: ...cameos with an unexpected, unmade up celeb
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Stalkers
+   description: ...someone is watching someone, probably chasing them
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Playful Male Genetalia
+   description: ...I think it means the title. Willy Wonka and the Chocolate Factory was the original inspiration. 
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Films With A Chocolate Factory
+   description: ...that feature the inclusion, location or discussion of chocolate factories
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: with Tumours
+   description: ...about cancer and that. Probably Sad
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Mile High Club
+   description: ...shaggin' on a plane
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Spaghetti Rap Films
+   description: ...quite specific, mom's spaghetti
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Set Entirely On a Plane
+   description: ...the venue is decided and it flies
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Set Entirely In Small Spaces
+   description: ...the venue inspires claustrophobia
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Titles Without a Verb
+   description: ...just subjects and adjectives
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: where someone ends up with a face covered in cocaine
+   description: ...drug film with a powdered face shown
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Dog Companions
+   description: ...sort of Turner & Hooch territory
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Where the Rainforest Is Dying
+   description: ...nature man
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Castaway Films
+   description: ...characters are isolated on an island for some length of time
+   completed: FALSE
+   episodes: ["201"]
+   films: []
+-
+   season_title: Mile Films
+   description: ...a mile is involved somewhere
+   completed: FALSE
+   episodes: ["201"]
    films: []
