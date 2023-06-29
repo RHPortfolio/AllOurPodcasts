@@ -59,11 +59,13 @@ collections:
   - seasons
   - disney
   - gbbo
-
+  - benefits
 
 collections_dir: podcasts
 
 collections:
+  benefits:
+    output: true
   disney:
     output: true
   gbbo:
@@ -76,9 +78,27 @@ feed:
     - seasons
     - gbbo
     - disney
+    - benefits
 
 
 defaults:
+  - scope:
+      path: ""
+      type: "benefits" # a collection in your site, in plural form
+    values:
+      podcast_url: /benefits.xml
+      podcast_album_art: /assets/3000x3000_Films-with-benefits_Podcast_Art.jpg
+      podcast_owner: Me3 Comedy (Marianne MacRae and Richard Hanrahan)
+      podcast_email: meThreeComedy@gmail.com
+      podcast_category: "TV & Film"
+      podcast_explicit: "yes"
+      podcast_author: Me3 Comedy
+      description: Improvised film festivals offered by married comedy duo Marianne MacRae and Richard Hanrahan. Each week, Marianne and Richard curate three unique film seasons in each episode - from heartwarming classics to hidden gems, all the way to Mrs Doubtfire, again... So grab a bag of popcorn and get ready as we dive into curating imaginary film festivals that no one will ever see!
+      podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
+      podcast_subtitle: Curating imaginary film festivals that no one will ever see
+      podcast_title_prefix: "FWB"
+      itunes_url: "TBD"
+      spotify_url: "TBD"
   - scope:
       path: ""
       type: "seasons" # a collection in your site, in plural form
