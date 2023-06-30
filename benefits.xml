@@ -1,4 +1,4 @@
 ---
 layout: null
 ---
-{% include podcast.xml ext="mp3" podcast=site.data.benefits episodes=site.benefits %}
+{% include podcast.xml ext="m4a" podcast=site.data.benefits episodes=site.benefits %}
