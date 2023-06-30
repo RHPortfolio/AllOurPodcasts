@@ -114,3 +114,16 @@ Seasons podcast.
 
 `
 
+
+
+# Where on earth does data come from?
+
+Want to move to a single source of truth. Currently data for a podcast is housed:
+- Podcasts YML file
+- Individual YML file for each podcast
+- Config File
+
+So in my insantiy, I want to identiy where each bit gets its info, and cut it down!!
+
+## podcast.xml Template
+Podcast Feeds are generated based on the data in individual Podcast YML files.
