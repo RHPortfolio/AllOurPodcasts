@@ -1,7 +1,7 @@
 ---
 layout: podcast
 title: "Films With... Benefits"
-permalink: /podcasts/benefits
+permalink: /podcasts/films-with-benefits
 collection: "benefits"
 podcast: "benefits"
 id: "benefits"
