@@ -12,6 +12,7 @@
     <generator>http://jekyllrb.com</generator>
     <podcast:locked>no</podcast:locked>
     <podcast:guid>{{include.podcast.guid}}</podcast:guid>
+    <podcast:funding url="https://www.me3comedy.com/support">Support</podcast:funding>
     <itunes:summary>{{ include.podcast.podcast_summary | xml_escape }}</itunes:summary>
     <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
     <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
