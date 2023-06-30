@@ -5,8 +5,7 @@ episode_number: 1
 title: "Series 6 Episode 1 (Madeira Cake)"
 date: 2015-08-06 10:30:50 +0100
 categories: podcast gbbo
-link: https://archive.org/download/2015806001Me3ComedGBBOEpisode1/2015-8-06-001-Me3_Comed--GBBO-Episode1.mp3
-podcast_link: https://archive.org/download/2015806001Me3ComedGBBOEpisode1/2015-8-06-001-Me3_Comed--GBBO-Episode1.mp3
+episode_audio_link: https://archive.org/download/2015806001Me3ComedGBBOEpisode1/2015-8-06-001-Me3_Comed--GBBO-Episode1.mp3
 audio_filesize: 28395962
 audio_duration: "19:42"
 ---

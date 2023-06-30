@@ -5,8 +5,7 @@ episode_number: 1
 title:  "Films with Benefits, Films with Lil' Pals and 6ix Word Titles"
 date:   2023-06-22 09:30:00 +0100
 categories: podcast benefits
-link: https://archive.org/download/films-with-benefits-201-films-with-benefts/Films%20With%20Benefits%20%23201%20-%20Films%20With%20Benefts.m4a
-podcast_link: https://archive.org/download/films-with-benefits-201-films-with-benefts/Films%20With%20Benefits%20%23201%20-%20Films%20With%20Benefts.m4a
+episode_audio_link: "https://ia802709.us.archive.org/20/items/films-with-benefits-201-films-with-benefts/Films_With_Benefits_201_-_Films_With_Benefts.m4a"
 audio_filesize: 143636615
 audio_duration: "01:18:46"
 player_image_url: "https://archive.org/download/films-with-benefits-podcast-artwork-me3-comedy/Films-with-benefits_Podcast_Art-min.png"

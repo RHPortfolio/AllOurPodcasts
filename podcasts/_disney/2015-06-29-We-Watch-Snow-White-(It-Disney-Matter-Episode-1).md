@@ -5,8 +5,7 @@ episode_number: 1
 title:  "We Watch Snow White"
 date:   2015-06-29 09:34:58 +0100
 categories: podcast disney
-link: https://archive.org/download/2015729001Me3ComedyDisneyPodcastEpisode1SnowWhite/2015-7-29-001-Me3_Comedy--Disney-Podcast--Episode-1--Snow-White.mp3
-podcast_link: https://archive.org/download/2015729001Me3ComedyDisneyPodcastEpisode1SnowWhite/2015-7-29-001-Me3_Comedy--Disney-Podcast--Episode-1--Snow-White.mp3
+episode_audio_link: https://archive.org/download/2015729001Me3ComedyDisneyPodcastEpisode1SnowWhite/2015-7-29-001-Me3_Comedy--Disney-Podcast--Episode-1--Snow-White.mp3
 audio_filesize: 85614518
 audio_duration: "59:26"
 

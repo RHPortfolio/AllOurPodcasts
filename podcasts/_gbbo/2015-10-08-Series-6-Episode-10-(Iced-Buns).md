@@ -5,8 +5,7 @@ episode_number: 10
 title: "Series 6 Episode 10 (Iced Buns)"
 date: 2015-10-08 22:40:44 +0100
 categories: podcast gbbo series-6 season-6
-link: https://archive.org/download/20151008010Me3ComedyGBBOWeek10/2015-10-08-010-Me3_Comedy--GBBO-Week10.mp3
-podcast_link: https://archive.org/download/20151008010Me3ComedyGBBOWeek10/2015-10-08-010-Me3_Comedy--GBBO-Week10.mp3
+episode_audio_link: https://archive.org/download/20151008010Me3ComedyGBBOWeek10/2015-10-08-010-Me3_Comedy--GBBO-Week10.mp3
 audio_filesize: 40531511
 audio_duration: "28:07"
 ---

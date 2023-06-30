@@ -5,8 +5,7 @@ episode_number: 3
 title: "Series 7 Episode 3 (Dampfnudel)"
 date: 2016-09-21 10:29:45
 categories: podcast gbbo series-7 season-7
-link: https://archive.org/download/TheGreatBritishBitchOff01/2016-09-01--703-GBBO-Episode%203.mp3
-podcast_link: https://archive.org/download/TheGreatBritishBitchOff01/2016-09-01--703-GBBO-Episode%203.mp3
+episode_audio_link: https://archive.org/download/TheGreatBritishBitchOff01/2016-09-01--703-GBBO-Episode%203.mp3
 audio_filesize: 41760256
 audio_duration: "50:23"
 ---

@@ -5,8 +5,7 @@ episode_number: 8
 title: "Series 7 Episode 8 - Leaky Candice (Tumbles)"
 date: 2016-10-16 18:03:27
 categories: podcast gbbo series-7 season-7
-link: https://archive.org/download/GBBO70820161014/GBBO-708--2016-10-14.mp3
-podcast_link: https://archive.org/download/GBBO70820161014/GBBO-708--2016-10-14.mp3
+episode_audio_link: https://archive.org/download/GBBO70820161014/GBBO-708--2016-10-14.mp3
 audio_filesize: 39354880
 audio_duration: "47:54"
 ---
