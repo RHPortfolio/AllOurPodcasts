@@ -97,8 +97,11 @@ defaults:
       podcast_summary: Acclaimed poet Marianne MacRae and some time Edinburgh Festival Stand-up comedian Richard Hanrahan share their married life with the world through the medium of madcap Film Festivals.
       podcast_subtitle: Curating imaginary film festivals that no one will ever see
       podcast_title_prefix: "FWB"
-      itunes_url: "TBD"
-      spotify_url: "TBD"
+      itunes_url: "https://podcasts.apple.com/us/podcast/films-with-benefits/id1695224701"
+      spotify_url: "https://open.spotify.com/show/6if2ybHZUwrw0xwySWpPEq"
+      youtube_url: "https://www.youtube.com/playlist?list=PL8CV761xcMKajJSbjEjRgUaKgQYuAvkGf"
+      google_url: ""
+      guid: "2f0d5d38-f9d3-5f37-97d4-fe32b1f182e0"
   - scope:
       path: ""
       type: "seasons" # a collection in your site, in plural form
