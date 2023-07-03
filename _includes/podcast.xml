@@ -13,6 +13,10 @@
     <podcast:locked>no</podcast:locked>
     <podcast:guid>{{include.podcast.guid}}</podcast:guid>
     <podcast:funding url="https://www.me3comedy.com/support">Support</podcast:funding>
+    <podcast:person
+        href="https://www.richardhanrahan.co.uk/"
+        img="https://lh3.googleusercontent.com/_ikx4JeHVqqm_ZYhedeh3VvK6OknBWl6NkOPSs1BjA87qvQTy1KNS33wzBLOcnBc5LaR__P-NmlliZFz56Odcnxq3J8iOdcapCqjev1ac4XWWnBE=w1280">Richard Hanrahan</podcast:person>
+    <podcast:medium>podcast</podcast:medium>
     <itunes:summary>{{ include.podcast.podcast_summary | xml_escape }}</itunes:summary>
     <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
     <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
@@ -43,7 +47,7 @@
   {% assign eps = include.episodes | reverse %}
   {% for ep in eps %}
     <item>
-        <title>{{include.podcast.podcast_title_prefix}} #{{ ep.season_number}}{% if ep.episode_number <= 9 %}0{% endif %}{{ ep.episode_number}}: {{ ep.title | xml_escape }}</title>
+        <title>{{ ep.title | xml_escape }}</title>
         <link>{{ site.url | append: ep.url | xml_escape }}</link>
         <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
         <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
@@ -61,8 +65,14 @@
         <enclosure url="{{ ep.episode_audio_link }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
         <itunes:title>{{ ep.title | xml_escape }}</itunes:title>
         <itunes:subtitle>{{ include.podcast.podcast_subtitle }}</itunes:subtitle>
-        {% if ep.season_number %}<itunes:season>{{ep.season_number}}</itunes:season>{% endif %}
-        {% if ep.episode_number %}<itunes:episode>{{ep.episode_number}}</itunes:episode>{% endif %}
+        {% if ep.season_number %}
+            <itunes:season>{{ep.season_number}}</itunes:season>
+            <podcast:season>{{ep.season_number}}</podcast:season>
+        {% endif %}
+        {% if ep.episode_number %}
+            <itunes:episode>{{ep.episode_number}}</itunes:episode>
+            <podcast:episode>{{ep.episode_number}}</podcast:episode>
+        {% endif %}
         <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape | strip_html }}</itunes:summary>
         <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
         <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
