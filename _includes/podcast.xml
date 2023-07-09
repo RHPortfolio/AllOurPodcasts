@@ -1,84 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+{% assign _podcast = include.podcast %}
+{% assign _episodes = include.episodes | sort: "date" | reverse %}
+
 <channel>
-    <title>{{ include.podcast.podcast_title | xml_escape }}</title>
-    <atom:link href="{{ site.url | xml_escape }}{{ include.podcast.podcast_feed_url | xml_escape }}" rel="self" type="application/rss+xml" />
-    <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
-    <description>{{ include.podcast.description }}></description>
+    <title>{{ _podcast.podcast_title | xml_escape }}</title>
+    <atom:link href="{{ site.url | xml_escape }}{{ _podcast.podcast_feed_url | xml_escape }}" rel="self" type="application/rss+xml" />
+    <link>{{ site.url | xml_escape }}{{ _podcast.podcast_url | xml_escape }}</link>
+    <description>{{ _podcast.description }}></description>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
     <language>en-GB</language>
     <sy:updatePeriod>hourly</sy:updatePeriod>
     <sy:updateFrequency>1</sy:updateFrequency>
     <generator>http://jekyllrb.com</generator>
     <podcast:locked>no</podcast:locked>
-    <podcast:guid>{{include.podcast.guid}}</podcast:guid>
+    <podcast:guid>{{ _podcast.guid }}</podcast:guid>
     <podcast:funding url="https://www.me3comedy.com/support">Support</podcast:funding>
     <podcast:person
         href="https://www.richardhanrahan.co.uk/"
         img="https://lh3.googleusercontent.com/_ikx4JeHVqqm_ZYhedeh3VvK6OknBWl6NkOPSs1BjA87qvQTy1KNS33wzBLOcnBc5LaR__P-NmlliZFz56Odcnxq3J8iOdcapCqjev1ac4XWWnBE=w1280">Richard Hanrahan</podcast:person>
     <podcast:medium>podcast</podcast:medium>
-    <itunes:summary>{{ include.podcast.podcast_summary | xml_escape }}</itunes:summary>
-    <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
-    <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
+    <itunes:summary>{{ _podcast.podcast_summary | xml_escape }}</itunes:summary>
+    <itunes:author>{{ _podcast.podcast_author | xml_escape }}</itunes:author>
+    <itunes:explicit>{{ _podcast.podcast_explicit | xml_escape }}</itunes:explicit>
     <itunes:image
-      href="{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art }}"
+      href="{{ site.url | xml_escape }}{{ _podcast.podcast_album_art }}"
     />
     <itunes:owner>
-        <itunes:name>{{ include.podcast.podcast_owner | xml_escape }}</itunes:name>
-        <itunes:email>{{ include.podcast.podcast_email | xml_escape }}</itunes:email>
+        <itunes:name>{{ _podcast.podcast_owner | xml_escape }}</itunes:name>
+        <itunes:email>{{ _podcast.podcast_email | xml_escape }}</itunes:email>
     </itunes:owner>
-    <managingEditor>{{ include.podcast.podcast_email | xml_escape }} ({{ include.podcast.podcast_owner | xml_escape }})</managingEditor>
-    <itunes:subtitle>{{ include.podcast.podcast_subtitle | xml_escape }}</itunes:subtitle>
+    <managingEditor>{{ _podcast.podcast_email | xml_escape }} ({{ _podcast.podcast_owner | xml_escape }})</managingEditor>
+    <itunes:subtitle>{{ _podcast.podcast_subtitle | xml_escape }}</itunes:subtitle>
     <image>
-        <title>{{ include.podcast.podcast_title | xml_escape }}</title>
-        <url>{{ site.url | xml_escape }}{{ include.podcast.podcast_album_art | xml_escape }}</url>
-        <link>{{ site.url | xml_escape }}{{ include.podcast.podcast_url | xml_escape }}</link>
+        <title>{{ _podcast.podcast_title | xml_escape }}</title>
+        <url>{{ site.url | xml_escape }}{{ _podcast.podcast_album_art | xml_escape }}</url>
+        <link>{{ site.url | xml_escape }}{{ _podcast.podcast_url | xml_escape }}</link>
     </image>
-    <itunes:category text="{{ include.podcast.podcast_category | xml_escape }}">
-        {% if include.podcast.podcast_subcategory_one %}
-          <itunes:category text="{{ include.podcast.podcast_subcategory_one | xml_escape }}" />
+    <itunes:category text="{{ _podcast.podcast_category | xml_escape }}">
+        {% if _podcast.podcast_subcategory_one %}
+          <itunes:category text="{{ _podcast.podcast_subcategory_one | xml_escape }}" />
         {% endif %}
-        {% if include.podcast.podcast_subcategory_two %}
-            </itunes:category><itunes:category text="{{ include.podcast.podcast_category | xml_escape }}">
-            <itunes:category text="{{ include.podcast.podcast_subcategory_two | xml_escape }}" />
+        {% if _podcast.podcast_subcategory_two %}
+            </itunes:category><itunes:category text="{{ _podcast.podcast_category | xml_escape }}">
+            <itunes:category text="{{ _podcast.podcast_subcategory_two | xml_escape }}" />
         {% endif %}
     </itunes:category>
 
-  {% assign eps = include.episodes | reverse %}
-  {% for ep in eps %}
-    <item>
-        <title>{{ ep.title | xml_escape }}</title>
-        <link>{{ site.url | append: ep.url | xml_escape }}</link>
-        <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-        <dc:creator><![CDATA[{{ site.author | cdata_escape }}]]></dc:creator>
-    {% for category in ep.categories %}
-        <category><![CDATA[{{category | cdata_escape }}]]></category>
-    {% endfor %}
-    {% for category in ep.tags %}
-        <category><![CDATA[{{ category | cdata_escape }}]]></category>
-    {% endfor %}
-        <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{% if ep.podcast_guid %}/{{ ep.podcast_guid | xml_escape }}{% else %}{{ site.url | append: ep.url | xml_escape }}{% endif %}</guid>
-        <description><![CDATA[{{ ep.content | append: include.podcast.post_description | cdata_escape }}]]></description>
-        <content:encoded>
-            <![CDATA[{{ ep.content | expand_urls: include.podcast.podcast_url | cdata_escape }}]]>
-        </content:encoded>
-        <enclosure url="{{ ep.episode_audio_link }}" length="{{ ep.audio_filesize | default:100000000 }}" type="audio/{% if (include.ext == "mp3") %}mpeg{% else %}{{include.ext}}{% endif %}" />
-        <itunes:title>{{ ep.title | xml_escape }}</itunes:title>
-        <itunes:subtitle>{{ include.podcast.podcast_subtitle }}</itunes:subtitle>
-        {% if ep.season_number %}
-            <itunes:season>{{ep.season_number}}</itunes:season>
-            <podcast:season>{{ep.season_number}}</podcast:season>
-        {% endif %}
-        {% if ep.episode_number %}
-            <itunes:episode>{{ep.episode_number}}</itunes:episode>
-            <podcast:episode>{{ep.episode_number}}</podcast:episode>
-        {% endif %}
-        <itunes:summary>{{ ep.content | expand_urls: site.podcast_url | cdata_escape | strip_html }}</itunes:summary>
-        <itunes:author>{{ include.podcast.podcast_author | xml_escape }}</itunes:author>
-        <itunes:explicit>{{ include.podcast.podcast_explicit | xml_escape }}</itunes:explicit>
-        <itunes:keywords>{% for podcast_category in include.podcast.categories %}{{podcast_category}}, {% endfor %}{% for podcast_tag in include.podcast.tags %}{{podcast_tag}}, {% endfor %}{% for category in ep.categories %}{{category}},  {% endfor %}{% for tag in ep.tags %}{{tag}}, {% endfor %}</itunes:keywords>
-        <itunes:duration>{{ ep.audio_duration | default="55:00" | xml_escape }}</itunes:duration>
-    </item>
+  {% for ep in _episodes %}
+    {% include feed-item.xml ep=ep pod=_podcast ext=ep.ext %}
   {% endfor %}
+
 </channel>
 </rss>
