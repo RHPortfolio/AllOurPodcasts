@@ -5,6 +5,7 @@ episode_number: 1
 title:  "We Watch The Lion Guard"
 date:   2022-10-01 09:34:58 +0100
 categories: podcast disney
+ext: "mp3"
 episode_audio_link: https://archive.org/download/idm-007-2022-10-04-the-lion-guard/IDM_007_2022-10-04-The_Lion_Guard.mp3
 audio_filesize: 105477772
 audio_duration: "54:56"

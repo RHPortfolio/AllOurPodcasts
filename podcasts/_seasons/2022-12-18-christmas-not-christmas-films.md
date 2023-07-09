@@ -5,6 +5,7 @@ episode_number: 7
 title:  "Christmas, Not Christmas Films"
 date: 2022-12-19 08:30:00 +0000
 categories: podcast seasons
+ext: "mp3"
 episode_audio_link: https://ia601503.us.archive.org/34/items/seasons-107-christmas-films-not-christmas-films/Seasons%20%23107%20-%20Christmas%20Films%20Not%20Christmas%20Films.m4a
 audio_filesize: 122637796
 audio_duration: "01:10:56"

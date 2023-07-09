@@ -5,6 +5,7 @@ episode_number: 2
 title:  "We Watch Pinoccio"
 date:   2015-08-18 09:34:58 +0100
 categories: podcast disney
+ext: "mp3"
 episode_audio_link: https://archive.org/download/2015818002Me3ComedyItDisneyMatterItDoesEpisode2Pinocchio/2015-8-18-002-Me3_Comedy--It_Disney_Matter%28It_Does%29--Episode-2--Pinocchio.mp3
 audio_filesize: 90840128
 audio_duration: "1:03:02"

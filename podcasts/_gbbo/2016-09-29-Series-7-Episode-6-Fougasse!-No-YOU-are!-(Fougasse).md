@@ -5,6 +5,7 @@ episode_number: 6
 title: "Series 7 Episode 6 - Fougasse! No YOU are! (Fougasse)"
 date: 2016-09-29 09:46:44
 categories: podcast gbbo series-7 season-7
+ext: "mp3"
 episode_audio_link: https://archive.org/download/GBBO70620160929/GBBO-706--2016-09-29.mp3
 audio_filesize: 45315584
 audio_duration: "55:07"

@@ -5,6 +5,7 @@ episode_number: 4
 title: "Series 7 Episode 4 Claire Balding and a Swan (Lace Pancakes)"
 date: 2016-09-22 12:21:23
 categories: podcast gbbo series-7 season-7
+ext: "mp3"
 episode_audio_link: https://archive.org/download/20160922704GBBOEpisode4/2016-09-22--704-GBBO-Episode%204.mp3
 audio_filesize: 46541824
 audio_duration: "56:36"

@@ -5,6 +5,7 @@ episode_number: 5
 title:  "Tearjerkers, Live-Action Animation Crossovers, Films Not Like Films and Arthouse Nonsense"
 date: 2022-12-02 08:30:00 +0000
 categories: podcast seasons
+ext: "mp3"
 episode_audio_link: https://archive.org/download/seasons-105-tearjerkers-live-action-animation-crossovers-films-not-like-films-and-arthouse-nonsense/Seasons%20%23105%20Tearjerkers%2C%20Live-Action%20Animation%20Crossovers%2C%20Films%20Not%20Like%20Films%20and%20Arthouse%20Nonsense.mp3
 audio_filesize: 152219066
 audio_duration: "01:19:09"

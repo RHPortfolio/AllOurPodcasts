@@ -5,6 +5,7 @@ episode_number: 1
 title: "Series 7 Episode 1 Les Drizzerables (Jaffa Cakes)"
 date: 2016-08-26 11:55:29 +0100
 categories: podcast gbbo series-7 season-7
+ext: "mp3"
 episode_audio_link: https://archive.org/download/ME3GBBOS2E1LesDrizzerables2508/ME3_GBBO_S2E1_LesDrizzerables%2825-08%29.mp3
 audio_filesize: 70899200
 audio_duration: "1:01:30"

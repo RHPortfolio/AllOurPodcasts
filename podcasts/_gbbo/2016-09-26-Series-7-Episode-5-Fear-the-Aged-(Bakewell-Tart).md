@@ -5,6 +5,7 @@ episode_number: 5
 title: "Series 7 Episode 5 - Fear the Aged (Bakewell Tart)"
 date: 2016-09-28 09:46:44
 categories: podcast gbbo series-7 season-7
+ext: "mp3"
 episode_audio_link: https://archive.org/download/GBBO70520160926/GBBO-705--2016-09-26.mp3
 audio_filesize: 48109056
 audio_duration: "58:13"

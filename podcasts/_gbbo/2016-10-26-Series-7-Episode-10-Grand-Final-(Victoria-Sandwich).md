@@ -5,6 +5,7 @@ episode_number: 10
 title:  "Series 7 Episode 10 - Grand Final (Victoria Sandwich)"
 date: 2016-10-27 15:21:21 +0100
 categories: podcast gbbo
+ext: "mp3"
 episode_audio_link: https://archive.org/download/GBBO71020161026/GBBO-710--2016-10-26.mp3
 audio_filesize: 48680448
 audio_duration: "38:43"
