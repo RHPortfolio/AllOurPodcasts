@@ -15,7 +15,7 @@
       <p> {{ include.season.description}} </p>
       <ul class="films">
       {% for film in include.season.films %}
-      {% assign _title-key = film | replace: " ", "-" | downcase %}
+      {% assign _title-key = film.title | replace: " ", "-" | downcase %}
       {% assign _film-meta = site.data.films-tmdb | where: "title_key", _title-key | first %}
         <li><a href="https://www.themoviedb.org/movie/{{_film-meta.id}}"><img class="film-posters" src="https://image.tmdb.org/t/p/w500/{{ _film-meta.poster_path}}" alt="{{ _film-meta.title }} ({{ _film-meta.release_date }})" /></a>
         </li>
