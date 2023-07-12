@@ -603,7 +603,7 @@
    description: A collection of films Richard thought were great when she was 7
    completed: TRUE
    episodes: ["103"]
-   films: [{title: Lion King}, {title: Home Alone}, {title: Ace Ventura}]
+   films: [{title: Lion King}, {title: Home Alone, year: 1990}, {title: Ace Ventura}]
 -
    season_title: Running Films
    description: ...the physical act

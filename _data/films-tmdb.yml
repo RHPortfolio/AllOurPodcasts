@@ -475,13 +475,6 @@
   popularity: 105.56
   poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
   release_date: '1994-06-24'
-- title_key: home-alone
-  title: Home Sweet Home Alone
-  id: 654974
-  original_title: Home Sweet Home Alone
-  popularity: 30.2
-  poster_path: "/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"
-  release_date: '2021-11-12'
 - title_key: ace-ventura
   title: 'Ace Ventura: Pet Detective'
   id: 3049
@@ -1238,3 +1231,269 @@
   popularity: 12.579
   poster_path: "/iGuiFYEYwFkaRPl3FgLJYEm6dWq.jpg"
   release_date: '1999-08-12'
+- title_key: four-weddings-and-a-funeral?
+  title: Four Weddings and a Funeral
+  id: 712
+  original_title: Four Weddings and a Funeral
+  popularity: 25.33
+  poster_path: "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg"
+  release_date: '1994-03-09'
+- title_key: die-hard?
+  title: Die Hard
+  id: 562
+  original_title: Die Hard
+  popularity: 75.662
+  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
+  release_date: '1988-07-15'
+- title_key: marley-and-me
+  title: 'Marley & Me: The Puppy Years'
+  id: 72391
+  original_title: 'Marley & Me: The Puppy Years'
+  popularity: 9.079
+  poster_path: "/4mQCF7U07cFkHwG3GKzpbnB8DHS.jpg"
+  release_date: '2011-06-01'
+- title_key: cock-and-bull-story
+  title: A Cock and Bull Story
+  id: 8435
+  original_title: A Cock and Bull Story
+  popularity: 11.493
+  poster_path: "/ww8nEKv3gPOfIkRMGS2A3j566Fr.jpg"
+  release_date: '2005-07-17'
+- title_key: stab
+  title: 'Female Prisoner Scorpion: Beast Stable'
+  id: 35282
+  original_title: 女囚さそり　けもの部屋
+  popularity: 8.461
+  poster_path: "/zHRhQ3v1pXCIB3LnOFdfTZso4nO.jpg"
+  release_date: '1973-07-29'
+- title_key: gone-with-the-wind?
+  title: Gone with the Wind
+  id: 770
+  original_title: Gone with the Wind
+  popularity: 38.783
+  poster_path: "/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg"
+  release_date: '1939-12-15'
+- title_key: i-am-sam
+  title: I Am Sam
+  id: 10950
+  original_title: I Am Sam
+  popularity: 21.01
+  poster_path: "/wSgAn3zhgwuTOhhvvqcdxVqTLts.jpg"
+  release_date: '2001-12-28'
+- title_key: stand-by-me
+  title: Stand by Me Doraemon
+  id: 265712
+  original_title: STAND BY ME ドラえもん
+  popularity: 130.312
+  poster_path: "/wc7XQbfx6EIQqCuvmBMt3aisb2Y.jpg"
+  release_date: '2014-08-08'
+- title_key: lost-in-translation
+  title: Lost in Translation
+  id: 153
+  original_title: Lost in Translation
+  popularity: 22.462
+  poster_path: "/4k4Yz08WGfbu8ITIjaG99XTeco8.jpg"
+  release_date: '2003-09-18'
+- title_key: science-of-sleep
+  title: The Science of Sleep
+  id: 300
+  original_title: La Science des rêves
+  popularity: 13.35
+  poster_path: "/1qCq228LsNtUseCnNE7Naw6NBUz.jpg"
+  release_date: '2006-02-11'
+- title_key: rambo:-first-blood
+  title: 'Rambo: First Blood Part II'
+  id: 1369
+  original_title: 'Rambo: First Blood Part II'
+  popularity: 46.994
+  poster_path: "/pzPdwOitmTleVE3YPMfIQgLh84p.jpg"
+  release_date: '1985-05-21'
+- title_key: 500-days-of-summer
+  title: "(500) Days of Summer"
+  id: 19913
+  original_title: "(500) Days of Summer"
+  popularity: 40.185
+  poster_path: "/f9mbM0YMLpYemcWx6o2WeiYQLDP.jpg"
+  release_date: '2009-07-17'
+- title_key: be-kind,-rewind
+  title: Be Kind Rewind
+  id: 4953
+  original_title: Be Kind Rewind
+  popularity: 11.413
+  poster_path: "/6vSig2xxiD5OUnSdn8bsc5ldNJb.jpg"
+  release_date: '2008-01-20'
+- title_key: seven?
+  title: Seven
+  id: 578207
+  original_title: Seven
+  popularity: 4.513
+  poster_path: "/yk2rWyacJmbJYQvFuUum2k4TQXn.jpg"
+  release_date: '2019-06-05'
+- title_key: once?
+  title: Once
+  id: 5723
+  original_title: Once
+  popularity: 12.318
+  poster_path: "/7nW363kSYRCkr4VGOMvuSGwtzKs.jpg"
+  release_date: '2007-03-23'
+- title_key: star-wars:-episode-6---return-of-the-jedi
+  title: Return of the Jedi
+  id: 1892
+  original_title: Return of the Jedi
+  popularity: 32.364
+  poster_path: "/jQYlydvHm3kUix1f8prMucrplhm.jpg"
+  release_date: '1983-05-25'
+- title_key: lion-king
+  title: The Lion King
+  id: 8587
+  original_title: The Lion King
+  popularity: 100.884
+  poster_path: "/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg"
+  release_date: '1994-06-24'
+- title_key: home-alone
+  title: Home Alone
+  id: 771
+  original_title: Home Alone
+  popularity: 1.907
+  poster_path: "/9wSbe4CwObACCQvaUVhWQyLR5Vz.jpg"
+  release_date: '1990-11-16'
+- title_key: ace-ventura
+  title: 'Ace Ventura: Pet Detective'
+  id: 3049
+  original_title: 'Ace Ventura: Pet Detective'
+  popularity: 26.17
+  poster_path: "/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg"
+  release_date: '1994-02-04'
+- title_key: hello-dolly
+  title: Hello, Dolly!
+  id: 14030
+  original_title: Hello, Dolly!
+  popularity: 16.678
+  poster_path: "/aPZOt9BR3gnk1RyX924ySq81S4P.jpg"
+  release_date: '1969-12-12'
+- title_key: jaws
+  title: Jaws
+  id: 578
+  original_title: Jaws
+  popularity: 55.588
+  poster_path: "/lxM6kqilAdpdhqUl2biYp5frUxE.jpg"
+  release_date: '1975-06-20'
+- title_key: die-hard?
+  title: Die Hard
+  id: 562
+  original_title: Die Hard
+  popularity: 75.662
+  poster_path: "/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg"
+  release_date: '1988-07-15'
+- title_key: all-the-president's-men
+  title: All the President's Men
+  id: 891
+  original_title: All the President's Men
+  popularity: 14.614
+  poster_path: "/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg"
+  release_date: '1976-01-18'
+- title_key: chip-n'-dale-rescue-rangers
+  title: 'Chip ''n Dale: Rescue Rangers'
+  id: 420821
+  original_title: 'Chip ''n Dale: Rescue Rangers'
+  popularity: 60.39
+  poster_path: "/7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg"
+  release_date: '2022-05-20'
+- title_key: james-and-the-giant-peach
+  title: James and the Giant Peach
+  id: 10539
+  original_title: James and the Giant Peach
+  popularity: 21.625
+  poster_path: "/nl2oB6EbD1fHFuP2TLUHDtqs7Ux.jpg"
+  release_date: '1996-04-12'
+- title_key: virgin-suicides
+  title: The Virgin Suicides
+  id: 1443
+  original_title: The Virgin Suicides
+  popularity: 20.35
+  poster_path: "/tlOGlAZgD1eIYCG5xrBozw86gmm.jpg"
+  release_date: '1999-12-31'
+- title_key: basketball-diaries
+  title: The Basketball Diaries
+  id: 10474
+  original_title: The Basketball Diaries
+  popularity: 23.928
+  poster_path: "/AhvO1GGDPIgN0hOqZEgaFCbswMK.jpg"
+  release_date: '1995-04-21'
+- title_key: dead-poets'-society
+  title: Dead Poets Society
+  id: 207
+  original_title: Dead Poets Society
+  popularity: 35.844
+  poster_path: "/ai40gM7SUaGA6fthvsd87o8IQq4.jpg"
+  release_date: '1989-06-02'
+- title_key: o-2001
+  title: O
+  id: 11065
+  original_title: O
+  popularity: 10.268
+  poster_path: "/u8mFQU3YwNvZWcATncaAHUfEEMr.jpg"
+  release_date: '2001-08-31'
+- title_key: she's-the-man
+  title: She's the Man
+  id: 9655
+  original_title: She's the Man
+  popularity: 26.968
+  poster_path: "/gdF2PEBdwoohpPqKL93eCk17zNO.jpg"
+  release_date: '2006-03-17'
+- title_key: team-america
+  title: 'Team America: World Police'
+  id: 3989
+  original_title: 'Team America: World Police'
+  popularity: 12.722
+  poster_path: "/m1Q2VFe1DVVbjfu1LDZe7tlp9yb.jpg"
+  release_date: '2004-10-10'
+- title_key: invention-of-lying
+  title: The Invention of Lying
+  id: 23082
+  original_title: The Invention of Lying
+  popularity: 18.679
+  poster_path: "/clP8tDZeM9jgnqmu4VBClBDpLtS.jpg"
+  release_date: '2009-09-13'
+- title_key: alvin-&-the-chipmunks:-the-squeakquel
+  title: 'Alvin and the Chipmunks: The Squeakquel'
+  id: 23398
+  original_title: 'Alvin and the Chipmunks: The Squeakquel'
+  popularity: 30.382
+  poster_path: "/8mdPqOga5fty15nXmaNcK1fsNMa.jpg"
+  release_date: '2009-12-21'
+- title_key: batman-v-superman:-dawn-of-justice
+  title: 'Batman v Superman: Dawn of Justice'
+  id: 209112
+  original_title: 'Batman v Superman: Dawn of Justice'
+  popularity: 74.798
+  poster_path: "/5UsK3grJvtQrtzEgqNlDljJW96w.jpg"
+  release_date: '2016-03-23'
+- title_key: bridget-jones-diary:-edge-of-reason
+  title: 'Bridget Jones: The Edge of Reason'
+  id: 9801
+  original_title: 'Bridget Jones: The Edge of Reason'
+  popularity: 17.509
+  poster_path: "/42v82AwTnhaL1JkNcQK8PRAh46P.jpg"
+  release_date: '2004-11-10'
+- title_key: once-upon-a-time…-in-hollywood
+  title: Once Upon a Time… in Hollywood
+  id: 466272
+  original_title: Once Upon a Time… in Hollywood
+  popularity: 49.158
+  poster_path: "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"
+  release_date: '2019-07-24'
+- title_key: friends-with-benefits
+  title: Friends with Benefits
+  id: 50544
+  original_title: Friends with Benefits
+  popularity: 40.954
+  poster_path: "/q4ZAmIIbe2LiLvhQT0q3e6pleYr.jpg"
+  release_date: '2011-07-21'
+- title_key: pennies-from-heaven
+  title: Pennies from Heaven
+  id: 17450
+  original_title: Pennies from Heaven
+  popularity: 7.191
+  poster_path: "/7dlangnB2vOcviHEwWy1IRGHLtk.jpg"
+  release_date: '1981-12-11'

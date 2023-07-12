@@ -2,7 +2,7 @@
 layout: episode_seasons
 season_number: 2
 episode_number: 2
-title:  "Films You'd Always See On A Shelf In A VHS Rental Shop, The Rainforest Is Dying And Steve Martin Films"
+title:  "Films You'd Always Seen On A Shelf In A VHS Rental Shop, The Rainforest Is Dying And Steve Martin Films"
 date: 2023-07-12 09:30:00 +0100
 categories: podcast benefits
 ext: "m4a"
